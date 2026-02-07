@@ -1,0 +1,9 @@
+file,description
+prophet_forecast.csv,Prophet model 12-month forecast with confidence intervals
+arima_forecast.csv,ARIMA model 12-month forecast with confidence intervals
+combined_forecast.csv,Ensemble forecast combining Prophet and ARIMA
+forecast_dashboard_ready.csv,Dashboard-ready format with date dimensions
+time_series_decomposition.csv,"Time series decomposition (trend, seasonal, residual)"
+seasonal_indices.csv,Monthly seasonality indices
+model_comparison.csv,"Model performance comparison (MAE, RMSE, MAPE)"
+monthly_revenue_aggregated.csv,Monthly revenue aggregation from transactions

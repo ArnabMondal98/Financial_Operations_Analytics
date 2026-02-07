@@ -1,0 +1,15 @@
+feature,importance
+days_since_last_transaction,0.46625584204172565
+transaction_frequency,0.338970541647529
+avg_monthly_revenue,0.055321005432649346
+customer_tenure_days,0.04426634283377584
+successful_transactions,0.035195302921713835
+total_transactions,0.02023136154278779
+payment_failure_rate,0.016416387241680076
+total_revenue,0.008924233302815261
+failed_transactions,0.0047149534733674225
+avg_transaction,0.00405553451271554
+monthly_fee,0.0030225952242019538
+industry_encoded,0.0012444123040625807
+country_encoded,0.0008271698014984626
+subscription_type_encoded,0.0005543177194773852

@@ -1,0 +1,10 @@
+metric,value
+total_customers,2481.0
+total_revenue,10377875.73
+avg_recency,67.65820233776702
+avg_frequency,11.92906086255542
+avg_monetary,4182.940640870617
+num_segments,10.0
+num_cohorts,48.0
+avg_retention_month1,inf
+avg_retention_month6,inf

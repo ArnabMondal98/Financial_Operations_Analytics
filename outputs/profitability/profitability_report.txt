@@ -1,0 +1,93 @@
+
+================================================================================
+                    CUSTOMER PROFITABILITY ANALYSIS REPORT
+                              2026-02-08
+================================================================================
+
+EXECUTIVE SUMMARY
+-----------------
+Total Customers Analyzed: 2,500
+Analysis Period: Full Customer Lifetime
+
+FINANCIAL OVERVIEW
+------------------
+Total Revenue:        $  10,377,875.73
+Total Costs:          $   3,355,708.88
+Gross Profit:         $   7,022,166.85
+Overall Margin:                  67.7%
+
+CUSTOMER PROFITABILITY
+----------------------
+Profitable Customers: 2,389 (95.6%)
+Loss-Making Customers: 111 (4.4%)
+
+Average Metrics:
+  • Avg Revenue per Customer:   $4,151.15
+  • Avg Cost per Customer:      $1,342.28
+  • Avg Profit per Customer:    $2,808.87
+  • Avg Profit Margin:          52.0%
+  • Avg Monthly Profit:         $219.17
+
+PROFITABILITY TIERS
+-------------------
+
+LOSS-MAKING:
+  Customers: 111 (4.4% of total)
+  Revenue: $13,857.46 (0.1% of total)
+  Profit: $-7,144.40 (-0.1% of total)
+  Avg Margin: -45.2%
+
+LOW PROFIT:
+  Customers: 93 (3.7% of total)
+  Revenue: $30,286.66 (0.3% of total)
+  Profit: $3,801.18 (0.1% of total)
+  Avg Margin: 11.2%
+
+MEDIUM PROFIT:
+  Customers: 451 (18.0% of total)
+  Revenue: $243,077.59 (2.3% of total)
+  Profit: $100,732.49 (1.4% of total)
+  Avg Margin: 39.1%
+
+HIGH PROFIT:
+  Customers: 1,845 (73.8% of total)
+  Revenue: $10,090,654.02 (97.2% of total)
+  Profit: $6,924,777.58 (98.6% of total)
+  Avg Margin: 63.0%
+
+TOP 10 MOST PROFITABLE CUSTOMERS
+--------------------------------
+ 1. CUST_000001 (Premium): $101,027.99 profit (74.2% margin)
+ 2. CUST_000121 (Premium): $72,826.21 profit (73.6% margin)
+ 3. CUST_000006 (Premium): $70,831.36 profit (73.0% margin)
+ 4. CUST_000124 (Premium): $70,754.34 profit (73.5% margin)
+ 5. CUST_000131 (Premium): $69,534.07 profit (73.5% margin)
+ 6. CUST_000221 (Premium): $67,701.24 profit (73.7% margin)
+ 7. CUST_000291 (Premium): $63,628.28 profit (73.8% margin)
+ 8. CUST_000424 (Premium): $61,036.15 profit (74.1% margin)
+ 9. CUST_000331 (Premium): $55,713.29 profit (73.5% margin)
+10. CUST_000435 (Premium): $54,044.39 profit (73.8% margin)
+
+TOP 10 LOSS-MAKING CUSTOMERS (Require Attention)
+------------------------------------------------
+ 1. CUST_000358 (Enterprise): $-607.28 loss
+ 2. CUST_000080 (Professional): $-606.49 loss
+ 3. CUST_000064 (Enterprise): $-505.40 loss
+ 4. CUST_000278 (Professional): $-387.00 loss
+ 5. CUST_000158 (Professional): $-337.71 loss
+ 6. CUST_002396 (Premium): $-323.00 loss
+ 7. CUST_000093 (Professional): $-311.61 loss
+ 8. CUST_000005 (Professional): $-255.36 loss
+ 9. CUST_002285 (Enterprise): $-236.50 loss
+10. CUST_002336 (Enterprise): $-225.83 loss
+
+RECOMMENDATIONS
+---------------
+1. HIGH PROFIT TIER: Maintain engagement, upsell opportunities
+2. MEDIUM PROFIT TIER: Optimize cost structure, increase usage
+3. LOW PROFIT TIER: Review pricing, reduce servicing costs
+4. LOSS-MAKING: Evaluate retention value, consider price adjustment
+
+================================================================================
+                              END OF REPORT
+================================================================================

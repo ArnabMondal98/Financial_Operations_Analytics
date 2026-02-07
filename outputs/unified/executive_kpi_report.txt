@@ -1,0 +1,15 @@
+
+==============================================================
+EXECUTIVE ANALYTICS SUMMARY REPORT
+Date: 2026-02-08
+==============================================================
+
+Total Customers: 2500
+Total Revenue: $10,891,547.73
+Churn Rate: 9.44%
+
+Revenue at Risk: $993,142.89
+High Risk Customers: 230
+
+Top Segment: Potential Loyalists
+==============================================================

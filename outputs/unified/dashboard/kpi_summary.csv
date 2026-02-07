@@ -1,0 +1,19 @@
+kpi_name,kpi_value,kpi_category
+total_revenue,10891547.73,Financial
+avg_revenue_per_customer,4356.619092,Financial
+monthly_avg_revenue,207557.5146,Financial
+total_customers,2500,Customer
+active_customers,2264,Customer
+churned_customers,236,Customer
+churn_rate,9.44,Customer
+total_profit,7022166.854496667,Financial
+avg_profit_margin,51.95893798413642,Financial
+profitable_customers,2389,Financial
+high_risk_customers,230,Customer
+revenue_at_risk,993142.8899999999,Financial
+avg_customer_lifetime_months,13.7684,Customer
+avg_customer_ltv,4356.619092,Customer
+forecasted_revenue_12m,7923542.7518054,Financial
+avg_monthly_forecast,660295.2293171167,Forecast
+top_segment,Potential Loyalists,Other
+num_segments,11,Other

@@ -1,0 +1,11 @@
+segment,customer_count,avg_recency,avg_frequency,total_revenue,avg_revenue,avg_rfm_score,description,recommended_action,customer_pct,revenue_pct
+Champions,285,9.396491228070175,25.150877192982456,3024526.66,10612.374245614035,13.69122807017544,"Best customers - high value, recent, frequent buyers","Reward program, early access, referral program",11.5,29.1
+Loyal Customers,127,19.88976377952756,26.96062992125984,1446731.3800000001,11391.58566929134,12.188976377952756,Consistent customers with good engagement,"Upsell higher-value products, loyalty program",5.1,13.9
+Potential Loyalists,446,9.286995515695068,10.011210762331839,898036.23,2013.5341479820627,10.544843049327355,Recent customers with good potential,"Onboarding support, membership offers",18.0,8.7
+At Risk,430,175.53255813953487,20.62093023255814,3623175.61,8425.989790697675,9.820930232558139,High-value customers showing declining activity,"Personal outreach, special discounts",17.3,34.9
+Promising,188,19.845744680851062,10.654255319148936,403736.48,2147.5344680851063,9.106382978723405,New shoppers with above-average activity,"Create brand awareness, free trials",7.6,3.9
+Need Attention,27,10.444444444444445,6.851851851851852,7349.79,272.21444444444444,8.333333333333334,Above-average but showing declining engagement,"Limited time offers, personalized outreach",1.1,0.1
+New Customers,303,8.191419141914192,1.9240924092409242,152362.09,502.8451815181518,7.326732673267327,Recently acquired customers,"Welcome series, product education",12.2,1.5
+About to Sleep,326,27.426380368098158,4.309815950920245,459807.44,1410.4522699386503,6.254601226993865,"Below-average engagement, at risk of churning","Re-engagement campaign, win-back offers",13.1,4.4
+Lost,188,110.90957446808511,5.281914893617022,107539.98,572.0211702127659,6.058510638297872,"Lowest engagement, likely churned",Ignore or minimal effort reactivation,7.6,1.0
+Hibernating,161,290.360248447205,3.124223602484472,254610.07,1581.4290062111802,4.913043478260869,"Low engagement, been inactive for a while","Re-activation campaign, special offers",6.5,2.5

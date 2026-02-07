@@ -1,0 +1,50 @@
+
+REVENUE FORECAST SUMMARY
+========================
+Generated: 2026-02-08 01:52
+
+MODEL PERFORMANCE
+-----------------
+Prophet Model:
+  - MAE: $333,846.72
+  - RMSE: $367,283.54
+  - MAPE: 805.29%
+
+ARIMA Model (Order: (1, 1, 3)):
+  - MAE: $324,708.50
+  - RMSE: $417,720.13
+  - MAPE: 1003.96%
+
+Best Model: Prophet
+
+12-MONTH FORECAST SUMMARY
+-------------------------
+
+Total Forecasted Revenue: $7,923,542.75
+Average Monthly Forecast: $660,295.23
+
+Monthly Breakdown:
+  Feb 2025: $481,934.01
+  Mar 2025: $719,136.97
+  Apr 2025: $652,567.06
+  May 2025: $648,797.70
+  Jun 2025: $623,934.08
+  Jul 2025: $642,939.98
+  Aug 2025: $658,202.34
+  Sep 2025: $680,685.74
+  Oct 2025: $723,203.26
+  Nov 2025: $811,836.81
+  Dec 2025: $850,264.46
+  Jan 2026: $430,040.34
+
+OUTPUT FILES
+------------
+Location: C:\Users\PC\OneDrive\Desktop\DA_Project\FinancialOperationsAnalytics-main\FinancialOperationsAnalytics-main\financial-operations-analytics\outputs\forecasts
+  - prophet_forecast.csv: Prophet model 12-month forecast with confidence intervals
+  - arima_forecast.csv: ARIMA model 12-month forecast with confidence intervals
+  - combined_forecast.csv: Ensemble forecast combining Prophet and ARIMA
+  - forecast_dashboard_ready.csv: Dashboard-ready format with date dimensions
+  - time_series_decomposition.csv: Time series decomposition (trend, seasonal, residual)
+  - seasonal_indices.csv: Monthly seasonality indices
+  - model_comparison.csv: Model performance comparison (MAE, RMSE, MAPE)
+  - monthly_revenue_aggregated.csv: Monthly revenue aggregation from transactions

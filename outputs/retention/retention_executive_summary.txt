@@ -1,0 +1,90 @@
+
+================================================================================
+              CUSTOMER RETENTION RECOMMENDATION REPORT
+                          2026-02-08
+================================================================================
+
+EXECUTIVE SUMMARY
+-----------------
+Total Customers Analyzed: 2,500
+Total Revenue Under Management: $10,891,547.73
+
+RISK SEGMENTATION
+-----------------
+HIGH RISK (Immediate Action Required)
+  • Customers: 230
+  • Revenue at Risk: $993,142.89
+  • Recommended Actions: Retention calls + Discount offers (20-30%)
+  • Timeline: Within 24-48 hours
+  
+MEDIUM RISK (Proactive Engagement Needed)
+  • Customers: 2
+  • Revenue at Risk: $9,000.55
+  • Recommended Actions: Targeted email campaigns + Product demos
+  • Timeline: Within 1 week
+
+LOW RISK (Loyalty Building)
+  • Customers: 2,268
+  • Revenue: $9,889,404.29
+  • Recommended Actions: Loyalty rewards + Feature upgrades
+  • Timeline: Within 30 days
+
+PRIORITY ACTIONS
+----------------
+Top 10 High-Value At-Risk Customers Requiring Immediate Attention:
+
+1. CUST_000153 (Premium)
+   Revenue: $64,680.54 | Churn Prob: 100.0%
+   Action: Re-engagement campaign - 515 days inactive
+
+2. CUST_000338 (Premium)
+   Revenue: $48,992.50 | Churn Prob: 100.0%
+   Action: Re-engagement campaign - 384 days inactive
+
+3. CUST_000236 (Premium)
+   Revenue: $41,603.93 | Churn Prob: 100.0%
+   Action: Re-engagement campaign - 453 days inactive
+
+4. CUST_000250 (Premium)
+   Revenue: $39,091.68 | Churn Prob: 100.0%
+   Action: Address payment issues - offer alternative payment methods
+
+5. CUST_000157 (Premium)
+   Revenue: $31,504.20 | Churn Prob: 100.0%
+   Action: Address payment issues - offer alternative payment methods
+
+6. CUST_000017 (Premium)
+   Revenue: $21,537.99 | Churn Prob: 100.0%
+   Action: Re-engagement campaign - 1048 days inactive
+
+7. CUST_000022 (Enterprise)
+   Revenue: $14,885.48 | Churn Prob: 100.0%
+   Action: Re-engagement campaign - 950 days inactive
+
+8. CUST_000710 (Premium)
+   Revenue: $43,390.49 | Churn Prob: 100.0%
+   Action: Re-engagement campaign - 159 days inactive
+
+9. CUST_000486 (Premium)
+   Revenue: $36,591.82 | Churn Prob: 100.0%
+   Action: Re-engagement campaign - 400 days inactive
+
+10. CUST_000021 (Professional)
+   Revenue: $4,424.32 | Churn Prob: 100.0%
+   Action: Re-engagement campaign - 712 days inactive
+
+RESOURCE ALLOCATION
+-------------------
+• Retention Team Calls Needed: 230 (High Risk customers)
+• Email Campaigns: 2 recipients (Medium Risk)
+• Loyalty Program Enrollments: 2268 customers (Low Risk)
+
+ESTIMATED IMPACT
+----------------
+If 50% of high-risk customers are retained:
+  • Customers Saved: 115
+  • Revenue Protected: $496,571.45
+
+================================================================================
+                            END OF REPORT
+================================================================================

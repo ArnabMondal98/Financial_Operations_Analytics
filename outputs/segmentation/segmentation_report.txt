@@ -1,0 +1,98 @@
+
+================================================================================
+              CUSTOMER SEGMENTATION & COHORT ANALYSIS REPORT
+                          2026-02-08
+================================================================================
+
+EXECUTIVE SUMMARY
+-----------------
+Total Customers Analyzed: 2,481
+Total Revenue: $10,377,875.73
+Analysis Period: Full Customer Lifetime
+
+RFM SEGMENTATION SUMMARY
+------------------------
+
+CHAMPIONS:
+  • Customers: 285 (11.5%)
+  • Revenue: $3,024,527 (29.1%)
+  • Avg RFM Score: 13.7
+  • Action: Reward program, early access, referral program
+
+LOYAL CUSTOMERS:
+  • Customers: 127 (5.1%)
+  • Revenue: $1,446,731 (13.9%)
+  • Avg RFM Score: 12.2
+  • Action: Upsell higher-value products, loyalty program
+
+POTENTIAL LOYALISTS:
+  • Customers: 446 (18.0%)
+  • Revenue: $898,036 (8.7%)
+  • Avg RFM Score: 10.5
+  • Action: Onboarding support, membership offers
+
+AT RISK:
+  • Customers: 430 (17.3%)
+  • Revenue: $3,623,176 (34.9%)
+  • Avg RFM Score: 9.8
+  • Action: Personal outreach, special discounts
+
+PROMISING:
+  • Customers: 188 (7.6%)
+  • Revenue: $403,736 (3.9%)
+  • Avg RFM Score: 9.1
+  • Action: Create brand awareness, free trials
+
+NEED ATTENTION:
+  • Customers: 27 (1.1%)
+  • Revenue: $7,350 (0.1%)
+  • Avg RFM Score: 8.3
+  • Action: Limited time offers, personalized outreach
+
+NEW CUSTOMERS:
+  • Customers: 303 (12.2%)
+  • Revenue: $152,362 (1.5%)
+  • Avg RFM Score: 7.3
+  • Action: Welcome series, product education
+
+ABOUT TO SLEEP:
+  • Customers: 326 (13.1%)
+  • Revenue: $459,807 (4.4%)
+  • Avg RFM Score: 6.3
+  • Action: Re-engagement campaign, win-back offers
+
+LOST:
+  • Customers: 188 (7.6%)
+  • Revenue: $107,540 (1.0%)
+  • Avg RFM Score: 6.1
+  • Action: Ignore or minimal effort reactivation
+
+HIBERNATING:
+  • Customers: 161 (6.5%)
+  • Revenue: $254,610 (2.5%)
+  • Avg RFM Score: 4.9
+  • Action: Re-activation campaign, special offers
+
+BEHAVIORAL CLUSTERING
+---------------------
+Number of Clusters: 3
+  • VIP Elite: 761 customers ($10,291 avg revenue)
+  • Engaged Regulars: 1,590 customers ($1,342 avg revenue)
+  • Growth Potential: 130 customers ($3,175 avg revenue)
+
+COHORT RETENTION ANALYSIS
+-------------------------
+Total Cohorts: 48
+Average Month 1 Retention: inf%
+Average Month 6 Retention: inf%
+Average Month 12 Retention: inf%
+
+KEY INSIGHTS
+------------
+1. Top performing segment: Champions with $3,024,527 revenue
+2. Largest segment: Potential Loyalists (446 customers)
+3. Highest LTV segment: Loyal Customers ($11,392 avg)
+
+================================================================================
+                              END OF REPORT
+================================================================================

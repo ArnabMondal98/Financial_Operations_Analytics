@@ -1,0 +1,2482 @@
+customer_id,recency,frequency,monetary,R_score,F_score,M_score,RFM_score,RFM_total,segment,country,industry,subscription_type
+CUST_000001,21,46,136196.48,3,5,5,355,13,Potential Loyalists,UK,Finance,Premium
+CUST_000002,21,47,13688.19,3,5,5,355,13,Potential Loyalists,Canada,Education,Professional
+CUST_000003,21,45,1906.28,3,5,3,353,11,Potential Loyalists,USA,Real Estate,Basic
+CUST_000004,21,46,18881.45,3,5,5,355,13,Potential Loyalists,USA,Finance,Enterprise
+CUST_000005,1401,3,748.56,1,2,2,122,5,Hibernating,France,Manufacturing,Professional
+CUST_000006,23,47,97030.95,2,5,5,255,12,At Risk,USA,Healthcare,Premium
+CUST_000007,22,48,4243.63,3,5,4,354,12,Potential Loyalists,Japan,Energy,Basic
+CUST_000008,23,46,1495.58,2,5,3,253,10,At Risk,USA,Energy,Basic
+CUST_000009,20,48,13528.62,3,5,5,355,13,Potential Loyalists,UK,Education,Professional
+CUST_000010,18,47,1815.41,3,5,3,353,11,Potential Loyalists,UK,Consulting,Basic
+CUST_000011,12,45,1798.1,4,5,3,453,12,Loyal Customers,France,Media,Basic
+CUST_000012,1270,6,541.4,1,2,2,122,5,Hibernating,USA,Finance,Basic
+CUST_000013,7,46,40493.34,5,5,5,555,15,Champions,Germany,Consulting,Enterprise
+CUST_000014,4,49,12103.19,5,5,5,555,15,Champions,USA,Finance,Professional
+CUST_000015,28,46,2688.97,2,5,4,254,11,At Risk,France,Technology,Basic
+CUST_000016,1082,13,1250.42,1,4,3,143,8,At Risk,France,Retail,Basic
+CUST_000017,1048,14,21537.99,1,4,5,145,10,At Risk,USA,Consulting,Premium
+CUST_000018,25,45,20864.08,2,5,5,255,12,At Risk,India,Real Estate,Enterprise
+CUST_000019,24,46,2322.59,2,5,4,254,11,At Risk,UK,Retail,Basic
+CUST_000020,22,46,13259.3,3,5,5,355,13,Potential Loyalists,Canada,Real Estate,Professional
+CUST_000021,712,25,4424.32,1,5,4,154,10,At Risk,USA,Retail,Professional
+CUST_000022,950,15,14900.61,1,4,5,145,10,At Risk,USA,Consulting,Enterprise
+CUST_000023,16,44,11376.79,3,5,5,355,13,Potential Loyalists,USA,Real Estate,Professional
+CUST_000024,14,45,8965.28,4,5,5,455,14,Champions,UK,Media,Professional
+CUST_000025,13,45,4389.95,4,5,4,454,13,Champions,Germany,Media,Basic
+CUST_000026,1210,7,5865.99,1,3,5,135,9,At Risk,India,Retail,Enterprise
+CUST_000027,5,44,39664.63,5,5,5,555,15,Champions,India,Finance,Enterprise
+CUST_000028,1265,5,3635.73,1,2,4,124,7,Hibernating,France,Technology,Enterprise
+CUST_000029,0,44,3058.56,5,5,4,554,14,Champions,USA,Education,Basic
+CUST_000030,0,42,3318.22,5,5,4,554,14,Champions,USA,Healthcare,Basic
+CUST_000031,60,45,4006.73,1,5,4,154,10,At Risk,UK,Energy,Basic
+CUST_000032,27,44,1562.09,2,5,3,253,10,At Risk,Japan,Manufacturing,Basic
+CUST_000033,25,41,6359.93,2,5,5,255,12,At Risk,USA,Finance,Professional
+CUST_000034,24,45,18146.01,2,5,5,255,12,At Risk,USA,Energy,Enterprise
+CUST_000035,1283,5,5785.95,1,2,5,125,8,Hibernating,USA,Media,Premium
+CUST_000036,981,15,1285.05,1,4,3,143,8,At Risk,Australia,Retail,Basic
+CUST_000037,19,45,44326.72,3,5,5,355,13,Potential Loyalists,USA,Education,Enterprise
+CUST_000038,19,45,4987.13,3,5,5,355,13,Potential Loyalists,Canada,Media,Professional
+CUST_000039,14,43,2411.74,4,5,4,454,13,Champions,Australia,Energy,Basic
+CUST_000040,15,43,4284.1,4,5,4,454,13,Champions,UK,Media,Basic
+CUST_000041,46,41,6122.62,1,5,5,155,11,At Risk,Japan,Education,Professional
+CUST_000042,1304,4,368.34,1,2,2,122,5,Hibernating,UK,Education,Basic
+CUST_000043,14,40,3414.23,4,5,4,454,13,Champions,UK,Education,Basic
+CUST_000044,11,47,5221.13,4,5,5,455,14,Champions,Canada,Finance,Professional
+CUST_000045,14,42,10305.7,4,5,5,455,14,Champions,Brazil,Real Estate,Professional
+CUST_000046,10,45,11337.38,4,5,5,455,14,Champions,USA,Finance,Professional
+CUST_000047,665,25,4958.89,1,5,5,155,11,At Risk,Australia,Real Estate,Professional
+CUST_000048,992,13,3704.6,1,4,4,144,9,At Risk,Australia,Technology,Professional
+CUST_000049,809,19,2923.53,1,4,4,144,9,At Risk,Germany,Technology,Professional
+CUST_000050,24,42,2849.13,2,5,4,254,11,At Risk,USA,Finance,Basic
+CUST_000051,55,43,8790.31,1,5,5,155,11,At Risk,USA,Consulting,Professional
+CUST_000052,1193,5,1241.77,1,2,3,123,6,Hibernating,UK,Healthcare,Professional
+CUST_000053,21,37,1918.41,3,5,4,354,12,Potential Loyalists,Brazil,Retail,Basic
+CUST_000054,24,43,20978.07,2,5,5,255,12,At Risk,UK,Technology,Enterprise
+CUST_000055,21,45,2814.94,3,5,4,354,12,Potential Loyalists,USA,Consulting,Basic
+CUST_000056,22,41,3666.43,3,5,4,354,12,Potential Loyalists,USA,Healthcare,Basic
+CUST_000057,1042,11,7885.21,1,3,5,135,9,At Risk,Brazil,Real Estate,Enterprise
+CUST_000058,1158,6,4353.79,1,2,4,124,7,Hibernating,France,Technology,Enterprise
+CUST_000059,18,39,1812.57,3,5,3,353,11,Potential Loyalists,Australia,Consulting,Basic
+CUST_000060,10,42,6752.14,4,5,5,455,14,Champions,Brazil,Finance,Professional
+CUST_000061,992,11,8054.66,1,3,5,135,9,At Risk,Australia,Technology,Enterprise
+CUST_000062,5,44,3039.27,5,5,4,554,14,Champions,UK,Retail,Basic
+CUST_000063,1,40,9397.02,5,5,5,555,15,Champions,USA,Finance,Professional
+CUST_000064,1290,3,1943.92,1,2,4,124,7,Hibernating,Australia,Healthcare,Enterprise
+CUST_000065,32,43,4913.6,1,5,5,155,11,At Risk,USA,Education,Professional
+CUST_000066,990,13,866.44,1,4,2,142,7,At Risk,UK,Energy,Basic
+CUST_000067,26,42,2853.46,2,5,4,254,11,At Risk,USA,Energy,Basic
+CUST_000068,26,41,3721.71,2,5,4,254,11,At Risk,India,Media,Basic
+CUST_000069,18,43,9780.19,3,5,5,355,13,Potential Loyalists,Germany,Technology,Professional
+CUST_000070,1188,6,8771.17,1,2,5,125,8,Hibernating,UK,Education,Premium
+CUST_000071,17,44,2445.94,3,5,4,354,12,Potential Loyalists,India,Technology,Basic
+CUST_000072,17,42,2268.4,3,5,4,354,12,Potential Loyalists,Germany,Healthcare,Basic
+CUST_000073,17,42,3525.35,3,5,4,354,12,Potential Loyalists,USA,Healthcare,Basic
+CUST_000074,17,44,5513.54,3,5,5,355,13,Potential Loyalists,France,Education,Professional
+CUST_000075,1214,5,325.48,1,2,1,121,4,Hibernating,USA,Education,Basic
+CUST_000076,10,41,3551.9900000000002,4,5,4,454,13,Champions,Brazil,Finance,Basic
+CUST_000077,1029,9,2648.34,1,3,4,134,8,At Risk,USA,Real Estate,Professional
+CUST_000078,5,44,3295.58,5,5,4,554,14,Champions,Singapore,Real Estate,Basic
+CUST_000079,785,18,6151.39,1,4,5,145,10,At Risk,Canada,Finance,Enterprise
+CUST_000080,1264,2,204.94,1,1,1,111,3,Hibernating,USA,Real Estate,Professional
+CUST_000081,1,43,4824.33,5,5,5,555,15,Champions,UK,Retail,Professional
+CUST_000082,30,41,11383.16,2,5,5,255,12,At Risk,France,Retail,Professional
+CUST_000083,25,41,39375.29,2,5,5,255,12,At Risk,USA,Education,Enterprise
+CUST_000084,25,42,2385.94,2,5,4,254,11,At Risk,UK,Energy,Basic
+CUST_000085,24,42,8316.55,2,5,5,255,12,At Risk,USA,Energy,Professional
+CUST_000086,50,41,3412.86,1,5,4,154,10,At Risk,Canada,Technology,Basic
+CUST_000087,20,40,1985.55,3,5,4,354,12,Potential Loyalists,Germany,Retail,Basic
+CUST_000088,18,37,3395.2,3,5,4,354,12,Potential Loyalists,France,Technology,Basic
+CUST_000089,49,40,1983.95,1,5,4,154,10,At Risk,Canada,Education,Basic
+CUST_000090,706,20,1181.41,1,4,3,143,8,At Risk,India,Education,Basic
+CUST_000091,17,41,3393.85,3,5,4,354,12,Potential Loyalists,UK,Media,Basic
+CUST_000092,15,42,22520.71,4,5,5,455,14,Champions,Brazil,Media,Enterprise
+CUST_000093,1213,3,573.79,1,2,2,122,5,Hibernating,USA,Finance,Professional
+CUST_000094,763,19,3285.37,1,4,4,144,9,At Risk,Australia,Real Estate,Professional
+CUST_000095,12,40,1930.82,4,5,4,454,13,Champions,Germany,Energy,Basic
+CUST_000096,10,44,35865.29,4,5,5,455,14,Champions,USA,Healthcare,Enterprise
+CUST_000097,10,44,8153.53,4,5,5,455,14,Champions,Brazil,Healthcare,Professional
+CUST_000098,10,39,2642.25,4,5,4,454,13,Champions,UK,Finance,Basic
+CUST_000099,3,43,15913.63,5,5,5,555,15,Champions,Canada,Education,Enterprise
+CUST_000100,28,40,30884.67,2,5,5,255,12,At Risk,Brazil,Education,Enterprise
+CUST_000101,28,40,2445.48,2,5,4,254,11,At Risk,France,Manufacturing,Basic
+CUST_000102,28,41,17000.95,2,5,5,255,12,At Risk,USA,Media,Enterprise
+CUST_000103,26,41,2239.99,2,5,4,254,11,At Risk,France,Real Estate,Basic
+CUST_000104,22,43,10585.04,3,5,5,355,13,Potential Loyalists,USA,Technology,Professional
+CUST_000105,18,41,2969.45,3,5,4,354,12,Potential Loyalists,USA,Education,Basic
+CUST_000106,16,43,6712.9,3,5,5,355,13,Potential Loyalists,Germany,Media,Professional
+CUST_000107,14,42,1438.75,4,5,3,453,12,Loyal Customers,France,Technology,Basic
+CUST_000108,13,39,2220.03,4,5,4,454,13,Champions,Canada,Media,Basic
+CUST_000109,10,42,12316.0,4,5,5,455,14,Champions,UK,Finance,Professional
+CUST_000110,970,11,9850.1,1,3,5,135,9,At Risk,France,Finance,Enterprise
+CUST_000111,8,41,4484.31,5,5,4,554,14,Champions,France,Real Estate,Professional
+CUST_000112,8,37,1696.54,5,5,3,553,13,Loyal Customers,USA,Healthcare,Basic
+CUST_000113,7,41,2227.36,5,5,4,554,14,Champions,USA,Education,Basic
+CUST_000114,8,41,1276.36,5,5,3,553,13,Loyal Customers,Singapore,Consulting,Basic
+CUST_000115,7,38,8936.14,5,5,5,555,15,Champions,Brazil,Finance,Professional
+CUST_000116,847,12,2047.19,1,4,4,144,9,At Risk,Australia,Education,Professional
+CUST_000117,5,39,8528.28,5,5,5,555,15,Champions,France,Healthcare,Professional
+CUST_000118,7,38,6733.55,5,5,5,555,15,Champions,USA,Energy,Professional
+CUST_000119,2,43,3261.95,5,5,4,554,14,Champions,USA,Education,Basic
+CUST_000120,31,40,3871.41,1,5,4,154,10,At Risk,France,Retail,Basic
+CUST_000121,28,40,98955.52,2,5,5,255,12,At Risk,India,Technology,Premium
+CUST_000122,26,40,2602.52,2,5,4,254,11,At Risk,Brazil,Real Estate,Basic
+CUST_000123,27,40,15760.32,2,5,5,255,12,At Risk,USA,Energy,Enterprise
+CUST_000124,20,39,96242.34,3,5,5,355,13,Potential Loyalists,UK,Manufacturing,Premium
+CUST_000125,982,10,9975.52,1,3,5,135,9,At Risk,India,Retail,Enterprise
+CUST_000126,48,38,2963.68,1,5,4,154,10,At Risk,USA,Manufacturing,Basic
+CUST_000127,16,40,1765.6299999999999,3,5,3,353,11,Potential Loyalists,Japan,Real Estate,Basic
+CUST_000128,979,9,2390.58,1,3,4,134,8,At Risk,USA,Finance,Professional
+CUST_000129,42,40,5422.94,1,5,5,155,11,At Risk,India,Real Estate,Professional
+CUST_000130,612,22,2170.02,1,5,4,154,10,At Risk,France,Real Estate,Basic
+CUST_000131,11,40,94623.95,4,5,5,455,14,Champions,France,Education,Premium
+CUST_000132,1027,7,1505.85,1,3,3,133,7,At Risk,USA,Healthcare,Professional
+CUST_000133,901,11,3038.67,1,3,4,134,8,At Risk,Japan,Manufacturing,Professional
+CUST_000134,4,41,10017.17,5,5,5,555,15,Champions,Canada,Finance,Professional
+CUST_000135,57,36,3098.63,1,5,4,154,10,At Risk,UK,Finance,Basic
+CUST_000136,27,41,19228.47,2,5,5,255,12,At Risk,Australia,Energy,Enterprise
+CUST_000137,27,39,34579.74,2,5,5,255,12,At Risk,Japan,Retail,Enterprise
+CUST_000138,29,39,10214.02,2,5,5,255,12,At Risk,Germany,Retail,Professional
+CUST_000139,25,39,6736.33,2,5,5,255,12,At Risk,Australia,Technology,Professional
+CUST_000140,23,38,21339.6,2,5,5,255,12,At Risk,Canada,Consulting,Enterprise
+CUST_000141,20,38,1480.99,3,5,3,353,11,Potential Loyalists,Brazil,Energy,Basic
+CUST_000142,22,40,1377.29,3,5,3,353,11,Potential Loyalists,UK,Healthcare,Basic
+CUST_000143,21,35,3547.16,3,5,4,354,12,Potential Loyalists,France,Media,Basic
+CUST_000144,17,39,8210.5,3,5,5,355,13,Potential Loyalists,Germany,Real Estate,Professional
+CUST_000145,17,36,9723.77,3,5,5,355,13,Potential Loyalists,USA,Media,Professional
+CUST_000146,14,40,1542.81,4,5,3,453,12,Loyal Customers,USA,Healthcare,Basic
+CUST_000147,10,36,2668.55,4,5,4,454,13,Champions,Japan,Education,Basic
+CUST_000148,41,38,7475.4,1,5,5,155,11,At Risk,USA,Real Estate,Professional
+CUST_000149,968,8,420.88,1,3,2,132,6,At Risk,Australia,Energy,Basic
+CUST_000150,666,19,1407.0,1,4,3,143,8,At Risk,France,Energy,Basic
+CUST_000151,935,9,2288.81,1,3,4,134,8,At Risk,USA,Finance,Professional
+CUST_000152,3,39,7382.79,5,5,5,555,15,Champions,Germany,Finance,Professional
+CUST_000153,515,22,59247.659999999996,1,5,5,155,11,At Risk,Canada,Technology,Premium
+CUST_000154,2,37,1498.41,5,5,3,553,13,Loyal Customers,Germany,Energy,Basic
+CUST_000155,62,37,1516.04,1,5,3,153,9,At Risk,Australia,Finance,Basic
+CUST_000156,30,38,2058.71,2,5,4,254,11,At Risk,UK,Retail,Basic
+CUST_000157,898,9,25873.57,1,3,5,135,9,At Risk,USA,Energy,Premium
+CUST_000158,1139,3,470.55,1,2,2,122,5,Hibernating,Japan,Healthcare,Professional
+CUST_000159,27,38,1848.74,2,5,3,253,10,At Risk,UK,Energy,Basic
+CUST_000160,24,36,2635.42,2,5,4,254,11,At Risk,USA,Manufacturing,Basic
+CUST_000161,1103,4,860.79,1,2,2,122,5,Hibernating,Germany,Healthcare,Professional
+CUST_000162,25,39,2814.68,2,5,4,254,11,At Risk,France,Finance,Basic
+CUST_000163,745,16,2176.37,1,4,4,144,9,At Risk,India,Consulting,Professional
+CUST_000164,24,39,9467.56,2,5,5,255,12,At Risk,Germany,Consulting,Professional
+CUST_000165,23,36,1922.48,2,5,4,254,11,At Risk,UK,Consulting,Basic
+CUST_000166,18,39,13095.66,3,5,5,355,13,Potential Loyalists,UK,Consulting,Enterprise
+CUST_000167,829,13,459.1,1,4,2,142,7,At Risk,USA,Technology,Basic
+CUST_000168,1006,7,348.0,1,3,2,132,6,At Risk,USA,Consulting,Basic
+CUST_000169,18,38,9595.72,3,5,5,355,13,Potential Loyalists,Japan,Retail,Professional
+CUST_000170,645,17,1247.72,1,4,3,143,8,At Risk,Germany,Media,Basic
+CUST_000171,14,38,7725.2300000000005,4,5,5,455,14,Champions,Germany,Technology,Professional
+CUST_000172,15,40,6453.72,4,5,5,455,14,Champions,USA,Energy,Professional
+CUST_000173,12,36,7078.44,4,5,5,455,14,Champions,UK,Manufacturing,Professional
+CUST_000174,8,40,2024.64,5,5,4,554,14,Champions,France,Media,Basic
+CUST_000175,731,16,3823.8199999999997,1,4,4,144,9,At Risk,UK,Healthcare,Professional
+CUST_000176,7,37,22537.86,5,5,5,555,15,Champions,Germany,Finance,Enterprise
+CUST_000177,866,11,725.1899999999999,1,3,2,132,6,At Risk,France,Real Estate,Basic
+CUST_000178,656,18,4108.15,1,4,4,144,9,At Risk,USA,Education,Professional
+CUST_000179,24,33,9120.41,2,5,5,255,12,At Risk,USA,Education,Professional
+CUST_000180,924,9,2221.04,1,3,4,134,8,At Risk,India,Education,Professional
+CUST_000181,953,8,2389.61,1,3,4,134,8,At Risk,UK,Education,Professional
+CUST_000182,22,36,9336.06,3,5,5,355,13,Potential Loyalists,Germany,Finance,Professional
+CUST_000183,1012,6,419.2,1,2,2,122,5,Hibernating,India,Energy,Basic
+CUST_000184,21,37,17588.98,3,5,5,355,13,Potential Loyalists,India,Education,Enterprise
+CUST_000185,14,33,1664.88,4,5,3,453,12,Loyal Customers,USA,Healthcare,Basic
+CUST_000186,13,36,1430.17,4,5,3,453,12,Loyal Customers,USA,Retail,Basic
+CUST_000187,13,38,6036.8,4,5,5,455,14,Champions,USA,Technology,Professional
+CUST_000188,14,36,3266.12,4,5,4,454,13,Champions,USA,Media,Basic
+CUST_000189,11,37,1747.6,4,5,3,453,12,Loyal Customers,Japan,Media,Basic
+CUST_000190,911,8,710.06,1,3,2,132,6,At Risk,Australia,Finance,Basic
+CUST_000191,10,38,9288.33,4,5,5,455,14,Champions,USA,Consulting,Professional
+CUST_000192,7,37,31269.09,5,5,5,555,15,Champions,France,Retail,Enterprise
+CUST_000193,7,37,37398.93,5,5,5,555,15,Champions,Canada,Real Estate,Enterprise
+CUST_000194,7,36,2374.63,5,5,4,554,14,Champions,USA,Real Estate,Basic
+CUST_000195,6,32,21095.41,5,5,5,555,15,Champions,Australia,Manufacturing,Enterprise
+CUST_000196,814,12,3434.88,1,4,4,144,9,At Risk,Singapore,Healthcare,Professional
+CUST_000197,28,33,20892.6,2,5,5,255,12,At Risk,UK,Energy,Enterprise
+CUST_000198,31,38,54812.909999999996,1,5,5,155,11,At Risk,UK,Retail,Premium
+CUST_000199,985,6,703.12,1,3,2,132,6,At Risk,Japan,Education,Professional
+CUST_000200,21,37,24651.91,3,5,5,355,13,Potential Loyalists,Australia,Manufacturing,Enterprise
+CUST_000201,20,34,16932.53,3,5,5,355,13,Potential Loyalists,USA,Real Estate,Enterprise
+CUST_000202,21,36,32777.68,3,5,5,355,13,Potential Loyalists,Germany,Technology,Enterprise
+CUST_000203,738,12,5048.9,1,4,5,145,10,At Risk,UK,Media,Enterprise
+CUST_000204,18,36,2900.72,3,5,4,354,12,Potential Loyalists,UK,Manufacturing,Basic
+CUST_000205,16,38,2094.39,3,5,4,354,12,Potential Loyalists,Brazil,Media,Basic
+CUST_000206,15,38,42866.57,4,5,5,455,14,Champions,UK,Media,Premium
+CUST_000207,16,37,5105.35,3,5,5,355,13,Potential Loyalists,India,Energy,Professional
+CUST_000208,16,37,5893.22,3,5,5,355,13,Potential Loyalists,France,Energy,Professional
+CUST_000209,10,38,2488.33,4,5,4,454,13,Champions,USA,Media,Basic
+CUST_000210,9,38,19556.55,4,5,5,455,14,Champions,Canada,Energy,Enterprise
+CUST_000211,726,12,9327.47,1,4,5,145,10,At Risk,Australia,Consulting,Enterprise
+CUST_000212,8,36,4535.01,5,5,4,554,14,Champions,USA,Healthcare,Professional
+CUST_000213,542,20,3510.02,1,4,4,144,9,At Risk,USA,Healthcare,Professional
+CUST_000214,3,38,27185.82,5,5,5,555,15,Champions,UK,Education,Enterprise
+CUST_000215,4,36,2974.9,5,5,4,554,14,Champions,UK,Education,Basic
+CUST_000216,2,35,25375.59,5,5,5,555,15,Champions,USA,Retail,Enterprise
+CUST_000217,2,38,2537.9700000000003,5,5,4,554,14,Champions,France,Media,Basic
+CUST_000218,4,35,3857.39,5,5,4,554,14,Champions,USA,Technology,Professional
+CUST_000219,29,36,31552.54,2,5,5,255,12,At Risk,USA,Education,Enterprise
+CUST_000220,26,33,2061.0,2,5,4,254,11,At Risk,Canada,Energy,Basic
+CUST_000221,24,33,91809.0,2,5,5,255,12,At Risk,USA,Consulting,Premium
+CUST_000222,24,35,1818.52,2,5,3,253,10,At Risk,UK,Finance,Basic
+CUST_000223,52,34,56228.04,1,5,5,155,11,At Risk,Australia,Consulting,Premium
+CUST_000224,19,34,33624.21,3,5,5,355,13,Potential Loyalists,Singapore,Media,Enterprise
+CUST_000225,677,13,927.8,1,4,3,143,8,At Risk,UK,Manufacturing,Basic
+CUST_000226,15,37,9764.3,4,5,5,455,14,Champions,Australia,Energy,Professional
+CUST_000227,13,35,22636.03,4,5,5,455,14,Champions,UK,Energy,Enterprise
+CUST_000228,16,30,4801.53,3,5,4,354,12,Potential Loyalists,USA,Consulting,Professional
+CUST_000229,13,37,6493.6,4,5,5,455,14,Champions,USA,Technology,Professional
+CUST_000230,9,33,3184.0,4,5,4,454,13,Champions,USA,Healthcare,Basic
+CUST_000231,8,34,5709.71,5,5,5,555,15,Champions,USA,Consulting,Professional
+CUST_000232,428,22,4712.67,1,5,4,154,10,At Risk,Canada,Technology,Professional
+CUST_000233,8,34,3289.02,5,5,4,554,14,Champions,India,Manufacturing,Basic
+CUST_000234,905,7,4728.47,1,3,4,134,8,At Risk,USA,Consulting,Enterprise
+CUST_000235,0,32,70747.84,5,5,5,555,15,Champions,USA,Technology,Premium
+CUST_000236,482,19,39684.63,1,4,5,145,10,At Risk,USA,Finance,Premium
+CUST_000237,31,33,27850.4,1,5,5,155,11,At Risk,USA,Consulting,Enterprise
+CUST_000238,32,35,46024.41,1,5,5,155,11,At Risk,Germany,Media,Premium
+CUST_000239,33,35,3694.69,1,5,4,154,10,At Risk,USA,Retail,Professional
+CUST_000240,30,33,4770.76,2,5,4,254,11,At Risk,India,Healthcare,Professional
+CUST_000241,27,36,5866.29,2,5,5,255,12,At Risk,France,Real Estate,Professional
+CUST_000242,28,33,5987.33,2,5,5,255,12,At Risk,Germany,Finance,Professional
+CUST_000243,30,34,20439.12,2,5,5,255,12,At Risk,France,Retail,Enterprise
+CUST_000244,27,34,3206.05,2,5,4,254,11,At Risk,USA,Consulting,Basic
+CUST_000245,29,35,28227.95,2,5,5,255,12,At Risk,India,Technology,Enterprise
+CUST_000246,25,36,5086.37,2,5,5,255,12,At Risk,Germany,Energy,Professional
+CUST_000247,24,35,3455.09,2,5,4,254,11,At Risk,USA,Education,Basic
+CUST_000248,22,36,2416.13,3,5,4,354,12,Potential Loyalists,Germany,Real Estate,Basic
+CUST_000249,380,23,2233.87,1,5,4,154,10,At Risk,France,Education,Basic
+CUST_000250,678,11,30903.57,1,3,5,135,9,At Risk,Singapore,Real Estate,Premium
+CUST_000251,14,34,7067.47,4,5,5,455,14,Champions,Canada,Education,Professional
+CUST_000252,5,35,25591.48,5,5,5,555,15,Champions,UK,Manufacturing,Enterprise
+CUST_000253,638,9,915.32,1,3,3,133,7,At Risk,Canada,Retail,Basic
+CUST_000254,667,13,8916.95,1,4,5,145,10,At Risk,Brazil,Manufacturing,Enterprise
+CUST_000255,3,35,10192.52,5,5,5,555,15,Champions,India,Retail,Professional
+CUST_000256,364,23,5987.16,1,5,5,155,11,At Risk,France,Manufacturing,Professional
+CUST_000257,32,34,26596.17,1,5,5,155,11,At Risk,India,Retail,Enterprise
+CUST_000258,26,33,1708.45,2,5,3,253,10,At Risk,USA,Real Estate,Basic
+CUST_000259,26,34,23466.36,2,5,5,255,12,At Risk,UK,Education,Enterprise
+CUST_000260,987,3,143.74,1,2,1,121,4,Hibernating,Singapore,Manufacturing,Basic
+CUST_000261,25,32,2486.51,2,5,4,254,11,At Risk,France,Consulting,Basic
+CUST_000262,27,34,31528.65,2,5,5,255,12,At Risk,India,Media,Enterprise
+CUST_000263,26,31,8313.98,2,5,5,255,12,At Risk,Japan,Media,Professional
+CUST_000264,770,9,450.39,1,3,2,132,6,At Risk,UK,Finance,Basic
+CUST_000265,21,34,33675.42,3,5,5,355,13,Potential Loyalists,USA,Manufacturing,Enterprise
+CUST_000266,18,33,56490.14,3,5,5,355,13,Potential Loyalists,Australia,Healthcare,Premium
+CUST_000267,647,13,3001.51,1,4,4,144,9,At Risk,Singapore,Real Estate,Professional
+CUST_000268,46,32,46529.86,1,5,5,155,11,At Risk,Australia,Real Estate,Premium
+CUST_000269,14,32,1575.78,4,5,3,453,12,Loyal Customers,Japan,Energy,Basic
+CUST_000270,430,18,1452.18,1,4,3,143,8,At Risk,Germany,Energy,Basic
+CUST_000271,9,35,4227.28,4,5,4,454,13,Champions,India,Finance,Professional
+CUST_000272,9,33,4801.53,4,5,4,454,13,Champions,USA,Consulting,Professional
+CUST_000273,11,34,2592.99,4,5,4,454,13,Champions,France,Technology,Basic
+CUST_000274,852,7,986.47,1,3,3,133,7,At Risk,USA,Energy,Professional
+CUST_000275,672,11,3667.02,1,3,4,134,8,At Risk,Germany,Retail,Enterprise
+CUST_000276,760,9,4840.93,1,3,5,135,9,At Risk,Germany,Media,Enterprise
+CUST_000277,9,33,4033.26,4,5,4,454,13,Champions,Germany,Real Estate,Professional
+CUST_000278,971,3,298.31,1,2,1,121,4,Hibernating,Japan,Finance,Professional
+CUST_000279,9,33,3292.67,4,5,4,454,13,Champions,USA,Energy,Basic
+CUST_000280,2,35,6378.67,5,5,5,555,15,Champions,Australia,Finance,Professional
+CUST_000281,5,30,1893.8,5,5,3,553,13,Loyal Customers,Canada,Real Estate,Basic
+CUST_000282,4,32,2684.59,5,5,4,554,14,Champions,USA,Retail,Basic
+CUST_000283,0,33,5467.93,5,5,5,555,15,Champions,UK,Manufacturing,Professional
+CUST_000284,30,33,9335.19,2,5,5,255,12,At Risk,UK,Technology,Professional
+CUST_000285,33,32,2490.7,1,5,4,154,10,At Risk,Brazil,Healthcare,Basic
+CUST_000286,30,33,22864.010000000002,2,5,5,255,12,At Risk,Germany,Retail,Enterprise
+CUST_000287,27,34,9797.27,2,5,5,255,12,At Risk,UK,Technology,Professional
+CUST_000288,26,31,56566.88,2,5,5,255,12,At Risk,Japan,Finance,Premium
+CUST_000289,26,31,30248.13,2,5,5,255,12,At Risk,USA,Finance,Enterprise
+CUST_000290,55,29,2882.93,1,5,4,154,10,At Risk,Germany,Technology,Basic
+CUST_000291,22,32,86216.31999999999,3,5,5,355,13,Potential Loyalists,Germany,Media,Premium
+CUST_000292,773,8,763.81,1,3,2,132,6,At Risk,Germany,Finance,Basic
+CUST_000293,652,11,973.56,1,3,3,133,7,At Risk,France,Manufacturing,Basic
+CUST_000294,381,20,1012.35,1,4,3,143,8,At Risk,USA,Technology,Basic
+CUST_000295,18,32,1197.08,3,5,3,353,11,Potential Loyalists,USA,Consulting,Basic
+CUST_000296,19,31,4846.51,3,5,5,355,13,Potential Loyalists,USA,Education,Professional
+CUST_000297,19,33,2296.5299999999997,3,5,4,354,12,Potential Loyalists,USA,Energy,Basic
+CUST_000298,16,31,8793.66,3,5,5,355,13,Potential Loyalists,Brazil,Finance,Professional
+CUST_000299,18,32,1533.76,3,5,3,353,11,Potential Loyalists,France,Real Estate,Basic
+CUST_000300,18,33,1760.61,3,5,3,353,11,Potential Loyalists,USA,Healthcare,Basic
+CUST_000301,17,32,2374.68,3,5,4,354,12,Potential Loyalists,USA,Real Estate,Basic
+CUST_000302,13,32,959.2,4,5,3,453,12,Loyal Customers,USA,Finance,Basic
+CUST_000303,16,33,8538.84,3,5,5,355,13,Potential Loyalists,USA,Education,Professional
+CUST_000304,13,33,2545.98,4,5,4,454,13,Champions,USA,Consulting,Basic
+CUST_000305,14,34,4572.21,4,5,4,454,13,Champions,Germany,Retail,Professional
+CUST_000306,11,31,28187.03,4,5,5,455,14,Champions,USA,Media,Enterprise
+CUST_000307,10,33,1730.29,4,5,3,453,12,Loyal Customers,France,Energy,Basic
+CUST_000308,3,31,23968.21,5,5,5,555,15,Champions,Japan,Media,Enterprise
+CUST_000309,2,33,3295.97,5,5,4,554,14,Champions,USA,Finance,Basic
+CUST_000310,32,33,5405.82,1,5,5,155,11,At Risk,Australia,Real Estate,Professional
+CUST_000311,839,5,142.06,1,2,1,121,4,Hibernating,USA,Retail,Basic
+CUST_000312,447,17,2513.47,1,4,4,144,9,At Risk,UK,Media,Professional
+CUST_000313,29,31,3013.29,2,5,4,254,11,At Risk,France,Manufacturing,Basic
+CUST_000314,57,28,6087.69,1,5,5,155,11,At Risk,Germany,Manufacturing,Professional
+CUST_000315,28,31,978.95,2,5,3,253,10,At Risk,USA,Consulting,Basic
+CUST_000316,745,8,6586.46,1,3,5,135,9,At Risk,Canada,Education,Enterprise
+CUST_000317,19,31,7215.76,3,5,5,355,13,Potential Loyalists,Germany,Technology,Professional
+CUST_000318,18,33,5315.01,3,5,5,355,13,Potential Loyalists,USA,Real Estate,Professional
+CUST_000319,14,30,2340.54,4,5,4,454,13,Champions,Germany,Media,Basic
+CUST_000320,17,31,2407.39,3,5,4,354,12,Potential Loyalists,USA,Manufacturing,Basic
+CUST_000321,286,22,1190.56,1,5,3,153,9,At Risk,USA,Manufacturing,Basic
+CUST_000322,15,33,1468.49,4,5,3,453,12,Loyal Customers,USA,Retail,Basic
+CUST_000323,11,32,20768.49,4,5,5,455,14,Champions,USA,Finance,Enterprise
+CUST_000324,14,29,7344.86,4,5,5,455,14,Champions,France,Real Estate,Professional
+CUST_000325,307,22,4018.8,1,5,4,154,10,At Risk,Australia,Consulting,Professional
+CUST_000326,8,30,8404.86,5,5,5,555,15,Champions,USA,Energy,Professional
+CUST_000327,542,15,3862.06,1,4,4,144,9,At Risk,France,Energy,Professional
+CUST_000328,601,12,986.12,1,4,3,143,8,At Risk,UK,Retail,Basic
+CUST_000329,33,30,2772.33,1,5,4,154,10,At Risk,USA,Consulting,Basic
+CUST_000330,361,20,4077.08,1,4,4,144,9,At Risk,France,Healthcare,Professional
+CUST_000331,31,31,75780.53,1,5,5,155,11,At Risk,UK,Energy,Premium
+CUST_000332,30,32,3015.68,2,5,4,254,11,At Risk,France,Healthcare,Basic
+CUST_000333,26,29,973.43,2,5,3,253,10,At Risk,USA,Healthcare,Basic
+CUST_000334,296,21,1985.09,1,5,4,154,10,At Risk,USA,Energy,Basic
+CUST_000335,27,31,2166.99,2,5,4,254,11,At Risk,USA,Retail,Basic
+CUST_000336,24,32,13345.19,2,5,5,255,12,At Risk,USA,Finance,Enterprise
+CUST_000337,54,30,5664.7300000000005,1,5,5,155,11,At Risk,USA,Energy,Professional
+CUST_000338,384,19,46546.59,1,4,5,145,10,At Risk,UK,Retail,Premium
+CUST_000339,24,30,1067.0,2,5,3,253,10,At Risk,USA,Real Estate,Basic
+CUST_000340,20,30,18200.87,3,5,5,355,13,Potential Loyalists,India,Energy,Enterprise
+CUST_000341,801,6,352.74,1,3,2,132,6,At Risk,Australia,Technology,Basic
+CUST_000342,617,12,2219.38,1,4,4,144,9,At Risk,USA,Energy,Professional
+CUST_000343,17,30,3352.47,3,5,4,354,12,Potential Loyalists,Brazil,Consulting,Professional
+CUST_000344,311,20,1539.11,1,4,3,143,8,At Risk,France,Real Estate,Basic
+CUST_000345,11,31,2551.59,4,5,4,454,13,Champions,Australia,Manufacturing,Basic
+CUST_000346,764,7,1080.9099999999999,1,3,3,133,7,At Risk,UK,Media,Professional
+CUST_000347,9,32,2591.75,4,5,4,454,13,Champions,Germany,Technology,Basic
+CUST_000348,9,31,3529.11,4,5,4,454,13,Champions,USA,Consulting,Professional
+CUST_000349,309,22,3715.15,1,5,4,154,10,At Risk,USA,Media,Professional
+CUST_000350,11,30,6450.29,4,5,5,455,14,Champions,USA,Healthcare,Professional
+CUST_000351,6,32,3131.17,5,5,4,554,14,Champions,Germany,Technology,Basic
+CUST_000352,6,29,2867.96,5,5,4,554,14,Champions,UK,Healthcare,Basic
+CUST_000353,8,31,33015.38,5,5,5,555,15,Champions,USA,Real Estate,Premium
+CUST_000354,7,31,13275.21,5,5,5,555,15,Champions,UK,Media,Enterprise
+CUST_000355,7,28,7197.41,5,5,5,555,15,Champions,USA,Finance,Professional
+CUST_000356,3,31,5409.93,5,5,5,555,15,Champions,Australia,Media,Professional
+CUST_000357,30,29,5608.47,2,5,5,255,12,At Risk,Germany,Media,Professional
+CUST_000358,899,2,1080.27,1,1,3,113,5,Hibernating,UK,Media,Enterprise
+CUST_000359,27,29,37166.99,2,5,5,255,12,At Risk,Japan,Energy,Premium
+CUST_000360,29,29,3597.13,2,5,4,254,11,At Risk,USA,Education,Professional
+CUST_000361,29,31,1790.49,2,5,3,253,10,At Risk,India,Energy,Basic
+CUST_000362,26,29,7321.71,2,5,5,255,12,At Risk,USA,Finance,Professional
+CUST_000363,28,29,26018.09,2,5,5,255,12,At Risk,France,Retail,Enterprise
+CUST_000364,626,10,9681.69,1,3,5,135,9,At Risk,USA,Technology,Enterprise
+CUST_000365,28,28,2134.25,2,5,4,254,11,At Risk,USA,Real Estate,Basic
+CUST_000366,83,26,15476.74,1,5,5,155,11,At Risk,USA,Energy,Enterprise
+CUST_000367,24,29,7789.5599999999995,2,5,5,255,12,At Risk,France,Media,Professional
+CUST_000368,21,30,18620.11,3,5,5,355,13,Potential Loyalists,UK,Retail,Enterprise
+CUST_000369,620,9,4410.25,1,3,4,134,8,At Risk,UK,Finance,Enterprise
+CUST_000370,17,29,904.64,3,5,3,353,11,Potential Loyalists,UK,Healthcare,Basic
+CUST_000371,15,28,2088.25,4,5,4,454,13,Champions,Germany,Media,Basic
+CUST_000372,197,25,3660.18,1,5,4,154,10,At Risk,Canada,Technology,Professional
+CUST_000373,9,30,11434.72,4,5,5,455,14,Champions,USA,Healthcare,Enterprise
+CUST_000374,13,28,5425.82,4,5,5,455,14,Champions,UK,Technology,Professional
+CUST_000375,9,29,4389.76,4,5,4,454,13,Champions,Brazil,Technology,Professional
+CUST_000376,6,30,55785.75,5,5,5,555,15,Champions,USA,Technology,Premium
+CUST_000377,10,30,2067.83,4,5,4,454,13,Champions,France,Retail,Basic
+CUST_000378,8,28,11279.02,5,5,5,555,15,Champions,USA,Technology,Enterprise
+CUST_000379,4,30,4442.95,5,5,4,554,14,Champions,France,Manufacturing,Professional
+CUST_000380,34,30,15802.07,1,5,5,155,11,At Risk,Brazil,Consulting,Enterprise
+CUST_000381,31,28,2382.28,1,5,4,154,10,At Risk,USA,Consulting,Basic
+CUST_000382,32,28,4115.61,1,5,4,154,10,At Risk,USA,Education,Professional
+CUST_000383,28,28,8816.14,2,5,5,255,12,At Risk,USA,Finance,Professional
+CUST_000384,53,29,13144.61,1,5,5,155,11,At Risk,Australia,Energy,Enterprise
+CUST_000385,19,30,14876.05,3,5,5,355,13,Potential Loyalists,UK,Manufacturing,Enterprise
+CUST_000386,21,28,27336.98,3,5,5,355,13,Potential Loyalists,USA,Energy,Enterprise
+CUST_000387,20,29,2147.5,3,5,4,354,12,Potential Loyalists,USA,Finance,Basic
+CUST_000388,857,2,130.07999999999998,1,1,1,111,3,Hibernating,Australia,Media,Basic
+CUST_000389,768,5,1485.1999999999998,1,2,3,123,6,Hibernating,USA,Technology,Professional
+CUST_000390,19,28,7481.84,3,5,5,355,13,Potential Loyalists,Canada,Media,Professional
+CUST_000391,47,29,6937.39,1,5,5,155,11,At Risk,Canada,Education,Professional
+CUST_000392,15,28,1111.67,4,5,3,453,12,Loyal Customers,USA,Media,Basic
+CUST_000393,12,29,12779.92,4,5,5,455,14,Champions,USA,Media,Enterprise
+CUST_000394,15,30,6037.09,4,5,5,455,14,Champions,France,Energy,Professional
+CUST_000395,10,27,43034.42,4,5,5,455,14,Champions,Germany,Retail,Premium
+CUST_000396,11,29,7733.36,4,5,5,455,14,Champions,USA,Finance,Professional
+CUST_000397,11,30,6378.16,4,5,5,455,14,Champions,Germany,Technology,Professional
+CUST_000398,13,27,18755.57,4,5,5,455,14,Champions,USA,Media,Enterprise
+CUST_000399,191,24,4275.63,1,5,4,154,10,At Risk,India,Finance,Professional
+CUST_000400,7,25,11422.11,5,5,5,555,15,Champions,Canada,Manufacturing,Enterprise
+CUST_000401,6,29,2807.48,5,5,4,554,14,Champions,Canada,Healthcare,Basic
+CUST_000402,7,30,3617.9,5,5,4,554,14,Champions,France,Education,Professional
+CUST_000403,247,19,2054.58,1,4,4,144,9,At Risk,UK,Retail,Professional
+CUST_000404,6,29,23255.41,5,5,5,555,15,Champions,India,Media,Enterprise
+CUST_000405,3,29,953.41,5,5,3,553,13,Loyal Customers,Germany,Consulting,Basic
+CUST_000406,602,10,4433.35,1,3,4,134,8,At Risk,Singapore,Healthcare,Enterprise
+CUST_000407,363,17,14119.73,1,4,5,145,10,At Risk,USA,Consulting,Enterprise
+CUST_000408,484,14,2046.31,1,4,4,144,9,At Risk,Japan,Energy,Professional
+CUST_000409,61,25,2287.73,1,5,4,154,10,At Risk,France,Retail,Basic
+CUST_000410,28,28,1454.66,2,5,3,253,10,At Risk,USA,Education,Basic
+CUST_000411,28,29,1276.1,2,5,3,253,10,At Risk,Australia,Technology,Basic
+CUST_000412,23,27,2657.5299999999997,2,5,4,254,11,At Risk,UK,Retail,Basic
+CUST_000413,740,5,4324.57,1,2,4,124,7,Hibernating,Germany,Healthcare,Enterprise
+CUST_000414,438,15,1391.82,1,4,3,143,8,At Risk,UK,Real Estate,Basic
+CUST_000415,801,3,706.71,1,2,2,122,5,Hibernating,Canada,Consulting,Professional
+CUST_000416,767,3,881.6400000000001,1,2,3,123,6,Hibernating,USA,Media,Professional
+CUST_000417,21,27,1475.77,3,5,3,353,11,Potential Loyalists,USA,Energy,Basic
+CUST_000418,408,14,2558.9,1,4,4,144,9,At Risk,Germany,Manufacturing,Professional
+CUST_000419,796,3,219.27,1,2,1,121,4,Hibernating,Brazil,Energy,Basic
+CUST_000420,616,7,1096.69,1,3,3,133,7,At Risk,France,Manufacturing,Professional
+CUST_000421,17,27,7670.6,3,5,5,355,13,Potential Loyalists,USA,Energy,Professional
+CUST_000422,16,26,31400.43,3,5,5,355,13,Potential Loyalists,USA,Real Estate,Premium
+CUST_000423,135,20,5134.83,1,4,5,145,10,At Risk,USA,Real Estate,Professional
+CUST_000424,14,29,82335.47,4,5,5,455,14,Champions,USA,Education,Premium
+CUST_000425,10,28,4743.83,4,5,4,454,13,Champions,Germany,Education,Professional
+CUST_000426,12,28,5959.3,4,5,5,455,14,Champions,USA,Technology,Professional
+CUST_000427,13,28,23356.0,4,5,5,455,14,Champions,USA,Retail,Enterprise
+CUST_000428,9,27,1327.49,4,5,3,453,12,Loyal Customers,USA,Technology,Basic
+CUST_000429,8,28,6123.91,5,5,5,555,15,Champions,USA,Consulting,Professional
+CUST_000430,8,24,1215.07,5,5,3,553,13,Loyal Customers,Germany,Media,Basic
+CUST_000431,157,22,3724.87,1,5,4,154,10,At Risk,Australia,Retail,Professional
+CUST_000432,3,27,5895.19,5,5,5,555,15,Champions,Germany,Media,Professional
+CUST_000433,5,27,5500.9800000000005,5,5,5,555,15,Champions,UK,Retail,Professional
+CUST_000434,3,29,1417.78,5,5,3,553,13,Loyal Customers,USA,Education,Basic
+CUST_000435,5,25,73241.1,5,5,5,555,15,Champions,Japan,Real Estate,Premium
+CUST_000436,1,26,1656.61,5,5,3,553,13,Loyal Customers,UK,Real Estate,Basic
+CUST_000437,389,15,2011.3999999999999,1,4,4,144,9,At Risk,France,Education,Professional
+CUST_000438,28,26,1689.44,2,5,3,253,10,At Risk,USA,Energy,Basic
+CUST_000439,28,25,7553.11,2,5,5,255,12,At Risk,Canada,Energy,Professional
+CUST_000440,28,23,1536.97,2,5,3,253,10,At Risk,USA,Technology,Basic
+CUST_000441,717,5,1509.33,1,2,3,123,6,Hibernating,USA,Healthcare,Professional
+CUST_000442,24,26,2261.18,2,5,4,254,11,At Risk,USA,Technology,Basic
+CUST_000443,25,26,1013.69,2,5,3,253,10,At Risk,Australia,Media,Basic
+CUST_000444,23,27,914.51,2,5,3,253,10,At Risk,France,Retail,Basic
+CUST_000445,21,27,830.05,3,5,2,352,10,Promising,USA,Finance,Basic
+CUST_000446,15,27,17193.89,4,5,5,455,14,Champions,Canada,Energy,Enterprise
+CUST_000447,12,26,1935.37,4,5,4,454,13,Champions,Japan,Technology,Basic
+CUST_000448,41,23,2193.2200000000003,1,5,4,154,10,At Risk,France,Consulting,Basic
+CUST_000449,12,26,8179.14,4,5,5,455,14,Champions,USA,Real Estate,Enterprise
+CUST_000450,610,8,565.31,1,3,2,132,6,At Risk,USA,Energy,Basic
+CUST_000451,7,28,863.1800000000001,5,5,2,552,12,Loyal Customers,USA,Technology,Basic
+CUST_000452,9,26,5621.87,4,5,5,455,14,Champions,USA,Manufacturing,Professional
+CUST_000453,5,28,8994.62,5,5,5,555,15,Champions,UK,Manufacturing,Enterprise
+CUST_000454,695,3,276.3,1,2,1,121,4,Hibernating,Australia,Media,Basic
+CUST_000455,5,26,950.72,5,5,3,553,13,Loyal Customers,USA,Finance,Basic
+CUST_000456,306,17,1125.59,1,4,3,143,8,At Risk,France,Healthcare,Basic
+CUST_000457,694,5,698.76,1,2,2,122,5,Hibernating,France,Retail,Professional
+CUST_000458,303,18,2686.57,1,4,4,144,9,At Risk,Germany,Energy,Professional
+CUST_000459,6,26,40523.14,5,5,5,555,15,Champions,USA,Education,Premium
+CUST_000460,1,28,977.88,5,5,3,553,13,Loyal Customers,Australia,Media,Basic
+CUST_000461,180,21,3967.32,1,5,4,154,10,At Risk,Japan,Media,Professional
+CUST_000462,29,25,24713.73,2,5,5,255,12,At Risk,Brazil,Retail,Enterprise
+CUST_000463,31,26,1350.75,1,5,3,153,9,At Risk,UK,Retail,Basic
+CUST_000464,31,26,6087.44,1,5,5,155,11,At Risk,USA,Healthcare,Professional
+CUST_000465,27,27,997.03,2,5,3,253,10,At Risk,France,Technology,Basic
+CUST_000466,28,26,15008.57,2,5,5,255,12,At Risk,USA,Media,Enterprise
+CUST_000467,26,26,2949.81,2,5,4,254,11,At Risk,Singapore,Real Estate,Professional
+CUST_000468,178,21,1657.76,1,5,3,153,9,At Risk,USA,Technology,Basic
+CUST_000469,25,25,16763.65,2,5,5,255,12,At Risk,USA,Healthcare,Enterprise
+CUST_000470,24,25,5810.93,2,5,5,255,12,At Risk,USA,Media,Professional
+CUST_000471,24,25,5545.21,2,5,5,255,12,At Risk,USA,Education,Professional
+CUST_000472,24,24,22528.41,2,5,5,255,12,At Risk,France,Healthcare,Enterprise
+CUST_000473,51,26,1175.1,1,5,3,153,9,At Risk,USA,Technology,Basic
+CUST_000474,23,24,15290.24,2,5,5,255,12,At Risk,USA,Consulting,Enterprise
+CUST_000475,17,26,7516.42,3,5,5,355,13,Potential Loyalists,Japan,Technology,Professional
+CUST_000476,18,25,7012.63,3,5,5,355,13,Potential Loyalists,France,Manufacturing,Professional
+CUST_000477,15,24,18477.89,4,5,5,455,14,Champions,USA,Consulting,Enterprise
+CUST_000478,585,8,761.48,1,3,2,132,6,At Risk,UK,Finance,Basic
+CUST_000479,17,25,763.79,3,5,2,352,10,Promising,Germany,Education,Basic
+CUST_000480,42,22,4811.23,1,5,5,155,11,At Risk,USA,Retail,Professional
+CUST_000481,14,25,7217.69,4,5,5,455,14,Champions,USA,Media,Professional
+CUST_000482,11,27,1105.93,4,5,3,453,12,Loyal Customers,USA,Manufacturing,Basic
+CUST_000483,9,26,1828.8700000000001,4,5,3,453,12,Loyal Customers,USA,Retail,Basic
+CUST_000484,456,11,828.86,1,3,2,132,6,At Risk,Canada,Media,Basic
+CUST_000485,8,24,4032.64,5,5,4,554,14,Champions,Germany,Energy,Professional
+CUST_000486,400,14,36591.82,1,4,5,145,10,At Risk,France,Finance,Premium
+CUST_000487,7,26,1697.62,5,5,3,553,13,Loyal Customers,Canada,Healthcare,Basic
+CUST_000488,6,26,887.12,5,5,3,553,13,Loyal Customers,USA,Education,Basic
+CUST_000489,7,26,1184.51,5,5,3,553,13,Loyal Customers,France,Media,Basic
+CUST_000490,5,27,4590.42,5,5,4,554,14,Champions,Germany,Healthcare,Professional
+CUST_000491,392,14,14109.720000000001,1,4,5,145,10,At Risk,UK,Consulting,Enterprise
+CUST_000492,301,16,1572.73,1,4,3,143,8,At Risk,USA,Media,Basic
+CUST_000493,540,9,936.4300000000001,1,3,3,133,7,At Risk,Canada,Education,Professional
+CUST_000494,267,17,4460.93,1,4,4,144,9,At Risk,Canada,Manufacturing,Professional
+CUST_000495,148,20,12691.43,1,4,5,145,10,At Risk,USA,Real Estate,Enterprise
+CUST_000496,88,21,4375.86,1,5,4,154,10,At Risk,Australia,Education,Professional
+CUST_000497,598,7,1391.87,1,3,3,133,7,At Risk,USA,Media,Professional
+CUST_000498,24,25,1942.8700000000001,2,5,4,254,11,At Risk,UK,Consulting,Basic
+CUST_000499,22,25,2198.69,3,5,4,354,12,Potential Loyalists,Brazil,Healthcare,Basic
+CUST_000500,413,12,3127.91,1,4,4,144,9,At Risk,India,Manufacturing,Professional
+CUST_000501,20,26,3012.26,3,5,4,354,12,Potential Loyalists,USA,Healthcare,Professional
+CUST_000502,17,22,3926.0299999999997,3,5,4,354,12,Potential Loyalists,Japan,Finance,Professional
+CUST_000503,18,25,6481.29,3,5,5,355,13,Potential Loyalists,Australia,Finance,Professional
+CUST_000504,46,22,12164.15,1,5,5,155,11,At Risk,Canada,Education,Enterprise
+CUST_000505,587,7,713.41,1,3,2,132,6,At Risk,USA,Healthcare,Professional
+CUST_000506,492,9,17096.05,1,3,5,135,9,At Risk,USA,Manufacturing,Premium
+CUST_000507,13,25,927.13,4,5,3,453,12,Loyal Customers,India,Manufacturing,Basic
+CUST_000508,9,25,11037.41,4,5,5,455,14,Champions,Canada,Healthcare,Enterprise
+CUST_000509,12,25,5282.79,4,5,5,455,14,Champions,USA,Real Estate,Professional
+CUST_000510,11,25,1463.91,4,5,3,453,12,Loyal Customers,Brazil,Energy,Basic
+CUST_000511,7,25,898.51,5,5,3,553,13,Loyal Customers,Canada,Technology,Basic
+CUST_000512,5,23,28009.95,5,5,5,555,15,Champions,Brazil,Energy,Premium
+CUST_000513,5,25,6553.62,5,5,5,555,15,Champions,India,Consulting,Professional
+CUST_000514,2,24,7360.72,5,5,5,555,15,Champions,Japan,Media,Enterprise
+CUST_000515,2,24,13820.36,5,5,5,555,15,Champions,UK,Media,Enterprise
+CUST_000516,30,23,5763.55,2,5,5,255,12,At Risk,USA,Healthcare,Professional
+CUST_000517,121,22,2047.6200000000001,1,5,4,154,10,At Risk,USA,Energy,Basic
+CUST_000518,632,5,1102.28,1,2,3,123,6,Hibernating,USA,Retail,Professional
+CUST_000519,30,25,6064.68,2,5,5,255,12,At Risk,UK,Finance,Professional
+CUST_000520,29,25,977.47,2,5,3,253,10,At Risk,USA,Finance,Basic
+CUST_000521,26,23,11306.25,2,5,5,255,12,At Risk,Germany,Manufacturing,Enterprise
+CUST_000522,26,24,2675.3,2,5,4,254,11,At Risk,UK,Finance,Professional
+CUST_000523,29,21,3312.43,2,5,4,254,11,At Risk,Brazil,Media,Professional
+CUST_000524,28,24,1535.94,2,5,3,253,10,At Risk,USA,Manufacturing,Basic
+CUST_000525,477,8,425.2,1,3,2,132,6,At Risk,Japan,Healthcare,Basic
+CUST_000526,174,20,4835.84,1,4,5,145,10,At Risk,Japan,Retail,Professional
+CUST_000527,27,23,16639.58,2,5,5,255,12,At Risk,India,Real Estate,Enterprise
+CUST_000528,505,9,535.45,1,3,2,132,6,At Risk,Singapore,Retail,Basic
+CUST_000529,27,23,3721.06,2,5,4,254,11,At Risk,Australia,Finance,Professional
+CUST_000530,21,24,4069.55,3,5,4,354,12,Potential Loyalists,Germany,Media,Professional
+CUST_000531,20,23,40250.49,3,5,5,355,13,Potential Loyalists,Japan,Consulting,Premium
+CUST_000532,260,16,3037.2,1,4,4,144,9,At Risk,Australia,Education,Professional
+CUST_000533,19,20,5333.95,3,4,5,345,12,Potential Loyalists,UK,Media,Professional
+CUST_000534,17,20,781.17,3,4,2,342,9,Promising,USA,Consulting,Basic
+CUST_000535,17,24,1747.1299999999999,3,5,3,353,11,Potential Loyalists,UK,Education,Basic
+CUST_000536,17,24,1506.34,3,5,3,353,11,Potential Loyalists,USA,Retail,Basic
+CUST_000537,15,24,2332.47,4,5,4,454,13,Champions,USA,Finance,Basic
+CUST_000538,14,22,3495.29,4,5,4,454,13,Champions,Singapore,Education,Professional
+CUST_000539,13,24,6992.1,4,5,5,455,14,Champions,UK,Real Estate,Professional
+CUST_000540,12,23,38103.11,4,5,5,455,14,Champions,USA,Retail,Premium
+CUST_000541,7,24,2113.2,5,5,4,554,14,Champions,Australia,Manufacturing,Basic
+CUST_000542,8,25,14000.89,5,5,5,555,15,Champions,UK,Media,Enterprise
+CUST_000543,7,24,3461.5299999999997,5,5,4,554,14,Champions,India,Consulting,Professional
+CUST_000544,5,25,1057.31,5,5,3,553,13,Loyal Customers,France,Energy,Basic
+CUST_000545,35,23,708.91,1,5,2,152,8,At Risk,Singapore,Energy,Basic
+CUST_000546,6,25,7155.14,5,5,5,555,15,Champions,India,Real Estate,Professional
+CUST_000547,6,23,4406.7,5,5,4,554,14,Champions,France,Retail,Professional
+CUST_000548,337,12,1070.3,1,4,3,143,8,At Risk,USA,Manufacturing,Basic
+CUST_000549,4,23,1994.11,5,5,4,554,14,Champions,USA,Healthcare,Basic
+CUST_000550,4,24,1815.7,5,5,3,553,13,Loyal Customers,Australia,Media,Basic
+CUST_000551,332,13,28515.07,1,4,5,145,10,At Risk,USA,Finance,Premium
+CUST_000552,422,9,4248.08,1,3,4,134,8,At Risk,Brazil,Retail,Enterprise
+CUST_000553,3,22,1766.41,5,5,3,553,13,Loyal Customers,Singapore,Finance,Basic
+CUST_000554,33,24,8641.25,1,5,5,155,11,At Risk,UK,Media,Enterprise
+CUST_000555,541,6,360.09000000000003,1,3,2,132,6,At Risk,Canada,Consulting,Basic
+CUST_000556,28,24,1629.37,2,5,3,253,10,At Risk,Australia,Media,Basic
+CUST_000557,417,9,1829.3899999999999,1,3,3,133,7,At Risk,USA,Media,Professional
+CUST_000558,28,23,5534.48,2,5,5,255,12,At Risk,France,Education,Professional
+CUST_000559,21,22,16029.36,3,5,5,355,13,Potential Loyalists,USA,Energy,Enterprise
+CUST_000560,24,24,912.01,2,5,3,253,10,At Risk,USA,Healthcare,Basic
+CUST_000561,24,22,51127.72,2,5,5,255,12,At Risk,Brazil,Retail,Premium
+CUST_000562,20,21,9000.3,3,5,5,355,13,Potential Loyalists,Japan,Education,Enterprise
+CUST_000563,21,24,2607.98,3,5,4,354,12,Potential Loyalists,France,Consulting,Professional
+CUST_000564,19,23,6798.02,3,5,5,355,13,Potential Loyalists,USA,Media,Professional
+CUST_000565,18,24,2310.04,3,5,4,354,12,Potential Loyalists,UK,Education,Basic
+CUST_000566,105,20,2376.68,1,4,4,144,9,At Risk,Canada,Media,Professional
+CUST_000567,16,23,1077.75,3,5,3,353,11,Potential Loyalists,USA,Healthcare,Basic
+CUST_000568,13,23,1890.42,4,5,3,453,12,Loyal Customers,Canada,Energy,Basic
+CUST_000569,639,3,617.46,1,2,2,122,5,Hibernating,Japan,Energy,Professional
+CUST_000570,491,8,1106.93,1,3,3,133,7,At Risk,Germany,Consulting,Professional
+CUST_000571,159,17,945.19,1,4,3,143,8,At Risk,Japan,Education,Basic
+CUST_000572,12,23,5467.17,4,5,5,455,14,Champions,Canada,Consulting,Professional
+CUST_000573,9,23,12403.13,4,5,5,455,14,Champions,USA,Finance,Enterprise
+CUST_000574,9,23,4525.85,4,5,4,454,13,Champions,Australia,Technology,Professional
+CUST_000575,6,20,11814.869999999999,5,4,5,545,14,Champions,Japan,Manufacturing,Enterprise
+CUST_000576,8,23,9130.61,5,5,5,555,15,Champions,Canada,Healthcare,Enterprise
+CUST_000577,7,22,3883.57,5,5,4,554,14,Champions,Canada,Finance,Professional
+CUST_000578,5,23,14505.7,5,5,5,555,15,Champions,France,Education,Enterprise
+CUST_000579,2,23,15204.44,5,5,5,555,15,Champions,USA,Retail,Enterprise
+CUST_000580,575,5,302.1,1,2,1,121,4,Hibernating,Japan,Education,Basic
+CUST_000581,3,24,1969.43,5,5,4,554,14,Champions,Japan,Real Estate,Basic
+CUST_000582,5,23,3793.82,5,5,4,554,14,Champions,UK,Real Estate,Professional
+CUST_000583,5,23,7829.04,5,5,5,555,15,Champions,USA,Manufacturing,Enterprise
+CUST_000584,59,20,2121.23,1,4,4,144,9,At Risk,Japan,Healthcare,Professional
+CUST_000585,29,21,1588.29,2,5,3,253,10,At Risk,USA,Education,Basic
+CUST_000586,28,22,63256.82,2,5,5,255,12,At Risk,France,Finance,Premium
+CUST_000587,568,4,270.18,1,2,1,121,4,Hibernating,France,Retail,Basic
+CUST_000588,28,21,2791.26,2,5,4,254,11,At Risk,France,Energy,Professional
+CUST_000589,24,23,1411.52,2,5,3,253,10,At Risk,Australia,Energy,Basic
+CUST_000590,22,20,3008.37,3,4,4,344,11,Potential Loyalists,Australia,Real Estate,Professional
+CUST_000591,23,21,1575.93,2,5,3,253,10,At Risk,India,Media,Basic
+CUST_000592,23,22,51057.38,2,5,5,255,12,At Risk,France,Finance,Premium
+CUST_000593,560,5,8704.84,1,2,5,125,8,Hibernating,USA,Media,Premium
+CUST_000594,15,22,2076.87,4,5,4,454,13,Champions,Canada,Consulting,Basic
+CUST_000595,17,22,4856.55,3,5,5,355,13,Potential Loyalists,UK,Real Estate,Professional
+CUST_000596,43,22,2182.81,1,5,4,154,10,At Risk,USA,Media,Professional
+CUST_000597,12,22,3099.56,4,5,4,454,13,Champions,UK,Retail,Professional
+CUST_000598,12,21,14928.789999999999,4,5,5,455,14,Champions,USA,Healthcare,Enterprise
+CUST_000599,613,3,4160.45,1,2,4,124,7,Hibernating,Singapore,Energy,Premium
+CUST_000600,11,22,959.53,4,5,3,453,12,Loyal Customers,Canada,Education,Basic
+CUST_000601,7,21,1028.39,5,5,3,553,13,Loyal Customers,Australia,Healthcare,Basic
+CUST_000602,8,21,1398.52,5,5,3,553,13,Loyal Customers,USA,Real Estate,Basic
+CUST_000603,7,20,14580.58,5,4,5,545,14,Champions,Germany,Education,Enterprise
+CUST_000604,6,21,3770.67,5,5,4,554,14,Champions,Canada,Consulting,Professional
+CUST_000605,5,20,34568.81,5,4,5,545,14,Champions,USA,Healthcare,Premium
+CUST_000606,4,21,4734.65,5,5,4,554,14,Champions,UK,Real Estate,Professional
+CUST_000607,513,6,5550.32,1,3,5,135,9,At Risk,USA,Manufacturing,Enterprise
+CUST_000608,6,21,745.19,5,5,2,552,12,Loyal Customers,Canada,Consulting,Basic
+CUST_000609,392,9,1484.21,1,3,3,133,7,At Risk,USA,Finance,Professional
+CUST_000610,32,21,1069.83,1,5,3,153,9,At Risk,France,Retail,Basic
+CUST_000611,32,22,1219.31,1,5,3,153,9,At Risk,India,Finance,Basic
+CUST_000612,29,22,44525.37,2,5,5,255,12,At Risk,UK,Finance,Premium
+CUST_000613,28,22,4850.0,2,5,5,255,12,At Risk,UK,Media,Professional
+CUST_000614,25,21,1171.85,2,5,3,253,10,At Risk,UK,Consulting,Basic
+CUST_000615,27,21,4195.23,2,5,4,254,11,At Risk,Singapore,Finance,Professional
+CUST_000616,26,21,1688.48,2,5,3,253,10,At Risk,Brazil,Energy,Basic
+CUST_000617,24,21,1439.45,2,5,3,253,10,At Risk,USA,Finance,Basic
+CUST_000618,27,22,1105.92,2,5,3,253,10,At Risk,France,Real Estate,Basic
+CUST_000619,25,22,3573.94,2,5,4,254,11,At Risk,Japan,Finance,Professional
+CUST_000620,22,20,1467.47,3,4,3,343,10,Potential Loyalists,India,Real Estate,Basic
+CUST_000621,20,20,19704.17,3,4,5,345,12,Potential Loyalists,Japan,Education,Enterprise
+CUST_000622,20,21,8525.35,3,5,5,355,13,Potential Loyalists,Australia,Real Estate,Enterprise
+CUST_000623,18,20,5857.42,3,4,5,345,12,Potential Loyalists,Australia,Media,Professional
+CUST_000624,17,22,1665.01,3,5,3,353,11,Potential Loyalists,USA,Energy,Basic
+CUST_000625,19,21,5145.42,3,5,5,355,13,Potential Loyalists,Brazil,Media,Professional
+CUST_000626,13,21,5104.72,4,5,5,455,14,Champions,Australia,Media,Professional
+CUST_000627,223,13,834.33,1,4,2,142,7,At Risk,USA,Real Estate,Basic
+CUST_000628,14,22,4685.05,4,5,4,454,13,Champions,Canada,Healthcare,Professional
+CUST_000629,14,22,3473.0299999999997,4,5,4,454,13,Champions,USA,Retail,Professional
+CUST_000630,434,8,1189.47,1,3,3,133,7,At Risk,USA,Manufacturing,Professional
+CUST_000631,432,8,3457.89,1,3,4,134,8,At Risk,USA,Manufacturing,Enterprise
+CUST_000632,431,8,1849.48,1,3,3,133,7,At Risk,UK,Real Estate,Professional
+CUST_000633,10,21,1428.93,4,5,3,453,12,Loyal Customers,USA,Real Estate,Basic
+CUST_000634,219,13,2832.8,1,4,4,144,9,At Risk,UK,Healthcare,Professional
+CUST_000635,102,17,1392.76,1,4,3,143,8,At Risk,France,Manufacturing,Basic
+CUST_000636,9,20,13520.16,4,4,5,445,13,Champions,Canada,Education,Enterprise
+CUST_000637,10,22,1826.07,4,5,3,453,12,Loyal Customers,Australia,Technology,Basic
+CUST_000638,8,21,1475.09,5,5,3,553,13,Loyal Customers,Germany,Real Estate,Basic
+CUST_000639,8,19,23198.0,5,4,5,545,14,Champions,USA,Media,Premium
+CUST_000640,9,21,3407.45,4,5,4,454,13,Champions,USA,Retail,Professional
+CUST_000641,245,13,2584.4,1,4,4,144,9,At Risk,France,Technology,Professional
+CUST_000642,427,7,627.79,1,3,2,132,6,At Risk,Germany,Education,Basic
+CUST_000643,6,20,3748.14,5,4,4,544,13,Champions,UK,Healthcare,Professional
+CUST_000644,3,20,1701.79,5,4,3,543,12,Loyal Customers,USA,Healthcare,Basic
+CUST_000645,5,21,928.73,5,5,3,553,13,Loyal Customers,USA,Retail,Basic
+CUST_000646,3,21,1681.48,5,5,3,553,13,Loyal Customers,UK,Consulting,Basic
+CUST_000647,4,22,4983.42,5,5,5,555,15,Champions,Germany,Consulting,Professional
+CUST_000648,3,22,1637.14,5,5,3,553,13,Loyal Customers,Australia,Finance,Basic
+CUST_000649,59,20,1746.66,1,4,3,143,8,At Risk,USA,Retail,Basic
+CUST_000650,62,19,4063.66,1,4,4,144,9,At Risk,France,Technology,Professional
+CUST_000651,300,12,20032.13,1,4,5,145,10,At Risk,USA,Energy,Premium
+CUST_000652,28,19,2541.81,2,4,4,244,10,At Risk,USA,Energy,Professional
+CUST_000653,29,20,10108.39,2,4,5,245,11,At Risk,Canada,Manufacturing,Enterprise
+CUST_000654,27,20,19718.170000000002,2,4,5,245,11,At Risk,Canada,Manufacturing,Enterprise
+CUST_000655,58,18,18581.42,1,4,5,145,10,At Risk,UK,Energy,Enterprise
+CUST_000656,26,20,7941.16,2,4,5,245,11,At Risk,USA,Healthcare,Enterprise
+CUST_000657,563,3,2795.7,1,2,4,124,7,Hibernating,Germany,Media,Enterprise
+CUST_000658,26,20,5528.7,2,4,5,245,11,At Risk,Germany,Manufacturing,Professional
+CUST_000659,237,13,3068.45,1,4,4,144,9,At Risk,Germany,Finance,Professional
+CUST_000660,52,18,839.86,1,4,2,142,7,At Risk,USA,Finance,Basic
+CUST_000661,534,3,272.49,1,2,1,121,4,Hibernating,USA,Education,Basic
+CUST_000662,22,20,1298.5,3,4,3,343,10,Potential Loyalists,Japan,Media,Basic
+CUST_000663,22,17,1328.18,3,4,3,343,10,Potential Loyalists,Singapore,Consulting,Basic
+CUST_000664,22,19,10901.86,3,4,5,345,12,Potential Loyalists,USA,Media,Enterprise
+CUST_000665,22,19,4279.24,3,4,4,344,11,Potential Loyalists,France,Healthcare,Professional
+CUST_000666,20,19,3445.4,3,4,4,344,11,Potential Loyalists,Germany,Healthcare,Professional
+CUST_000667,17,21,50483.71,3,5,5,355,13,Potential Loyalists,USA,Manufacturing,Premium
+CUST_000668,15,17,3394.92,4,4,4,444,12,Champions,Singapore,Education,Professional
+CUST_000669,16,20,3419.62,3,4,4,344,11,Potential Loyalists,USA,Real Estate,Professional
+CUST_000670,16,20,1802.05,3,4,3,343,10,Potential Loyalists,USA,Technology,Basic
+CUST_000671,16,21,5312.7,3,5,5,355,13,Potential Loyalists,USA,Healthcare,Professional
+CUST_000672,12,21,5049.27,4,5,5,455,14,Champions,Japan,Real Estate,Professional
+CUST_000673,9,20,5448.82,4,4,5,445,13,Champions,Canada,Education,Professional
+CUST_000674,9,18,1052.34,4,4,3,443,11,Loyal Customers,UK,Energy,Basic
+CUST_000675,9,21,1823.53,4,5,3,453,12,Loyal Customers,Singapore,Media,Basic
+CUST_000676,10,19,2907.25,4,4,4,444,12,Champions,Japan,Real Estate,Professional
+CUST_000677,191,14,2422.6,1,4,4,144,9,At Risk,UK,Manufacturing,Professional
+CUST_000678,9,21,8533.67,4,5,5,455,14,Champions,Germany,Consulting,Enterprise
+CUST_000679,9,18,4680.38,4,4,4,444,12,Champions,Brazil,Real Estate,Professional
+CUST_000680,7,17,1946.09,5,4,4,544,13,Champions,USA,Technology,Professional
+CUST_000681,6,19,583.92,5,4,2,542,11,Loyal Customers,Brazil,Real Estate,Basic
+CUST_000682,3,20,3756.11,5,4,4,544,13,Champions,France,Finance,Professional
+CUST_000683,4,18,1789.74,5,4,3,543,12,Loyal Customers,Canada,Technology,Basic
+CUST_000684,3,21,9460.95,5,5,5,555,15,Champions,Canada,Media,Enterprise
+CUST_000685,1,20,1863.58,5,4,3,543,12,Loyal Customers,USA,Finance,Basic
+CUST_000686,62,18,728.46,1,4,2,142,7,At Risk,Singapore,Manufacturing,Basic
+CUST_000687,1,19,2250.89,5,4,4,544,13,Champions,Japan,Manufacturing,Professional
+CUST_000688,30,20,10043.61,2,4,5,245,11,At Risk,USA,Education,Enterprise
+CUST_000689,28,20,4763.42,2,4,4,244,10,At Risk,UK,Education,Professional
+CUST_000690,27,17,1946.92,2,4,4,244,10,At Risk,UK,Finance,Professional
+CUST_000691,26,20,1602.03,2,4,3,243,9,At Risk,USA,Manufacturing,Basic
+CUST_000692,148,16,944.39,1,4,3,143,8,At Risk,India,Retail,Basic
+CUST_000693,27,19,1516.94,2,4,3,243,9,At Risk,France,Healthcare,Basic
+CUST_000694,25,20,941.3100000000001,2,4,3,243,9,At Risk,Australia,Technology,Basic
+CUST_000695,534,3,365.44,1,2,2,122,5,Hibernating,India,Healthcare,Professional
+CUST_000696,20,19,1275.23,3,4,3,343,10,Potential Loyalists,USA,Retail,Basic
+CUST_000697,19,19,1992.37,3,4,4,344,11,Potential Loyalists,USA,Real Estate,Professional
+CUST_000698,16,19,17202.7,3,4,5,345,12,Potential Loyalists,UK,Education,Enterprise
+CUST_000699,18,19,1514.19,3,4,3,343,10,Potential Loyalists,UK,Media,Basic
+CUST_000700,17,20,2273.43,3,4,4,344,11,Potential Loyalists,France,Real Estate,Professional
+CUST_000701,17,18,675.47,3,4,2,342,9,Promising,USA,Media,Basic
+CUST_000702,13,18,2254.61,4,4,4,444,12,Champions,USA,Healthcare,Professional
+CUST_000703,14,19,5306.06,4,4,5,445,13,Champions,France,Education,Professional
+CUST_000704,15,20,11858.89,4,4,5,445,13,Champions,Japan,Finance,Enterprise
+CUST_000705,15,20,15237.55,4,5,5,455,14,Champions,France,Finance,Enterprise
+CUST_000706,14,19,659.75,4,4,2,442,10,Loyal Customers,USA,Finance,Basic
+CUST_000707,13,19,570.31,4,4,2,442,10,Loyal Customers,USA,Consulting,Basic
+CUST_000708,12,19,36439.229999999996,4,4,5,445,13,Champions,Germany,Finance,Premium
+CUST_000709,10,18,1337.26,4,4,3,443,11,Loyal Customers,USA,Retail,Basic
+CUST_000710,159,15,43390.49,1,4,5,145,10,At Risk,Germany,Finance,Premium
+CUST_000711,10,20,4854.02,4,5,5,455,14,Champions,UK,Consulting,Professional
+CUST_000712,9,19,690.0,4,4,2,442,10,Loyal Customers,USA,Retail,Basic
+CUST_000713,9,18,23001.45,4,4,5,445,13,Champions,Singapore,Healthcare,Premium
+CUST_000714,4,18,40660.25,5,4,5,545,14,Champions,USA,Healthcare,Premium
+CUST_000715,514,3,1553.87,1,2,3,123,6,Hibernating,France,Media,Enterprise
+CUST_000716,3,19,3167.88,5,4,4,544,13,Champions,Germany,Media,Professional
+CUST_000717,5,19,2814.41,5,4,4,544,13,Champions,Germany,Finance,Professional
+CUST_000718,30,18,862.94,2,4,2,242,8,At Risk,USA,Healthcare,Basic
+CUST_000719,60,15,3292.7200000000003,1,4,4,144,9,At Risk,UK,Consulting,Professional
+CUST_000720,28,17,2791.37,2,4,4,244,10,At Risk,USA,Consulting,Professional
+CUST_000721,30,18,1605.7,2,4,3,243,9,At Risk,India,Technology,Basic
+CUST_000722,30,16,2252.2,2,4,4,244,10,At Risk,Canada,Manufacturing,Professional
+CUST_000723,28,19,1251.69,2,4,3,243,9,At Risk,Japan,Consulting,Basic
+CUST_000724,28,18,9121.82,2,4,5,245,11,At Risk,Canada,Media,Enterprise
+CUST_000725,26,17,4549.55,2,4,4,244,10,At Risk,India,Technology,Professional
+CUST_000726,26,18,3662.98,2,4,4,244,10,At Risk,Germany,Retail,Professional
+CUST_000727,28,19,2797.05,2,4,4,244,10,At Risk,Japan,Healthcare,Professional
+CUST_000728,26,18,21128.52,2,4,5,245,11,At Risk,USA,Consulting,Premium
+CUST_000729,27,18,5314.48,2,4,5,245,11,At Risk,Canada,Technology,Professional
+CUST_000730,25,17,2200.03,2,4,4,244,10,At Risk,USA,Education,Professional
+CUST_000731,56,17,3108.0,1,4,4,144,9,At Risk,UK,Consulting,Professional
+CUST_000732,25,16,3778.0,2,4,4,244,10,At Risk,USA,Energy,Professional
+CUST_000733,22,16,1521.7,3,4,3,343,10,Potential Loyalists,Singapore,Real Estate,Basic
+CUST_000734,18,16,1724.98,3,4,3,343,10,Potential Loyalists,Singapore,Healthcare,Professional
+CUST_000735,21,17,5276.5,3,4,5,345,12,Potential Loyalists,Japan,Healthcare,Enterprise
+CUST_000736,21,17,1818.63,3,4,3,343,10,Potential Loyalists,Germany,Retail,Professional
+CUST_000737,16,18,5222.08,3,4,5,345,12,Potential Loyalists,Japan,Technology,Professional
+CUST_000738,16,17,3461.9700000000003,3,4,4,344,11,Potential Loyalists,UK,Media,Professional
+CUST_000739,17,19,16114.27,3,4,5,345,12,Potential Loyalists,Australia,Energy,Enterprise
+CUST_000740,17,19,4549.61,3,4,4,344,11,Potential Loyalists,Australia,Media,Professional
+CUST_000741,15,19,1465.73,4,4,3,443,11,Loyal Customers,Australia,Healthcare,Basic
+CUST_000742,13,18,1296.66,4,4,3,443,11,Loyal Customers,Germany,Energy,Basic
+CUST_000743,343,8,279.40999999999997,1,3,1,131,5,At Risk,UK,Manufacturing,Basic
+CUST_000744,13,18,3640.01,4,4,4,444,12,Champions,UK,Healthcare,Professional
+CUST_000745,11,19,5724.68,4,4,5,445,13,Champions,UK,Retail,Professional
+CUST_000746,11,18,1245.18,4,4,3,443,11,Loyal Customers,USA,Finance,Basic
+CUST_000747,11,19,1372.87,4,4,3,443,11,Loyal Customers,USA,Media,Basic
+CUST_000748,11,19,3079.64,4,4,4,444,12,Champions,France,Healthcare,Professional
+CUST_000749,40,17,4170.08,1,4,4,144,9,At Risk,France,Media,Professional
+CUST_000750,10,17,6049.82,4,4,5,445,13,Champions,UK,Retail,Enterprise
+CUST_000751,7,19,5414.91,5,4,5,545,14,Champions,Germany,Healthcare,Professional
+CUST_000752,7,19,1190.82,5,4,3,543,12,Loyal Customers,USA,Healthcare,Basic
+CUST_000753,6,19,632.29,5,4,2,542,11,Loyal Customers,UK,Consulting,Basic
+CUST_000754,8,16,1990.0,5,4,4,544,13,Champions,France,Finance,Professional
+CUST_000755,8,18,14284.7,5,4,5,545,14,Champions,France,Finance,Enterprise
+CUST_000756,7,17,3471.5099999999998,5,4,4,544,13,Champions,Australia,Finance,Professional
+CUST_000757,4,19,1252.37,5,4,3,543,12,Loyal Customers,India,Education,Basic
+CUST_000758,33,18,762.27,1,4,2,142,7,At Risk,USA,Manufacturing,Basic
+CUST_000759,362,7,6030.16,1,3,5,135,9,At Risk,France,Finance,Enterprise
+CUST_000760,3,18,14794.91,5,4,5,545,14,Champions,USA,Manufacturing,Enterprise
+CUST_000761,6,17,44827.8,5,4,5,545,14,Champions,USA,Healthcare,Premium
+CUST_000762,1,18,946.65,5,4,3,543,12,Loyal Customers,UK,Technology,Basic
+CUST_000763,302,9,443.6,1,3,2,132,6,At Risk,Germany,Media,Basic
+CUST_000764,4,16,763.93,5,4,2,542,11,Loyal Customers,USA,Healthcare,Basic
+CUST_000765,33,18,4075.33,1,4,4,144,9,At Risk,Australia,Consulting,Professional
+CUST_000766,480,2,368.46000000000004,1,1,2,112,4,Hibernating,UK,Real Estate,Professional
+CUST_000767,29,17,582.05,2,4,2,242,8,At Risk,Canada,Education,Basic
+CUST_000768,28,18,736.66,2,4,2,242,8,At Risk,UK,Consulting,Basic
+CUST_000769,28,17,2661.69,2,4,4,244,10,At Risk,USA,Finance,Professional
+CUST_000770,30,18,5156.3,2,4,5,245,11,At Risk,USA,Healthcare,Professional
+CUST_000771,297,9,405.6,1,3,2,132,6,At Risk,Canada,Healthcare,Basic
+CUST_000772,28,17,503.36,2,4,2,242,8,At Risk,Germany,Energy,Basic
+CUST_000773,25,18,2787.06,2,4,4,244,10,At Risk,India,Technology,Professional
+CUST_000774,28,18,3140.54,2,4,4,244,10,At Risk,Australia,Real Estate,Professional
+CUST_000775,25,16,2341.9,2,4,4,244,10,At Risk,USA,Finance,Professional
+CUST_000776,24,18,3879.57,2,4,4,244,10,At Risk,India,Technology,Professional
+CUST_000777,24,17,7798.14,2,4,5,245,11,At Risk,Australia,Media,Enterprise
+CUST_000778,23,16,929.12,2,4,3,243,9,At Risk,USA,Retail,Basic
+CUST_000779,20,16,2488.77,3,4,4,344,11,Potential Loyalists,France,Education,Professional
+CUST_000780,18,17,12279.16,3,4,5,345,12,Potential Loyalists,Japan,Healthcare,Enterprise
+CUST_000781,17,17,1088.22,3,4,3,343,10,Potential Loyalists,UK,Healthcare,Basic
+CUST_000782,20,17,745.65,3,4,2,342,9,Promising,Australia,Technology,Basic
+CUST_000783,17,17,5099.18,3,4,5,345,12,Potential Loyalists,Japan,Energy,Professional
+CUST_000784,17,17,579.34,3,4,2,342,9,Promising,France,Media,Basic
+CUST_000785,16,18,4985.92,3,4,5,345,12,Potential Loyalists,France,Real Estate,Professional
+CUST_000786,15,18,952.44,4,4,3,443,11,Loyal Customers,France,Manufacturing,Basic
+CUST_000787,105,14,8864.32,1,4,5,145,10,At Risk,Canada,Energy,Enterprise
+CUST_000788,13,16,707.85,4,4,2,442,10,Loyal Customers,USA,Education,Basic
+CUST_000789,10,16,4138.26,4,4,4,444,12,Champions,USA,Consulting,Professional
+CUST_000790,339,7,1071.58,1,3,3,133,7,At Risk,France,Consulting,Professional
+CUST_000791,11,18,1335.45,4,4,3,443,11,Loyal Customers,USA,Education,Basic
+CUST_000792,39,15,4455.75,1,4,4,144,9,At Risk,France,Real Estate,Professional
+CUST_000793,278,8,645.9,1,3,2,132,6,At Risk,Singapore,Retail,Basic
+CUST_000794,487,2,488.73,1,1,2,112,4,Hibernating,Canada,Energy,Professional
+CUST_000795,7,17,2284.17,5,4,4,544,13,Champions,UK,Retail,Professional
+CUST_000796,6,17,18245.38,5,4,5,545,14,Champions,Canada,Media,Premium
+CUST_000797,6,17,931.07,5,4,3,543,12,Loyal Customers,USA,Energy,Basic
+CUST_000798,4,15,4345.46,5,4,4,544,13,Champions,Canada,Technology,Professional
+CUST_000799,5,16,1343.41,5,4,3,543,12,Loyal Customers,USA,Technology,Basic
+CUST_000800,3,15,14139.74,5,4,5,545,14,Champions,USA,Media,Enterprise
+CUST_000801,394,3,111.01,1,2,1,121,4,Hibernating,USA,Manufacturing,Basic
+CUST_000802,2,17,1732.33,5,4,3,543,12,Loyal Customers,USA,Energy,Basic
+CUST_000803,1,16,3296.1,5,4,4,544,13,Champions,USA,Media,Professional
+CUST_000804,3,17,16913.86,5,4,5,545,14,Champions,USA,Technology,Enterprise
+CUST_000805,183,11,2628.42,1,3,4,134,8,At Risk,USA,Finance,Professional
+CUST_000806,32,16,1796.1200000000001,1,4,3,143,8,At Risk,Brazil,Healthcare,Professional
+CUST_000807,32,14,1307.23,1,4,3,143,8,At Risk,Germany,Retail,Basic
+CUST_000808,29,17,3119.27,2,4,4,244,10,At Risk,UK,Energy,Professional
+CUST_000809,29,17,3283.04,2,4,4,244,10,At Risk,Singapore,Education,Professional
+CUST_000810,29,17,3801.86,2,4,4,244,10,At Risk,Germany,Healthcare,Professional
+CUST_000811,27,15,588.83,2,4,2,242,8,At Risk,Germany,Energy,Basic
+CUST_000812,25,17,19778.33,2,4,5,245,11,At Risk,Germany,Media,Premium
+CUST_000813,24,15,1684.77,2,4,3,243,9,At Risk,USA,Consulting,Professional
+CUST_000814,411,3,459.97,1,2,2,122,5,Hibernating,USA,Finance,Professional
+CUST_000815,233,9,2456.06,1,3,4,134,8,At Risk,USA,Manufacturing,Professional
+CUST_000816,49,15,1214.73,1,4,3,143,8,At Risk,Australia,Media,Basic
+CUST_000817,19,16,8562.38,3,4,5,345,12,Potential Loyalists,France,Education,Enterprise
+CUST_000818,18,16,737.55,3,4,2,342,9,Promising,Brazil,Manufacturing,Basic
+CUST_000819,13,16,625.75,4,4,2,442,10,Loyal Customers,UK,Retail,Basic
+CUST_000820,16,16,6267.67,3,4,5,345,12,Potential Loyalists,Singapore,Consulting,Enterprise
+CUST_000821,15,16,6780.41,4,4,5,445,13,Champions,Germany,Healthcare,Enterprise
+CUST_000822,14,16,2686.69,4,4,4,444,12,Champions,Germany,Real Estate,Professional
+CUST_000823,12,15,10779.58,4,4,5,445,13,Champions,USA,Healthcare,Enterprise
+CUST_000824,13,15,9399.57,4,4,5,445,13,Champions,USA,Retail,Enterprise
+CUST_000825,11,17,2627.59,4,4,4,444,12,Champions,Australia,Real Estate,Professional
+CUST_000826,10,16,571.78,4,4,2,442,10,Loyal Customers,USA,Healthcare,Basic
+CUST_000827,11,17,1535.51,4,4,3,443,11,Loyal Customers,USA,Manufacturing,Basic
+CUST_000828,221,10,10851.43,1,3,5,135,9,At Risk,USA,Consulting,Premium
+CUST_000829,6,16,651.7,5,4,2,542,11,Loyal Customers,Germany,Education,Basic
+CUST_000830,9,17,5331.44,4,4,5,445,13,Champions,UK,Retail,Professional
+CUST_000831,7,15,3152.49,5,4,4,544,13,Champions,France,Media,Professional
+CUST_000832,6,17,2598.02,5,4,4,544,13,Champions,Brazil,Manufacturing,Professional
+CUST_000833,4,16,5161.49,5,4,5,545,14,Champions,Singapore,Finance,Enterprise
+CUST_000834,6,16,44201.02,5,4,5,545,14,Champions,USA,Media,Premium
+CUST_000835,6,17,14295.27,5,4,5,545,14,Champions,USA,Energy,Enterprise
+CUST_000836,364,5,2041.22,1,2,4,124,7,Hibernating,UK,Retail,Enterprise
+CUST_000837,5,15,13191.36,5,4,5,545,14,Champions,Japan,Healthcare,Enterprise
+CUST_000838,4,16,615.3199999999999,5,4,2,542,11,Loyal Customers,Australia,Finance,Basic
+CUST_000839,331,5,1376.6599999999999,1,2,3,123,6,Hibernating,USA,Technology,Professional
+CUST_000840,32,15,1925.12,1,4,4,144,9,At Risk,USA,Retail,Professional
+CUST_000841,29,16,28793.36,2,4,5,245,11,At Risk,UK,Media,Premium
+CUST_000842,32,14,10003.93,1,4,5,145,10,At Risk,France,Healthcare,Enterprise
+CUST_000843,32,13,12324.96,1,4,5,145,10,At Risk,USA,Manufacturing,Enterprise
+CUST_000844,30,15,1635.96,2,4,3,243,9,At Risk,Brazil,Healthcare,Professional
+CUST_000845,29,16,7293.53,2,4,5,245,11,At Risk,France,Healthcare,Enterprise
+CUST_000846,25,15,4136.27,2,4,4,244,10,At Risk,USA,Real Estate,Professional
+CUST_000847,29,14,1361.78,2,4,3,243,9,At Risk,UK,Healthcare,Basic
+CUST_000848,267,8,304.45,1,3,1,131,5,At Risk,UK,Education,Basic
+CUST_000849,26,15,508.91999999999996,2,4,2,242,8,At Risk,USA,Real Estate,Basic
+CUST_000850,28,16,3021.59,2,4,4,244,10,At Risk,India,Consulting,Professional
+CUST_000851,24,16,3332.85,2,4,4,244,10,At Risk,India,Media,Professional
+CUST_000852,24,15,3646.4700000000003,2,4,4,244,10,At Risk,UK,Media,Professional
+CUST_000853,26,15,844.13,2,4,2,242,8,At Risk,UK,Finance,Basic
+CUST_000854,24,15,744.73,2,4,2,242,8,At Risk,France,Finance,Basic
+CUST_000855,57,14,4194.72,1,4,4,144,9,At Risk,France,Real Estate,Professional
+CUST_000856,24,16,1199.91,2,4,3,243,9,At Risk,USA,Technology,Basic
+CUST_000857,26,16,2403.54,2,4,4,244,10,At Risk,Australia,Consulting,Professional
+CUST_000858,23,15,31218.46,2,4,5,245,11,At Risk,USA,Manufacturing,Premium
+CUST_000859,22,15,3073.67,3,4,4,344,11,Potential Loyalists,USA,Energy,Professional
+CUST_000860,22,15,743.3000000000001,3,4,2,342,9,Promising,Singapore,Healthcare,Basic
+CUST_000861,20,14,835.15,3,4,2,342,9,Promising,USA,Finance,Basic
+CUST_000862,22,16,754.6700000000001,3,4,2,342,9,Promising,UK,Energy,Basic
+CUST_000863,24,15,1312.8,2,4,3,243,9,At Risk,Canada,Energy,Basic
+CUST_000864,24,15,39514.93,2,4,5,245,11,At Risk,Germany,Media,Premium
+CUST_000865,110,13,2605.06,1,4,4,144,9,At Risk,Australia,Education,Professional
+CUST_000866,258,8,1359.6399999999999,1,3,3,133,7,At Risk,UK,Real Estate,Professional
+CUST_000867,18,16,3296.69,3,4,4,344,11,Potential Loyalists,Germany,Consulting,Professional
+CUST_000868,19,15,7484.17,3,4,5,345,12,Potential Loyalists,USA,Media,Enterprise
+CUST_000869,15,16,834.16,4,4,2,442,10,Loyal Customers,UK,Technology,Basic
+CUST_000870,15,15,1613.64,4,4,3,443,11,Loyal Customers,UK,Retail,Professional
+CUST_000871,15,15,1756.18,4,4,3,443,11,Loyal Customers,Japan,Manufacturing,Professional
+CUST_000872,49,14,921.51,1,4,3,143,8,At Risk,Australia,Real Estate,Basic
+CUST_000873,46,14,4279.97,1,4,4,144,9,At Risk,UK,Consulting,Professional
+CUST_000874,17,15,545.52,3,4,2,342,9,Promising,USA,Finance,Basic
+CUST_000875,15,13,652.71,4,4,2,442,10,Loyal Customers,Australia,Retail,Basic
+CUST_000876,15,16,1344.95,4,4,3,443,11,Loyal Customers,Germany,Technology,Basic
+CUST_000877,42,15,1047.15,1,4,3,143,8,At Risk,USA,Retail,Basic
+CUST_000878,12,16,8853.19,4,4,5,445,13,Champions,Singapore,Media,Enterprise
+CUST_000879,12,13,1806.84,4,4,3,443,11,Loyal Customers,India,Finance,Professional
+CUST_000880,12,13,2191.9,4,4,4,444,12,Champions,USA,Consulting,Professional
+CUST_000881,12,15,14419.9,4,4,5,445,13,Champions,Germany,Education,Enterprise
+CUST_000882,8,15,3662.0,5,4,4,544,13,Champions,USA,Technology,Professional
+CUST_000883,8,15,1477.28,5,4,3,543,12,Loyal Customers,USA,Education,Basic
+CUST_000884,9,16,2080.2799999999997,4,4,4,444,12,Champions,Canada,Consulting,Professional
+CUST_000885,6,16,1467.26,5,4,3,543,12,Loyal Customers,UK,Retail,Basic
+CUST_000886,7,15,10321.34,5,4,5,545,14,Champions,Germany,Real Estate,Enterprise
+CUST_000887,6,16,34128.53,5,4,5,545,14,Champions,Brazil,Finance,Premium
+CUST_000888,2,16,532.05,5,4,2,542,11,Loyal Customers,Australia,Healthcare,Basic
+CUST_000889,34,15,2152.37,1,4,4,144,9,At Risk,Canada,Consulting,Professional
+CUST_000890,32,15,9544.09,1,4,5,145,10,At Risk,USA,Energy,Enterprise
+CUST_000891,395,2,2171.44,1,1,4,114,6,Hibernating,USA,Education,Enterprise
+CUST_000892,3,16,4449.72,5,4,4,544,13,Champions,Germany,Retail,Professional
+CUST_000893,2,14,11683.1,5,4,5,545,14,Champions,France,Education,Enterprise
+CUST_000894,0,13,1494.1599999999999,5,4,3,543,12,Loyal Customers,France,Education,Professional
+CUST_000895,1,15,3323.35,5,4,4,544,13,Champions,USA,Finance,Professional
+CUST_000896,210,9,2405.7,1,3,4,134,8,At Risk,USA,Finance,Professional
+CUST_000897,28,14,3878.71,2,4,4,244,10,At Risk,Germany,Energy,Professional
+CUST_000898,91,13,747.85,1,4,2,142,7,At Risk,USA,Healthcare,Basic
+CUST_000899,356,4,296.35,1,2,1,121,4,Hibernating,Canada,Media,Basic
+CUST_000900,267,7,360.57,1,3,2,132,6,At Risk,USA,Education,Basic
+CUST_000901,25,14,4184.92,2,4,4,244,10,At Risk,India,Finance,Professional
+CUST_000902,28,13,1155.33,2,4,3,243,9,At Risk,UK,Media,Basic
+CUST_000903,29,14,10730.29,2,4,5,245,11,At Risk,UK,Real Estate,Enterprise
+CUST_000904,28,15,1204.14,2,4,3,243,9,At Risk,France,Finance,Basic
+CUST_000905,28,14,1105.33,2,4,3,243,9,At Risk,USA,Energy,Basic
+CUST_000906,26,15,12982.86,2,4,5,245,11,At Risk,France,Consulting,Enterprise
+CUST_000907,264,7,534.78,1,3,2,132,6,At Risk,USA,Retail,Basic
+CUST_000908,326,5,9013.5,1,2,5,125,8,Hibernating,USA,Finance,Premium
+CUST_000909,24,14,5694.09,2,4,5,245,11,At Risk,USA,Manufacturing,Enterprise
+CUST_000910,24,14,1384.09,2,4,3,243,9,At Risk,France,Technology,Basic
+CUST_000911,20,12,683.21,3,4,2,342,9,Promising,USA,Consulting,Basic
+CUST_000912,19,14,4615.06,3,4,4,344,11,Potential Loyalists,France,Consulting,Enterprise
+CUST_000913,23,15,2570.87,2,4,4,244,10,At Risk,France,Consulting,Professional
+CUST_000914,21,15,21893.47,3,4,5,345,12,Potential Loyalists,USA,Consulting,Premium
+CUST_000915,16,15,569.62,3,4,2,342,9,Promising,Australia,Consulting,Basic
+CUST_000916,17,14,1904.6299999999999,3,4,3,343,10,Potential Loyalists,Singapore,Real Estate,Professional
+CUST_000917,17,14,2102.11,3,4,4,344,11,Potential Loyalists,France,Healthcare,Professional
+CUST_000918,45,13,1891.25,1,4,3,143,8,At Risk,Australia,Education,Professional
+CUST_000919,16,14,1267.29,3,4,3,343,10,Potential Loyalists,USA,Healthcare,Basic
+CUST_000920,18,14,861.74,3,4,2,342,9,Promising,Brazil,Education,Basic
+CUST_000921,14,15,2147.96,4,4,4,444,12,Champions,UK,Manufacturing,Professional
+CUST_000922,14,15,2602.86,4,4,4,444,12,Champions,UK,Healthcare,Professional
+CUST_000923,16,14,1194.06,3,4,3,343,10,Potential Loyalists,India,Healthcare,Basic
+CUST_000924,44,13,735.7,1,4,2,142,7,At Risk,USA,Technology,Basic
+CUST_000925,15,15,4503.45,4,4,4,444,12,Champions,Brazil,Media,Professional
+CUST_000926,11,14,9399.75,4,4,5,445,13,Champions,USA,Media,Enterprise
+CUST_000927,11,15,8324.48,4,4,5,445,13,Champions,Japan,Media,Enterprise
+CUST_000928,10,15,549.61,4,4,2,442,10,Loyal Customers,Brazil,Media,Basic
+CUST_000929,8,15,4008.45,5,4,4,544,13,Champions,Australia,Real Estate,Professional
+CUST_000930,6,13,3136.5499999999997,5,4,4,544,13,Champions,Japan,Consulting,Professional
+CUST_000931,5,14,1878.13,5,4,3,543,12,Loyal Customers,Australia,Retail,Professional
+CUST_000932,6,15,3920.05,5,4,4,544,13,Champions,USA,Healthcare,Professional
+CUST_000933,4,15,24340.260000000002,5,4,5,545,14,Champions,Singapore,Technology,Premium
+CUST_000934,243,7,335.32,1,3,1,131,5,At Risk,USA,Education,Basic
+CUST_000935,6,15,1732.13,5,4,3,543,12,Loyal Customers,USA,Healthcare,Professional
+CUST_000936,1,14,1304.38,5,4,3,543,12,Loyal Customers,Australia,Finance,Basic
+CUST_000937,3,13,11073.130000000001,5,4,5,545,14,Champions,Germany,Finance,Enterprise
+CUST_000938,33,14,4171.6,1,4,4,144,9,At Risk,Canada,Energy,Professional
+CUST_000939,2,15,2606.05,5,4,4,544,13,Champions,France,Healthcare,Professional
+CUST_000940,0,14,3948.66,5,4,4,544,13,Champions,USA,Consulting,Professional
+CUST_000941,63,12,7318.88,1,4,5,145,10,At Risk,Canada,Technology,Enterprise
+CUST_000942,33,13,9846.039999999999,1,4,5,145,10,At Risk,France,Finance,Enterprise
+CUST_000943,31,13,1833.45,1,4,3,143,8,At Risk,USA,Media,Professional
+CUST_000944,30,13,697.66,2,4,2,242,8,At Risk,USA,Healthcare,Basic
+CUST_000945,30,14,26577.760000000002,2,4,5,245,11,At Risk,Canada,Retail,Premium
+CUST_000946,27,13,3210.9700000000003,2,4,4,244,10,At Risk,USA,Energy,Professional
+CUST_000947,27,13,670.92,2,4,2,242,8,At Risk,Australia,Energy,Basic
+CUST_000948,29,14,2317.8,2,4,4,244,10,At Risk,Germany,Manufacturing,Professional
+CUST_000949,27,14,463.52,2,4,2,242,8,At Risk,France,Healthcare,Basic
+CUST_000950,55,13,9044.369999999999,1,4,5,145,10,At Risk,UK,Consulting,Enterprise
+CUST_000951,26,13,557.84,2,4,2,242,8,At Risk,Germany,Real Estate,Basic
+CUST_000952,356,2,59.66,1,1,1,111,3,Hibernating,Australia,Education,Basic
+CUST_000953,54,11,568.83,1,3,2,132,6,At Risk,Canada,Healthcare,Basic
+CUST_000954,25,14,895.27,2,4,3,243,9,At Risk,India,Consulting,Basic
+CUST_000955,24,13,446.15,2,4,2,242,8,At Risk,UK,Healthcare,Basic
+CUST_000956,52,12,9060.91,1,4,5,145,10,At Risk,UK,Finance,Enterprise
+CUST_000957,23,14,885.3000000000001,2,4,3,243,9,At Risk,Singapore,Healthcare,Basic
+CUST_000958,20,14,2476.42,3,4,4,344,11,Potential Loyalists,UK,Healthcare,Professional
+CUST_000959,21,13,2521.32,3,4,4,344,11,Potential Loyalists,Brazil,Media,Professional
+CUST_000960,21,13,1534.37,3,4,3,343,10,Potential Loyalists,UK,Manufacturing,Professional
+CUST_000961,19,14,798.27,3,4,2,342,9,Promising,Canada,Energy,Basic
+CUST_000962,21,13,1204.78,3,4,3,343,10,Potential Loyalists,France,Education,Basic
+CUST_000963,53,13,590.74,1,4,2,142,7,At Risk,Australia,Education,Basic
+CUST_000964,48,13,1985.64,1,4,4,144,9,At Risk,France,Technology,Professional
+CUST_000965,19,13,659.11,3,4,2,342,9,Promising,France,Real Estate,Basic
+CUST_000966,17,11,2398.81,3,3,4,334,10,Potential Loyalists,France,Manufacturing,Professional
+CUST_000967,19,13,3549.64,3,4,4,344,11,Potential Loyalists,Germany,Finance,Professional
+CUST_000968,21,13,4761.36,3,4,4,344,11,Potential Loyalists,Canada,Healthcare,Enterprise
+CUST_000969,20,14,12412.58,3,4,5,345,12,Potential Loyalists,USA,Education,Enterprise
+CUST_000970,48,13,1275.82,1,4,3,143,8,At Risk,Germany,Media,Basic
+CUST_000971,18,14,672.15,3,4,2,342,9,Promising,USA,Consulting,Basic
+CUST_000972,16,14,3915.93,3,4,4,344,11,Potential Loyalists,Australia,Technology,Professional
+CUST_000973,16,14,2692.19,3,4,4,344,11,Potential Loyalists,Australia,Energy,Professional
+CUST_000974,18,11,881.95,3,3,3,333,9,Potential Loyalists,UK,Energy,Basic
+CUST_000975,15,13,2918.95,4,4,4,444,12,Champions,UK,Real Estate,Professional
+CUST_000976,13,13,825.4,4,4,2,442,10,Loyal Customers,USA,Retail,Basic
+CUST_000977,13,13,2434.26,4,4,4,444,12,Champions,France,Healthcare,Professional
+CUST_000978,344,3,6887.28,1,2,5,125,8,Hibernating,Singapore,Technology,Premium
+CUST_000979,16,14,3709.85,3,4,4,344,11,Potential Loyalists,France,Energy,Professional
+CUST_000980,15,11,4509.14,4,3,4,434,11,Loyal Customers,France,Consulting,Enterprise
+CUST_000981,14,13,1776.29,4,4,3,443,11,Loyal Customers,USA,Real Estate,Professional
+CUST_000982,254,6,593.62,1,3,2,132,6,At Risk,Japan,Finance,Basic
+CUST_000983,11,14,1808.67,4,4,3,443,11,Loyal Customers,France,Retail,Professional
+CUST_000984,15,14,496.57,4,4,2,442,10,Loyal Customers,USA,Media,Basic
+CUST_000985,43,13,572.38,1,4,2,142,7,At Risk,UK,Media,Basic
+CUST_000986,10,14,12883.51,4,4,5,445,13,Champions,USA,Finance,Enterprise
+CUST_000987,223,5,852.57,1,2,2,122,5,Hibernating,USA,Manufacturing,Professional
+CUST_000988,10,13,15504.619999999999,4,4,5,445,13,Champions,USA,Healthcare,Premium
+CUST_000989,280,5,978.99,1,2,3,123,6,Hibernating,USA,Energy,Professional
+CUST_000990,10,14,12828.65,4,4,5,445,13,Champions,Japan,Education,Enterprise
+CUST_000991,7,13,8311.5,5,4,5,545,14,Champions,USA,Energy,Enterprise
+CUST_000992,99,10,2550.43,1,3,4,134,8,At Risk,Germany,Technology,Professional
+CUST_000993,8,13,946.18,5,4,3,543,12,Loyal Customers,USA,Consulting,Basic
+CUST_000994,6,13,1596.81,5,4,3,543,12,Loyal Customers,Canada,Media,Professional
+CUST_000995,248,6,853.61,1,3,2,132,6,At Risk,UK,Finance,Professional
+CUST_000996,6,13,940.37,5,4,3,543,12,Loyal Customers,Australia,Consulting,Basic
+CUST_000997,5,14,1319.21,5,4,3,543,12,Loyal Customers,France,Healthcare,Basic
+CUST_000998,3,14,3732.02,5,4,4,544,13,Champions,Australia,Consulting,Professional
+CUST_000999,4,13,1181.8,5,4,3,543,12,Loyal Customers,India,Manufacturing,Basic
+CUST_001000,213,6,533.0,1,3,2,132,6,At Risk,USA,Education,Basic
+CUST_001001,3,13,735.1,5,4,2,542,11,Loyal Customers,USA,Manufacturing,Basic
+CUST_001002,31,13,889.19,1,4,3,143,8,At Risk,Brazil,Real Estate,Basic
+CUST_001003,5,14,4602.55,5,4,4,544,13,Champions,USA,Real Estate,Enterprise
+CUST_001004,31,13,7693.5599999999995,1,4,5,145,10,At Risk,UK,Manufacturing,Enterprise
+CUST_001005,29,13,2893.57,2,4,4,244,10,At Risk,USA,Consulting,Professional
+CUST_001006,28,12,384.29,2,4,2,242,8,At Risk,USA,Media,Basic
+CUST_001007,179,7,535.0,1,3,2,132,6,At Risk,Brazil,Education,Basic
+CUST_001008,28,12,3011.29,2,4,4,244,10,At Risk,Germany,Technology,Professional
+CUST_001009,296,3,2842.76,1,2,4,124,7,Hibernating,UK,Manufacturing,Enterprise
+CUST_001010,173,7,1147.6100000000001,1,3,3,133,7,At Risk,USA,Technology,Professional
+CUST_001011,22,12,1953.53,3,4,4,344,11,Potential Loyalists,India,Manufacturing,Professional
+CUST_001012,22,13,1170.45,3,4,3,343,10,Potential Loyalists,India,Real Estate,Basic
+CUST_001013,22,13,1274.31,3,4,3,343,10,Potential Loyalists,UK,Healthcare,Basic
+CUST_001014,22,13,16605.28,3,4,5,345,12,Potential Loyalists,Canada,Retail,Premium
+CUST_001015,22,12,3163.68,3,4,4,344,11,Potential Loyalists,USA,Real Estate,Professional
+CUST_001016,21,12,1889.4099999999999,3,4,3,343,10,Potential Loyalists,USA,Education,Professional
+CUST_001017,50,12,26401.899999999998,1,4,5,145,10,At Risk,Germany,Media,Premium
+CUST_001018,19,11,479.33,3,3,2,332,8,Promising,France,Healthcare,Basic
+CUST_001019,18,13,1321.46,3,4,3,343,10,Potential Loyalists,USA,Retail,Basic
+CUST_001020,16,12,978.46,3,4,3,343,10,Potential Loyalists,USA,Media,Basic
+CUST_001021,17,13,3786.44,3,4,4,344,11,Potential Loyalists,Japan,Energy,Professional
+CUST_001022,139,8,496.65999999999997,1,3,2,132,6,At Risk,Germany,Technology,Basic
+CUST_001023,17,10,1122.23,3,3,3,333,9,Potential Loyalists,Japan,Finance,Professional
+CUST_001024,14,13,2509.91,4,4,4,444,12,Champions,USA,Energy,Professional
+CUST_001025,15,13,1186.5,4,4,3,443,11,Loyal Customers,Germany,Energy,Basic
+CUST_001026,15,12,1693.09,4,4,3,443,11,Loyal Customers,Germany,Technology,Professional
+CUST_001027,13,12,32929.41,4,4,5,445,13,Champions,USA,Retail,Premium
+CUST_001028,13,13,1417.64,4,4,3,443,11,Loyal Customers,Japan,Retail,Professional
+CUST_001029,14,11,3100.58,4,3,4,434,11,Loyal Customers,Germany,Technology,Professional
+CUST_001030,12,12,1891.84,4,4,3,443,11,Loyal Customers,France,Retail,Professional
+CUST_001031,14,13,2674.11,4,4,4,444,12,Champions,USA,Real Estate,Professional
+CUST_001032,252,5,1224.3899999999999,1,2,3,123,6,Hibernating,Australia,Healthcare,Professional
+CUST_001033,12,12,6918.09,4,4,5,445,13,Champions,USA,Retail,Enterprise
+CUST_001034,8,13,812.17,5,4,2,542,11,Loyal Customers,USA,Consulting,Basic
+CUST_001035,10,13,930.44,4,4,3,443,11,Loyal Customers,USA,Real Estate,Basic
+CUST_001036,11,12,2182.05,4,4,4,444,12,Champions,Australia,Education,Professional
+CUST_001037,9,12,9821.95,4,4,5,445,13,Champions,USA,Manufacturing,Enterprise
+CUST_001038,10,13,6518.15,4,4,5,445,13,Champions,Japan,Healthcare,Enterprise
+CUST_001039,9,10,1086.4,4,3,3,433,10,Loyal Customers,USA,Media,Professional
+CUST_001040,9,13,11300.2,4,4,5,445,13,Champions,Singapore,Consulting,Enterprise
+CUST_001041,3,11,981.58,5,3,3,533,11,Loyal Customers,USA,Retail,Basic
+CUST_001042,3,11,8888.21,5,3,5,535,13,Loyal Customers,Germany,Retail,Enterprise
+CUST_001043,4,13,3006.21,5,4,4,544,13,Champions,Germany,Manufacturing,Professional
+CUST_001044,2,12,1254.94,5,4,3,543,12,Loyal Customers,USA,Energy,Professional
+CUST_001045,33,12,750.16,1,4,2,142,7,At Risk,Japan,Technology,Basic
+CUST_001046,32,9,20234.56,1,3,5,135,9,At Risk,Australia,Finance,Premium
+CUST_001047,30,11,2870.91,2,3,4,234,9,At Risk,USA,Consulting,Professional
+CUST_001048,30,11,5218.13,2,3,5,235,10,At Risk,USA,Retail,Enterprise
+CUST_001049,29,9,2131.52,2,3,4,234,9,At Risk,France,Manufacturing,Professional
+CUST_001050,27,11,671.65,2,3,2,232,7,At Risk,Australia,Manufacturing,Basic
+CUST_001051,55,11,2919.56,1,4,4,144,9,At Risk,Brazil,Media,Professional
+CUST_001052,29,12,1831.95,2,4,3,243,9,At Risk,USA,Real Estate,Professional
+CUST_001053,58,10,493.54,1,3,2,132,6,At Risk,Australia,Real Estate,Basic
+CUST_001054,25,11,9716.95,2,4,5,245,11,At Risk,Japan,Energy,Enterprise
+CUST_001055,25,11,23852.56,2,4,5,245,11,At Risk,USA,Media,Premium
+CUST_001056,26,12,771.86,2,4,2,242,8,At Risk,USA,Technology,Basic
+CUST_001057,22,11,7577.41,3,4,5,345,12,Potential Loyalists,USA,Education,Enterprise
+CUST_001058,22,12,859.66,3,4,2,342,9,Promising,France,Consulting,Basic
+CUST_001059,26,12,2815.97,2,4,4,244,10,At Risk,UK,Manufacturing,Professional
+CUST_001060,25,9,3296.1800000000003,2,3,4,234,9,At Risk,USA,Real Estate,Enterprise
+CUST_001061,24,9,2019.2,2,3,4,234,9,At Risk,Australia,Manufacturing,Professional
+CUST_001062,260,4,572.71,1,2,2,122,5,Hibernating,India,Manufacturing,Professional
+CUST_001063,23,11,1536.48,2,4,3,243,9,At Risk,Singapore,Manufacturing,Professional
+CUST_001064,23,12,987.25,2,4,3,243,9,At Risk,France,Energy,Basic
+CUST_001065,19,11,2866.82,3,4,4,344,11,Potential Loyalists,Brazil,Technology,Professional
+CUST_001066,258,4,217.5,1,2,1,121,4,Hibernating,USA,Consulting,Basic
+CUST_001067,17,12,2828.29,3,4,4,344,11,Potential Loyalists,Germany,Education,Professional
+CUST_001068,19,12,9036.49,3,4,5,345,12,Potential Loyalists,Canada,Technology,Enterprise
+CUST_001069,18,11,1692.31,3,4,3,343,10,Potential Loyalists,USA,Manufacturing,Professional
+CUST_001070,19,12,6946.45,3,4,5,345,12,Potential Loyalists,USA,Media,Enterprise
+CUST_001071,18,10,2176.0,3,3,4,334,10,Potential Loyalists,Australia,Technology,Professional
+CUST_001072,18,8,696.84,3,3,2,332,8,Promising,Canada,Consulting,Basic
+CUST_001073,17,9,7407.33,3,3,5,335,11,Potential Loyalists,Germany,Education,Enterprise
+CUST_001074,16,12,924.34,3,4,3,343,10,Potential Loyalists,Germany,Retail,Basic
+CUST_001075,15,12,11109.79,4,4,5,445,13,Champions,Germany,Real Estate,Enterprise
+CUST_001076,14,12,795.87,4,4,2,442,10,Loyal Customers,UK,Education,Basic
+CUST_001077,14,11,10072.91,4,4,5,445,13,Champions,Canada,Finance,Enterprise
+CUST_001078,17,11,458.46,3,4,2,342,9,Promising,USA,Energy,Basic
+CUST_001079,14,12,739.13,4,4,2,442,10,Loyal Customers,USA,Healthcare,Basic
+CUST_001080,12,12,3078.95,4,4,4,444,12,Champions,Germany,Manufacturing,Professional
+CUST_001081,11,12,3013.91,4,4,4,444,12,Champions,France,Energy,Professional
+CUST_001082,12,11,10557.75,4,4,5,445,13,Champions,UK,Finance,Enterprise
+CUST_001083,15,12,27454.64,4,4,5,445,13,Champions,Germany,Education,Premium
+CUST_001084,13,11,602.59,4,4,2,442,10,Loyal Customers,France,Retail,Basic
+CUST_001085,10,12,733.92,4,4,2,442,10,Loyal Customers,Canada,Manufacturing,Basic
+CUST_001086,14,11,619.14,4,4,2,442,10,Loyal Customers,Canada,Education,Basic
+CUST_001087,8,11,5506.43,5,4,5,545,14,Champions,USA,Consulting,Enterprise
+CUST_001088,8,12,7542.09,5,4,5,545,14,Champions,USA,Healthcare,Enterprise
+CUST_001089,8,11,2362.62,5,4,4,544,13,Champions,USA,Consulting,Professional
+CUST_001090,6,12,1389.11,5,4,3,543,12,Loyal Customers,Canada,Consulting,Professional
+CUST_001091,8,11,704.95,5,4,2,542,11,Loyal Customers,UK,Retail,Basic
+CUST_001092,7,12,794.04,5,4,2,542,11,Loyal Customers,USA,Media,Basic
+CUST_001093,5,11,12418.51,5,4,5,545,14,Champions,France,Media,Premium
+CUST_001094,128,8,3431.85,1,3,4,134,8,At Risk,Japan,Finance,Enterprise
+CUST_001095,7,12,2080.6,5,4,4,544,13,Champions,Australia,Retail,Professional
+CUST_001096,7,12,11195.81,5,4,5,545,14,Champions,USA,Consulting,Enterprise
+CUST_001097,5,10,1292.42,5,3,3,533,11,Loyal Customers,Canada,Real Estate,Professional
+CUST_001098,5,10,2518.95,5,3,4,534,12,Loyal Customers,USA,Finance,Professional
+CUST_001099,4,11,6026.37,5,4,5,545,14,Champions,Germany,Real Estate,Enterprise
+CUST_001100,4,11,597.74,5,4,2,542,11,Loyal Customers,Germany,Finance,Basic
+CUST_001101,6,12,353.9,5,4,2,542,11,Loyal Customers,Singapore,Technology,Basic
+CUST_001102,2,11,480.39,5,4,2,542,11,Loyal Customers,UK,Manufacturing,Basic
+CUST_001103,1,12,8831.34,5,4,5,545,14,Champions,Canada,Finance,Enterprise
+CUST_001104,2,12,7745.76,5,4,5,545,14,Champions,USA,Finance,Enterprise
+CUST_001105,5,11,4339.18,5,4,4,544,13,Champions,USA,Healthcare,Enterprise
+CUST_001106,5,11,8259.45,5,4,5,545,14,Champions,Australia,Media,Enterprise
+CUST_001107,4,12,22316.28,5,4,5,545,14,Champions,USA,Media,Premium
+CUST_001108,5,11,608.59,5,4,2,542,11,Loyal Customers,Canada,Real Estate,Basic
+CUST_001109,0,12,810.59,5,4,2,542,11,Loyal Customers,Japan,Technology,Basic
+CUST_001110,4,12,1169.3,5,4,3,543,12,Loyal Customers,Japan,Education,Basic
+CUST_001111,32,11,2758.06,1,4,4,144,9,At Risk,Canada,Education,Professional
+CUST_001112,33,10,426.11,1,3,2,132,6,At Risk,USA,Energy,Basic
+CUST_001113,32,11,2620.42,1,4,4,144,9,At Risk,USA,Technology,Professional
+CUST_001114,31,10,1465.94,1,3,3,133,7,At Risk,UK,Retail,Professional
+CUST_001115,61,9,457.62,1,3,2,132,6,At Risk,USA,Education,Basic
+CUST_001116,30,10,563.35,2,3,2,232,7,At Risk,Canada,Healthcare,Basic
+CUST_001117,27,11,5928.93,2,4,5,245,11,At Risk,Brazil,Consulting,Enterprise
+CUST_001118,29,10,2725.24,2,3,4,234,9,At Risk,France,Healthcare,Professional
+CUST_001119,26,10,955.84,2,3,3,233,8,At Risk,Brazil,Manufacturing,Basic
+CUST_001120,87,8,669.01,1,3,2,132,6,At Risk,USA,Real Estate,Basic
+CUST_001121,29,10,656.27,2,3,2,232,7,At Risk,Australia,Consulting,Basic
+CUST_001122,27,11,30556.31,2,4,5,245,11,At Risk,France,Media,Premium
+CUST_001123,24,9,1534.08,2,3,3,233,8,At Risk,Japan,Finance,Professional
+CUST_001124,298,2,1050.08,1,1,3,113,5,Hibernating,USA,Real Estate,Enterprise
+CUST_001125,27,11,450.31,2,4,2,242,8,At Risk,France,Retail,Basic
+CUST_001126,24,10,3149.64,2,3,4,234,9,At Risk,USA,Media,Enterprise
+CUST_001127,52,10,8019.03,1,3,5,135,9,At Risk,France,Retail,Enterprise
+CUST_001128,22,11,1604.28,3,4,3,343,10,Potential Loyalists,Japan,Finance,Professional
+CUST_001129,20,11,2386.79,3,4,4,344,11,Potential Loyalists,Germany,Technology,Professional
+CUST_001130,21,11,1428.03,3,4,3,343,10,Potential Loyalists,UK,Finance,Professional
+CUST_001131,21,11,1936.5,3,4,4,344,11,Potential Loyalists,Australia,Technology,Professional
+CUST_001132,22,9,2420.2799999999997,3,3,4,334,10,Potential Loyalists,Brazil,Manufacturing,Professional
+CUST_001133,21,11,1267.2,3,4,3,343,10,Potential Loyalists,France,Consulting,Professional
+CUST_001134,16,11,2617.94,3,4,4,344,11,Potential Loyalists,France,Technology,Professional
+CUST_001135,19,8,885.99,3,3,3,333,9,Potential Loyalists,USA,Technology,Professional
+CUST_001136,17,10,622.15,3,3,2,332,8,Promising,USA,Healthcare,Basic
+CUST_001137,17,10,1374.18,3,3,3,333,9,Potential Loyalists,Germany,Media,Professional
+CUST_001138,15,11,2204.4,4,4,4,444,12,Champions,India,Manufacturing,Professional
+CUST_001139,17,9,1252.71,3,3,3,333,9,Potential Loyalists,Canada,Finance,Professional
+CUST_001140,17,10,504.09000000000003,3,3,2,332,8,Promising,France,Technology,Basic
+CUST_001141,14,11,863.23,4,4,2,442,10,Loyal Customers,USA,Healthcare,Basic
+CUST_001142,16,11,800.38,3,4,2,342,9,Promising,Germany,Manufacturing,Basic
+CUST_001143,17,10,584.85,3,3,2,332,8,Promising,USA,Finance,Basic
+CUST_001144,13,10,649.91,4,3,2,432,9,Loyal Customers,Singapore,Healthcare,Basic
+CUST_001145,11,10,371.57,4,3,2,432,9,Loyal Customers,Germany,Consulting,Basic
+CUST_001146,14,11,921.01,4,4,3,443,11,Loyal Customers,France,Healthcare,Basic
+CUST_001147,12,11,1580.4099999999999,4,4,3,443,11,Loyal Customers,USA,Real Estate,Professional
+CUST_001148,12,10,851.87,4,3,2,432,9,Loyal Customers,USA,Retail,Basic
+CUST_001149,13,11,1117.34,4,4,3,443,11,Loyal Customers,USA,Energy,Basic
+CUST_001150,10,11,861.77,4,4,2,442,10,Loyal Customers,USA,Education,Basic
+CUST_001151,10,11,1515.69,4,4,3,443,11,Loyal Customers,Australia,Manufacturing,Professional
+CUST_001152,12,10,643.39,4,3,2,432,9,Loyal Customers,Germany,Energy,Basic
+CUST_001153,10,10,777.05,4,3,2,432,9,Loyal Customers,India,Retail,Basic
+CUST_001154,11,11,1847.94,4,4,3,443,11,Loyal Customers,USA,Real Estate,Professional
+CUST_001155,7,11,330.19,5,4,1,541,10,Loyal Customers,USA,Technology,Basic
+CUST_001156,11,10,9490.71,4,3,5,435,12,Loyal Customers,Germany,Healthcare,Enterprise
+CUST_001157,10,10,2345.24,4,3,4,434,11,Loyal Customers,Germany,Consulting,Professional
+CUST_001158,8,11,1059.85,5,4,3,543,12,Loyal Customers,Singapore,Finance,Basic
+CUST_001159,10,11,378.63,4,4,2,442,10,Loyal Customers,USA,Energy,Basic
+CUST_001160,8,11,3113.1499999999996,5,4,4,544,13,Champions,UK,Healthcare,Professional
+CUST_001161,9,11,2164.57,4,4,4,444,12,Champions,Brazil,Retail,Professional
+CUST_001162,127,7,338.02,1,3,1,131,5,At Risk,France,Manufacturing,Basic
+CUST_001163,66,9,10495.63,1,3,5,135,9,At Risk,Japan,Technology,Premium
+CUST_001164,8,11,1034.19,5,4,3,543,12,Loyal Customers,Japan,Finance,Basic
+CUST_001165,8,10,571.07,5,3,2,532,10,Loyal Customers,France,Manufacturing,Basic
+CUST_001166,5,11,656.44,5,4,2,542,11,Loyal Customers,USA,Education,Basic
+CUST_001167,7,11,1316.84,5,4,3,543,12,Loyal Customers,France,Healthcare,Professional
+CUST_001168,5,11,342.89,5,4,2,542,11,Loyal Customers,USA,Technology,Basic
+CUST_001169,7,11,841.21,5,4,2,542,11,Loyal Customers,Germany,Finance,Basic
+CUST_001170,9,9,1521.13,4,3,3,433,10,Loyal Customers,USA,Finance,Professional
+CUST_001171,35,10,958.87,1,3,3,133,7,At Risk,Australia,Real Estate,Basic
+CUST_001172,7,10,930.46,5,3,3,533,11,Loyal Customers,USA,Manufacturing,Basic
+CUST_001173,4,11,1939.88,5,4,4,544,13,Champions,India,Healthcare,Professional
+CUST_001174,5,11,471.49,5,4,2,542,11,Loyal Customers,Canada,Education,Basic
+CUST_001175,6,11,639.49,5,4,2,542,11,Loyal Customers,France,Media,Basic
+CUST_001176,6,11,5432.85,5,4,5,545,14,Champions,France,Real Estate,Enterprise
+CUST_001177,5,11,8720.59,5,4,5,545,14,Champions,France,Media,Enterprise
+CUST_001178,3,10,855.11,5,3,2,532,10,Loyal Customers,Canada,Real Estate,Basic
+CUST_001179,0,10,378.59000000000003,5,3,2,532,10,Loyal Customers,Brazil,Finance,Basic
+CUST_001180,1,11,1144.23,5,4,3,543,12,Loyal Customers,Germany,Technology,Basic
+CUST_001181,0,10,1283.28,5,3,3,533,11,Loyal Customers,USA,Finance,Professional
+CUST_001182,2,9,1900.27,5,3,3,533,11,Loyal Customers,USA,Consulting,Professional
+CUST_001183,29,10,774.6800000000001,2,3,2,232,7,At Risk,France,Consulting,Basic
+CUST_001184,31,9,2149.69,1,3,4,134,8,At Risk,USA,Finance,Professional
+CUST_001185,32,10,2283.76,1,3,4,134,8,At Risk,UK,Education,Professional
+CUST_001186,32,10,6488.63,1,3,5,135,9,At Risk,France,Finance,Enterprise
+CUST_001187,29,9,1107.62,2,3,3,233,8,At Risk,Canada,Real Estate,Professional
+CUST_001188,27,10,633.95,2,3,2,232,7,At Risk,Canada,Media,Basic
+CUST_001189,28,10,4988.15,2,3,5,235,10,At Risk,UK,Healthcare,Enterprise
+CUST_001190,31,10,3105.36,1,3,4,134,8,At Risk,UK,Education,Enterprise
+CUST_001191,28,10,8517.68,2,3,5,235,10,At Risk,Japan,Energy,Enterprise
+CUST_001192,28,8,2082.94,2,3,4,234,9,At Risk,Brazil,Consulting,Professional
+CUST_001193,28,10,3129.04,2,3,4,234,9,At Risk,UK,Retail,Professional
+CUST_001194,26,10,2065.65,2,3,4,234,9,At Risk,UK,Education,Professional
+CUST_001195,26,10,1203.43,2,3,3,233,8,At Risk,Canada,Consulting,Professional
+CUST_001196,27,8,510.82,2,3,2,232,7,At Risk,UK,Retail,Basic
+CUST_001197,24,9,360.73,2,3,2,232,7,At Risk,UK,Media,Basic
+CUST_001198,24,10,953.62,2,3,3,233,8,At Risk,Brazil,Energy,Basic
+CUST_001199,26,10,338.55,2,3,1,231,6,At Risk,USA,Consulting,Basic
+CUST_001200,23,9,1966.94,2,3,4,234,9,At Risk,France,Finance,Professional
+CUST_001201,23,9,815.4399999999999,2,3,2,232,7,At Risk,UK,Real Estate,Basic
+CUST_001202,23,10,345.1,2,3,2,232,7,At Risk,UK,Finance,Basic
+CUST_001203,55,7,1215.3,1,3,3,133,7,At Risk,Canada,Real Estate,Professional
+CUST_001204,23,10,980.13,2,3,3,233,8,At Risk,UK,Education,Basic
+CUST_001205,21,10,2040.5,3,3,4,334,10,Potential Loyalists,Singapore,Technology,Professional
+CUST_001206,24,10,748.1800000000001,2,3,2,232,7,At Risk,Canada,Energy,Basic
+CUST_001207,23,10,870.75,2,3,2,232,7,At Risk,Germany,Media,Basic
+CUST_001208,22,10,20069.0,3,3,5,335,11,Potential Loyalists,Germany,Healthcare,Premium
+CUST_001209,80,8,497.07,1,3,2,132,6,At Risk,UK,Consulting,Basic
+CUST_001210,23,10,625.42,2,3,2,232,7,At Risk,USA,Real Estate,Basic
+CUST_001211,23,10,992.57,2,3,3,233,8,At Risk,USA,Healthcare,Basic
+CUST_001212,19,9,1099.55,3,3,3,333,9,Potential Loyalists,Australia,Technology,Professional
+CUST_001213,19,7,2358.12,3,3,4,334,10,Potential Loyalists,USA,Media,Enterprise
+CUST_001214,18,10,10096.63,3,3,5,335,11,Potential Loyalists,USA,Energy,Premium
+CUST_001215,22,10,8649.37,3,3,5,335,11,Potential Loyalists,UK,Healthcare,Enterprise
+CUST_001216,21,10,7905.71,3,3,5,335,11,Potential Loyalists,France,Consulting,Enterprise
+CUST_001217,108,5,362.37,1,2,2,122,5,Hibernating,Singapore,Energy,Basic
+CUST_001218,19,10,967.58,3,3,3,333,9,Potential Loyalists,India,Real Estate,Basic
+CUST_001219,16,10,878.42,3,3,2,332,8,Promising,UK,Education,Basic
+CUST_001220,18,10,939.77,3,3,3,333,9,Potential Loyalists,Germany,Retail,Basic
+CUST_001221,16,10,2218.9900000000002,3,3,4,334,10,Potential Loyalists,Germany,Education,Professional
+CUST_001222,13,10,7284.07,4,3,5,435,12,Loyal Customers,Australia,Consulting,Enterprise
+CUST_001223,13,10,836.23,4,3,2,432,9,Loyal Customers,UK,Education,Basic
+CUST_001224,15,10,374.98,4,3,2,432,9,Loyal Customers,USA,Healthcare,Basic
+CUST_001225,225,3,86.94,1,2,1,121,4,Hibernating,USA,Retail,Basic
+CUST_001226,196,3,7891.549999999999,1,2,5,125,8,Hibernating,USA,Education,Premium
+CUST_001227,12,10,684.5899999999999,4,3,2,432,9,Loyal Customers,Germany,Manufacturing,Basic
+CUST_001228,14,10,796.3199999999999,4,3,2,432,9,Loyal Customers,France,Education,Basic
+CUST_001229,45,9,2560.53,1,3,4,134,8,At Risk,UK,Technology,Professional
+CUST_001230,13,10,1288.11,4,3,3,433,10,Loyal Customers,Germany,Real Estate,Professional
+CUST_001231,9,8,3204.9300000000003,4,3,4,434,11,Loyal Customers,Singapore,Media,Enterprise
+CUST_001232,10,9,1270.52,4,3,3,433,10,Loyal Customers,France,Consulting,Professional
+CUST_001233,7,10,954.37,5,3,3,533,11,Loyal Customers,France,Healthcare,Basic
+CUST_001234,7,9,406.7,5,3,2,532,10,Loyal Customers,UK,Media,Basic
+CUST_001235,10,10,2450.09,4,3,4,434,11,Loyal Customers,Germany,Retail,Professional
+CUST_001236,5,8,20156.43,5,3,5,535,13,Loyal Customers,USA,Healthcare,Premium
+CUST_001237,7,10,2872.12,5,3,4,534,12,Loyal Customers,Brazil,Technology,Professional
+CUST_001238,5,10,3923.58,5,3,4,534,12,Loyal Customers,Germany,Consulting,Enterprise
+CUST_001239,3,10,6248.26,5,3,5,535,13,Loyal Customers,USA,Real Estate,Enterprise
+CUST_001240,3,9,8734.86,5,3,5,535,13,Loyal Customers,USA,Consulting,Enterprise
+CUST_001241,64,8,7629.51,1,3,5,135,9,At Risk,USA,Finance,Enterprise
+CUST_001242,4,10,736.2,5,3,2,532,10,Loyal Customers,India,Technology,Basic
+CUST_001243,2,10,22120.95,5,3,5,535,13,Loyal Customers,Germany,Technology,Premium
+CUST_001244,2,10,8935.11,5,3,5,535,13,Loyal Customers,Germany,Media,Enterprise
+CUST_001245,2,10,954.27,5,3,3,533,11,Loyal Customers,France,Real Estate,Basic
+CUST_001246,91,7,553.8,1,3,2,132,6,At Risk,USA,Finance,Basic
+CUST_001247,4,10,815.98,5,3,2,532,10,Loyal Customers,Australia,Finance,Basic
+CUST_001248,5,9,1100.43,5,3,3,533,11,Loyal Customers,Germany,Finance,Professional
+CUST_001249,63,8,5696.64,1,3,5,135,9,At Risk,France,Consulting,Enterprise
+CUST_001250,4,7,1456.63,5,3,3,533,11,Loyal Customers,Singapore,Education,Professional
+CUST_001251,1,9,5911.99,5,3,5,535,13,Loyal Customers,Japan,Media,Enterprise
+CUST_001252,183,4,11075.9,1,2,5,125,8,Hibernating,France,Consulting,Premium
+CUST_001253,3,9,446.99,5,3,2,532,10,Loyal Customers,USA,Retail,Basic
+CUST_001254,29,8,2405.77,2,3,4,234,9,At Risk,Japan,Education,Professional
+CUST_001255,30,7,6818.63,2,3,5,235,10,At Risk,Japan,Real Estate,Enterprise
+CUST_001256,60,8,4757.17,1,3,4,134,8,At Risk,USA,Finance,Enterprise
+CUST_001257,57,7,1115.02,1,3,3,133,7,At Risk,UK,Energy,Professional
+CUST_001258,30,9,8260.43,2,3,5,235,10,At Risk,France,Energy,Enterprise
+CUST_001259,27,9,2047.74,2,3,4,234,9,At Risk,USA,Energy,Professional
+CUST_001260,27,8,1219.28,2,3,3,233,8,At Risk,Canada,Retail,Professional
+CUST_001261,25,7,556.07,2,3,2,232,7,At Risk,Canada,Manufacturing,Basic
+CUST_001262,25,9,903.59,2,3,3,233,8,At Risk,USA,Finance,Basic
+CUST_001263,24,9,595.82,2,3,2,232,7,At Risk,Australia,Finance,Basic
+CUST_001264,26,8,19806.28,2,3,5,235,10,At Risk,USA,Education,Premium
+CUST_001265,27,9,19434.22,2,3,5,235,10,At Risk,USA,Education,Premium
+CUST_001266,25,9,6567.07,2,3,5,235,10,At Risk,Canada,Consulting,Enterprise
+CUST_001267,206,3,223.99,1,2,1,121,4,Hibernating,USA,Media,Basic
+CUST_001268,27,9,4582.47,2,3,4,234,9,At Risk,Canada,Energy,Enterprise
+CUST_001269,26,9,786.87,2,3,2,232,7,At Risk,Canada,Media,Basic
+CUST_001270,23,8,3048.68,2,3,4,234,9,At Risk,Australia,Energy,Enterprise
+CUST_001271,25,9,3667.8,2,3,4,234,9,At Risk,France,Media,Enterprise
+CUST_001272,54,8,1121.0,1,3,3,133,7,At Risk,Japan,Technology,Professional
+CUST_001273,24,7,2243.4,2,3,4,234,9,At Risk,USA,Finance,Professional
+CUST_001274,23,9,1171.83,2,3,3,233,8,At Risk,USA,Manufacturing,Professional
+CUST_001275,21,8,615.3,3,3,2,332,8,Promising,UK,Technology,Basic
+CUST_001276,20,8,368.25,3,3,2,332,8,Promising,UK,Manufacturing,Basic
+CUST_001277,20,8,8690.5,3,3,5,335,11,Potential Loyalists,Australia,Energy,Premium
+CUST_001278,16,8,9791.79,3,3,5,335,11,Potential Loyalists,USA,Real Estate,Premium
+CUST_001279,16,7,643.44,3,3,2,332,8,Promising,Germany,Energy,Basic
+CUST_001280,19,8,1455.84,3,3,3,333,9,Potential Loyalists,USA,Energy,Professional
+CUST_001281,229,2,514.1099999999999,1,1,2,112,4,Hibernating,Australia,Energy,Professional
+CUST_001282,19,9,705.94,3,3,2,332,8,Promising,USA,Manufacturing,Basic
+CUST_001283,18,9,851.24,3,3,2,332,8,Promising,UK,Technology,Basic
+CUST_001284,49,7,406.76,1,3,2,132,6,At Risk,USA,Media,Basic
+CUST_001285,15,8,7995.13,4,3,5,435,12,Loyal Customers,Australia,Education,Enterprise
+CUST_001286,19,9,2974.37,3,3,4,334,10,Potential Loyalists,UK,Technology,Enterprise
+CUST_001287,18,8,1147.05,3,3,3,333,9,Potential Loyalists,UK,Manufacturing,Professional
+CUST_001288,16,9,2435.06,3,3,4,334,10,Potential Loyalists,USA,Real Estate,Professional
+CUST_001289,16,8,2271.27,3,3,4,334,10,Potential Loyalists,Singapore,Education,Professional
+CUST_001290,17,9,2387.36,3,3,4,334,10,Potential Loyalists,UK,Energy,Professional
+CUST_001291,16,9,7774.62,3,3,5,335,11,Potential Loyalists,USA,Retail,Enterprise
+CUST_001292,12,9,1525.49,4,3,3,433,10,Loyal Customers,Germany,Retail,Professional
+CUST_001293,15,9,2711.48,4,3,4,434,11,Loyal Customers,France,Finance,Professional
+CUST_001294,12,9,1239.47,4,3,3,433,10,Loyal Customers,USA,Healthcare,Professional
+CUST_001295,105,5,1203.55,1,2,3,123,6,Hibernating,USA,Finance,Professional
+CUST_001296,15,8,4584.35,4,3,4,434,11,Loyal Customers,Japan,Healthcare,Enterprise
+CUST_001297,13,8,1304.6,4,3,3,433,10,Loyal Customers,Germany,Media,Professional
+CUST_001298,11,9,3544.49,4,3,4,434,11,Loyal Customers,USA,Manufacturing,Enterprise
+CUST_001299,12,9,2450.26,4,3,4,434,11,Loyal Customers,USA,Consulting,Professional
+CUST_001300,11,9,479.26,4,3,2,432,9,Loyal Customers,USA,Technology,Basic
+CUST_001301,12,8,264.92,4,3,1,431,8,Loyal Customers,France,Finance,Basic
+CUST_001302,10,9,650.54,4,3,2,432,9,Loyal Customers,Canada,Education,Basic
+CUST_001303,11,7,1995.5900000000001,4,3,4,434,11,Loyal Customers,USA,Consulting,Professional
+CUST_001304,8,9,591.57,5,3,2,532,10,Loyal Customers,USA,Manufacturing,Basic
+CUST_001305,10,8,554.14,4,3,2,432,9,Loyal Customers,Canada,Consulting,Basic
+CUST_001306,11,9,770.29,4,3,2,432,9,Loyal Customers,Japan,Healthcare,Basic
+CUST_001307,127,4,882.68,1,2,3,123,6,Hibernating,USA,Education,Professional
+CUST_001308,9,8,532.12,4,3,2,432,9,Loyal Customers,UK,Finance,Basic
+CUST_001309,8,9,368.09,5,3,2,532,10,Loyal Customers,UK,Energy,Basic
+CUST_001310,9,8,546.8,4,3,2,432,9,Loyal Customers,Japan,Energy,Basic
+CUST_001311,8,7,3827.9,5,3,4,534,12,Loyal Customers,Australia,Healthcare,Enterprise
+CUST_001312,9,9,7226.5199999999995,4,3,5,435,12,Loyal Customers,UK,Retail,Enterprise
+CUST_001313,5,9,15625.119999999999,5,3,5,535,13,Loyal Customers,UK,Education,Premium
+CUST_001314,8,8,2307.7200000000003,5,3,4,534,12,Loyal Customers,USA,Retail,Professional
+CUST_001315,5,8,571.66,5,3,2,532,10,Loyal Customers,Germany,Consulting,Basic
+CUST_001316,5,9,2505.06,5,3,4,534,12,Loyal Customers,France,Energy,Professional
+CUST_001317,6,9,336.57,5,3,1,531,9,Loyal Customers,USA,Technology,Basic
+CUST_001318,2,8,1560.62,5,3,3,533,11,Loyal Customers,Canada,Education,Professional
+CUST_001319,5,9,8670.06,5,3,5,535,13,Loyal Customers,India,Consulting,Enterprise
+CUST_001320,2,8,2421.31,5,3,4,534,12,Loyal Customers,India,Retail,Professional
+CUST_001321,5,7,398.01,5,3,2,532,10,Loyal Customers,USA,Education,Basic
+CUST_001322,34,6,1061.17,1,3,3,133,7,At Risk,Australia,Healthcare,Professional
+CUST_001323,1,9,726.66,5,3,2,532,10,Loyal Customers,USA,Energy,Basic
+CUST_001324,4,9,2606.89,5,3,4,534,12,Loyal Customers,India,Technology,Professional
+CUST_001325,0,9,1917.98,5,3,3,533,11,Loyal Customers,UK,Education,Professional
+CUST_001326,33,8,517.5699999999999,1,3,2,132,6,At Risk,USA,Energy,Basic
+CUST_001327,32,8,406.38,1,3,2,132,6,At Risk,UK,Technology,Basic
+CUST_001328,29,8,1413.83,2,3,3,233,8,At Risk,Australia,Retail,Professional
+CUST_001329,31,7,6919.6,1,3,5,135,9,At Risk,Japan,Healthcare,Enterprise
+CUST_001330,31,6,1836.29,1,3,3,133,7,At Risk,USA,Finance,Professional
+CUST_001331,28,8,5657.82,2,3,5,235,10,At Risk,Germany,Energy,Enterprise
+CUST_001332,27,8,1155.1,2,3,3,233,8,At Risk,USA,Healthcare,Professional
+CUST_001333,28,8,730.62,2,3,2,232,7,At Risk,France,Retail,Basic
+CUST_001334,26,8,2170.57,2,3,4,234,9,At Risk,USA,Media,Professional
+CUST_001335,25,8,581.11,2,3,2,232,7,At Risk,Canada,Retail,Basic
+CUST_001336,29,7,534.39,2,3,2,232,7,At Risk,France,Media,Basic
+CUST_001337,27,7,587.4,2,3,2,232,7,At Risk,Canada,Healthcare,Basic
+CUST_001338,26,8,249.14,2,3,1,231,6,At Risk,Brazil,Finance,Basic
+CUST_001339,23,7,229.34,2,3,1,231,6,At Risk,UK,Education,Basic
+CUST_001340,173,3,322.49,1,2,1,121,4,Hibernating,USA,Healthcare,Professional
+CUST_001341,24,8,5660.18,2,3,5,235,10,At Risk,USA,Manufacturing,Enterprise
+CUST_001342,25,6,519.98,2,3,2,232,7,At Risk,USA,Consulting,Basic
+CUST_001343,23,8,472.77,2,3,2,232,7,At Risk,UK,Manufacturing,Basic
+CUST_001344,21,7,1656.22,3,3,3,333,9,Potential Loyalists,USA,Real Estate,Professional
+CUST_001345,24,8,1405.63,2,3,3,233,8,At Risk,Germany,Media,Professional
+CUST_001346,18,8,1889.45,3,3,3,333,9,Potential Loyalists,Germany,Media,Professional
+CUST_001347,18,7,720.04,3,3,2,332,8,Promising,USA,Energy,Professional
+CUST_001348,22,8,948.87,3,3,3,333,9,Potential Loyalists,India,Consulting,Professional
+CUST_001349,20,8,262.22,3,3,1,331,7,Need Attention,Canada,Consulting,Basic
+CUST_001350,21,7,3814.5299999999997,3,3,4,334,10,Potential Loyalists,Australia,Healthcare,Enterprise
+CUST_001351,18,8,10206.43,3,3,5,335,11,Potential Loyalists,Germany,Energy,Premium
+CUST_001352,20,8,584.51,3,3,2,332,8,Promising,USA,Manufacturing,Basic
+CUST_001353,20,8,6900.94,3,3,5,335,11,Potential Loyalists,Australia,Manufacturing,Enterprise
+CUST_001354,20,8,473.53,3,3,2,332,8,Promising,USA,Real Estate,Basic
+CUST_001355,18,7,448.37,3,3,2,332,8,Promising,USA,Technology,Basic
+CUST_001356,17,8,1180.2,3,3,3,333,9,Potential Loyalists,Australia,Energy,Professional
+CUST_001357,17,6,521.1,3,3,2,332,8,Promising,UK,Media,Basic
+CUST_001358,18,7,345.85,3,3,2,332,8,Promising,USA,Energy,Basic
+CUST_001359,16,8,12996.5,3,3,5,335,11,Potential Loyalists,France,Finance,Premium
+CUST_001360,15,8,805.42,4,3,2,432,9,Loyal Customers,Japan,Education,Basic
+CUST_001361,15,8,5611.28,4,3,5,435,12,Loyal Customers,Brazil,Technology,Enterprise
+CUST_001362,15,7,915.52,4,3,3,433,10,Loyal Customers,Australia,Energy,Professional
+CUST_001363,18,7,211.05,3,3,1,331,7,Need Attention,UK,Technology,Basic
+CUST_001364,15,8,460.78,4,3,2,432,9,Loyal Customers,USA,Consulting,Basic
+CUST_001365,14,8,2429.89,4,3,4,434,11,Loyal Customers,USA,Energy,Professional
+CUST_001366,163,3,405.41,1,2,2,122,5,Hibernating,Canada,Manufacturing,Professional
+CUST_001367,16,8,11621.02,3,3,5,335,11,Potential Loyalists,USA,Education,Premium
+CUST_001368,12,8,3249.45,4,3,4,434,11,Loyal Customers,India,Energy,Enterprise
+CUST_001369,16,7,1087.96,3,3,3,333,9,Potential Loyalists,Singapore,Finance,Professional
+CUST_001370,11,8,347.01,4,3,2,432,9,Loyal Customers,India,Manufacturing,Basic
+CUST_001371,12,8,618.1800000000001,4,3,2,432,9,Loyal Customers,UK,Finance,Basic
+CUST_001372,13,7,663.21,4,3,2,432,9,Loyal Customers,USA,Consulting,Basic
+CUST_001373,11,8,5075.39,4,3,5,435,12,Loyal Customers,France,Energy,Enterprise
+CUST_001374,12,7,243.82999999999998,4,3,1,431,8,Loyal Customers,France,Energy,Basic
+CUST_001375,11,7,1139.1799999999998,4,3,3,433,10,Loyal Customers,Australia,Healthcare,Professional
+CUST_001376,13,8,1980.7,4,3,4,434,11,Loyal Customers,UK,Retail,Professional
+CUST_001377,9,8,786.25,4,3,2,432,9,Loyal Customers,USA,Real Estate,Basic
+CUST_001378,10,6,234.67000000000002,4,3,1,431,8,Loyal Customers,Brazil,Education,Basic
+CUST_001379,8,7,2654.57,5,3,4,534,12,Loyal Customers,Germany,Retail,Enterprise
+CUST_001380,10,7,242.98000000000002,4,3,1,431,8,Loyal Customers,Canada,Consulting,Basic
+CUST_001381,38,6,310.63,1,3,1,131,5,At Risk,USA,Retail,Basic
+CUST_001382,7,7,1207.67,5,3,3,533,11,Loyal Customers,France,Real Estate,Professional
+CUST_001383,5,7,16966.02,5,3,5,535,13,Loyal Customers,USA,Manufacturing,Premium
+CUST_001384,8,8,559.79,5,3,2,532,10,Loyal Customers,Germany,Finance,Basic
+CUST_001385,8,7,1928.86,5,3,4,534,12,Loyal Customers,Germany,Education,Professional
+CUST_001386,4,8,332.12,5,3,1,531,9,Loyal Customers,USA,Media,Basic
+CUST_001387,8,8,1211.32,5,3,3,533,11,Loyal Customers,Australia,Education,Professional
+CUST_001388,3,8,1982.65,5,3,4,534,12,Loyal Customers,Germany,Retail,Professional
+CUST_001389,4,7,346.86,5,3,2,532,10,Loyal Customers,USA,Media,Basic
+CUST_001390,3,8,326.29,5,3,1,531,9,Loyal Customers,UK,Education,Basic
+CUST_001391,4,7,6526.7,5,3,5,535,13,Loyal Customers,USA,Education,Enterprise
+CUST_001392,4,6,3743.41,5,3,4,534,12,Loyal Customers,Singapore,Real Estate,Enterprise
+CUST_001393,4,6,391.65999999999997,5,3,2,532,10,Loyal Customers,Japan,Manufacturing,Basic
+CUST_001394,33,7,286.52,1,3,1,131,5,At Risk,India,Healthcare,Basic
+CUST_001395,33,7,8128.02,1,3,5,135,9,At Risk,India,Consulting,Premium
+CUST_001396,3,8,22186.879999999997,5,3,5,535,13,Loyal Customers,Canada,Manufacturing,Premium
+CUST_001397,5,8,747.83,5,3,2,532,10,Loyal Customers,Germany,Finance,Basic
+CUST_001398,3,8,1259.24,5,3,3,533,11,Loyal Customers,UK,Retail,Professional
+CUST_001399,4,8,2036.34,5,3,4,534,12,Loyal Customers,USA,Healthcare,Professional
+CUST_001400,1,8,739.24,5,3,2,532,10,Loyal Customers,Singapore,Technology,Basic
+CUST_001401,3,8,7406.63,5,3,5,535,13,Loyal Customers,Australia,Technology,Enterprise
+CUST_001402,3,8,15046.41,5,3,5,535,13,Loyal Customers,India,Consulting,Premium
+CUST_001403,31,7,10414.2,1,3,5,135,9,At Risk,Germany,Consulting,Premium
+CUST_001404,33,5,353.18,1,2,2,122,5,Hibernating,Australia,Technology,Basic
+CUST_001405,30,7,1986.4499999999998,2,3,4,234,9,At Risk,Germany,Energy,Professional
+CUST_001406,31,6,1204.72,1,3,3,133,7,At Risk,USA,Energy,Professional
+CUST_001407,31,6,336.58,1,3,1,131,5,At Risk,France,Finance,Basic
+CUST_001408,32,7,6589.59,1,3,5,135,9,At Risk,Germany,Retail,Enterprise
+CUST_001409,29,6,497.26,2,3,2,232,7,At Risk,Germany,Consulting,Basic
+CUST_001410,30,7,276.28,2,3,1,231,6,At Risk,USA,Manufacturing,Basic
+CUST_001411,61,6,385.37,1,3,2,132,6,At Risk,Brazil,Energy,Basic
+CUST_001412,31,5,274.24,1,2,1,121,4,Hibernating,France,Media,Basic
+CUST_001413,27,6,4691.13,2,3,4,234,9,At Risk,UK,Technology,Enterprise
+CUST_001414,90,4,300.48,1,2,1,121,4,Hibernating,Canada,Consulting,Basic
+CUST_001415,26,7,283.35,2,3,1,231,6,At Risk,UK,Energy,Basic
+CUST_001416,26,7,1102.41,2,3,3,233,8,At Risk,Germany,Finance,Professional
+CUST_001417,29,7,554.59,2,3,2,232,7,At Risk,USA,Consulting,Basic
+CUST_001418,27,7,6076.3099999999995,2,3,5,235,10,At Risk,UK,Finance,Enterprise
+CUST_001419,29,7,723.27,2,3,2,232,7,At Risk,Singapore,Real Estate,Basic
+CUST_001420,26,7,319.18,2,3,1,231,6,At Risk,Australia,Technology,Basic
+CUST_001421,29,7,3290.88,2,3,4,234,9,At Risk,UK,Real Estate,Enterprise
+CUST_001422,26,7,12291.12,2,3,5,235,10,At Risk,Brazil,Manufacturing,Premium
+CUST_001423,28,7,543.48,2,3,2,232,7,At Risk,France,Technology,Basic
+CUST_001424,23,6,573.0,2,3,2,232,7,At Risk,Australia,Energy,Basic
+CUST_001425,26,7,404.19,2,3,2,232,7,At Risk,Germany,Education,Basic
+CUST_001426,26,6,562.98,2,3,2,232,7,At Risk,France,Real Estate,Basic
+CUST_001427,26,6,6108.52,2,3,5,235,10,At Risk,USA,Technology,Enterprise
+CUST_001428,54,6,722.59,1,3,2,132,6,At Risk,USA,Education,Professional
+CUST_001429,23,7,534.15,2,3,2,232,7,At Risk,USA,Energy,Basic
+CUST_001430,23,7,629.3299999999999,2,3,2,232,7,At Risk,USA,Manufacturing,Basic
+CUST_001431,24,7,497.87,2,3,2,232,7,At Risk,Japan,Manufacturing,Basic
+CUST_001432,21,6,829.31,3,3,2,332,8,Promising,India,Consulting,Professional
+CUST_001433,24,5,995.2199999999999,2,2,3,223,7,Hibernating,UK,Media,Professional
+CUST_001434,24,7,4874.68,2,3,5,235,10,At Risk,Germany,Healthcare,Enterprise
+CUST_001435,22,7,695.87,3,3,2,332,8,Promising,USA,Media,Basic
+CUST_001436,52,6,12214.119999999999,1,3,5,135,9,At Risk,Brazil,Retail,Premium
+CUST_001437,22,7,1877.78,3,3,3,333,9,Potential Loyalists,Brazil,Education,Professional
+CUST_001438,20,7,1453.75,3,3,3,333,9,Potential Loyalists,Australia,Education,Professional
+CUST_001439,20,7,648.96,3,3,2,332,8,Promising,Germany,Real Estate,Basic
+CUST_001440,20,7,453.49,3,3,2,332,8,Promising,France,Technology,Basic
+CUST_001441,20,7,4354.93,3,3,4,334,10,Potential Loyalists,UK,Finance,Enterprise
+CUST_001442,19,6,207.66,3,3,1,331,7,Need Attention,USA,Retail,Basic
+CUST_001443,19,7,10154.7,3,3,5,335,11,Potential Loyalists,USA,Manufacturing,Premium
+CUST_001444,20,7,938.86,3,3,3,333,9,Potential Loyalists,Germany,Finance,Professional
+CUST_001445,50,5,4028.79,1,2,4,124,7,Hibernating,Australia,Consulting,Enterprise
+CUST_001446,45,6,1468.4499999999998,1,3,3,133,7,At Risk,UK,Healthcare,Professional
+CUST_001447,18,7,1858.95,3,3,3,333,9,Potential Loyalists,Australia,Media,Professional
+CUST_001448,48,6,3812.2200000000003,1,3,4,134,8,At Risk,USA,Healthcare,Enterprise
+CUST_001449,18,5,327.09000000000003,3,2,1,321,6,About to Sleep,Germany,Real Estate,Basic
+CUST_001450,18,7,288.22,3,3,1,331,7,Need Attention,UK,Consulting,Basic
+CUST_001451,15,7,2245.77,4,3,4,434,11,Loyal Customers,USA,Media,Enterprise
+CUST_001452,13,6,772.05,4,3,2,432,9,Loyal Customers,USA,Technology,Professional
+CUST_001453,17,7,288.06,3,3,1,331,7,Need Attention,Germany,Consulting,Basic
+CUST_001454,15,7,225.85,4,3,1,431,8,Loyal Customers,Singapore,Energy,Basic
+CUST_001455,13,6,265.03,4,3,1,431,8,Loyal Customers,UK,Consulting,Basic
+CUST_001456,13,7,337.37,4,3,1,431,8,Loyal Customers,USA,Finance,Basic
+CUST_001457,15,7,15480.05,4,3,5,435,12,Loyal Customers,Canada,Finance,Premium
+CUST_001458,15,7,1561.28,4,3,3,433,10,Loyal Customers,USA,Media,Professional
+CUST_001459,11,7,5542.63,4,3,5,435,12,Loyal Customers,Canada,Consulting,Enterprise
+CUST_001460,13,7,681.84,4,3,2,432,9,Loyal Customers,UK,Manufacturing,Basic
+CUST_001461,12,7,1367.55,4,3,3,433,10,Loyal Customers,UK,Retail,Professional
+CUST_001462,15,7,637.73,4,3,2,432,9,Loyal Customers,Australia,Real Estate,Basic
+CUST_001463,45,5,2269.44,1,2,4,124,7,Hibernating,UK,Finance,Enterprise
+CUST_001464,11,7,16656.75,4,3,5,435,12,Loyal Customers,Australia,Media,Premium
+CUST_001465,15,6,538.24,4,3,2,432,9,Loyal Customers,Australia,Consulting,Basic
+CUST_001466,10,7,1607.91,4,3,3,433,10,Loyal Customers,France,Finance,Professional
+CUST_001467,13,7,1090.1,4,3,3,433,10,Loyal Customers,USA,Energy,Professional
+CUST_001468,13,7,669.71,4,3,2,432,9,Loyal Customers,Canada,Education,Basic
+CUST_001469,13,7,1582.64,4,3,3,433,10,Loyal Customers,Australia,Consulting,Professional
+CUST_001470,9,7,398.09000000000003,4,3,2,432,9,Loyal Customers,India,Retail,Basic
+CUST_001471,39,6,724.86,1,3,2,132,6,At Risk,USA,Finance,Professional
+CUST_001472,41,6,1220.52,1,3,3,133,7,At Risk,USA,Retail,Professional
+CUST_001473,10,7,549.56,4,3,2,432,9,Loyal Customers,Australia,Energy,Basic
+CUST_001474,9,7,1580.06,4,3,3,433,10,Loyal Customers,Germany,Finance,Professional
+CUST_001475,6,7,13990.16,5,3,5,535,13,Loyal Customers,UK,Finance,Premium
+CUST_001476,9,5,1132.23,4,2,3,423,9,Potential Loyalists,Japan,Consulting,Professional
+CUST_001477,8,7,1521.04,5,3,3,533,11,Loyal Customers,Canada,Energy,Professional
+CUST_001478,4,7,838.01,5,3,2,532,10,Loyal Customers,Brazil,Healthcare,Professional
+CUST_001479,5,7,7150.37,5,3,5,535,13,Loyal Customers,Canada,Finance,Enterprise
+CUST_001480,3,7,6223.79,5,3,5,535,13,Loyal Customers,USA,Energy,Enterprise
+CUST_001481,5,6,403.65999999999997,5,3,2,532,10,Loyal Customers,USA,Media,Basic
+CUST_001482,2,7,19731.96,5,3,5,535,13,Loyal Customers,UK,Education,Premium
+CUST_001483,4,7,1315.08,5,3,3,533,11,Loyal Customers,Japan,Energy,Professional
+CUST_001484,3,7,1841.92,5,3,3,533,11,Loyal Customers,Canada,Real Estate,Professional
+CUST_001485,1,7,1212.44,5,3,3,533,11,Loyal Customers,India,Media,Professional
+CUST_001486,5,6,227.66,5,3,1,531,9,Loyal Customers,UK,Consulting,Basic
+CUST_001487,5,7,1076.31,5,3,3,533,11,Loyal Customers,Australia,Finance,Professional
+CUST_001488,2,6,584.63,5,3,2,532,10,Loyal Customers,UK,Retail,Basic
+CUST_001489,1,6,313.24,5,3,1,531,9,Loyal Customers,Japan,Healthcare,Basic
+CUST_001490,0,5,10576.2,5,2,5,525,12,Potential Loyalists,Canada,Energy,Premium
+CUST_001491,0,6,199.65,5,3,1,531,9,Loyal Customers,UK,Retail,Basic
+CUST_001492,31,5,3711.16,1,2,4,124,7,Hibernating,Canada,Technology,Enterprise
+CUST_001493,33,5,10786.65,1,2,5,125,8,Hibernating,Germany,Healthcare,Premium
+CUST_001494,32,6,1424.63,1,3,3,133,7,At Risk,USA,Media,Professional
+CUST_001495,33,6,3627.67,1,3,4,134,8,At Risk,Canada,Education,Enterprise
+CUST_001496,33,5,2189.65,1,2,4,124,7,Hibernating,USA,Healthcare,Enterprise
+CUST_001497,33,6,296.68,1,3,1,131,5,At Risk,Germany,Consulting,Basic
+CUST_001498,61,5,2990.23,1,2,4,124,7,Hibernating,USA,Energy,Enterprise
+CUST_001499,30,6,441.93,2,3,2,232,7,At Risk,USA,Education,Basic
+CUST_001500,28,6,5157.99,2,3,5,235,10,At Risk,USA,Media,Enterprise
+CUST_001501,27,6,4230.9,2,3,4,234,9,At Risk,Canada,Media,Enterprise
+CUST_001502,28,6,1207.6399999999999,2,3,3,233,8,At Risk,USA,Energy,Professional
+CUST_001503,30,6,4501.02,2,3,4,234,9,At Risk,France,Education,Enterprise
+CUST_001504,27,4,208.27,2,2,1,221,5,Hibernating,Brazil,Real Estate,Basic
+CUST_001505,29,6,456.92,2,3,2,232,7,At Risk,Canada,Manufacturing,Basic
+CUST_001506,29,5,420.5,2,2,2,222,6,Hibernating,Germany,Media,Basic
+CUST_001507,59,4,411.06,1,2,2,122,5,Hibernating,UK,Healthcare,Basic
+CUST_001508,26,6,553.51,2,3,2,232,7,At Risk,France,Real Estate,Basic
+CUST_001509,27,6,735.61,2,3,2,232,7,At Risk,Canada,Finance,Professional
+CUST_001510,57,5,2920.57,1,2,4,124,7,Hibernating,USA,Energy,Enterprise
+CUST_001511,27,6,1610.72,2,3,3,233,8,At Risk,USA,Education,Professional
+CUST_001512,27,5,404.49,2,2,2,222,6,Hibernating,Canada,Consulting,Basic
+CUST_001513,25,5,220.87,2,2,1,221,5,Hibernating,USA,Technology,Basic
+CUST_001514,57,5,1320.1,1,2,3,123,6,Hibernating,India,Technology,Professional
+CUST_001515,28,6,1199.35,2,3,3,233,8,At Risk,Canada,Finance,Professional
+CUST_001516,26,6,1156.31,2,3,3,233,8,At Risk,USA,Consulting,Professional
+CUST_001517,27,6,292.25,2,3,1,231,6,At Risk,Australia,Healthcare,Basic
+CUST_001518,25,6,212.6,2,3,1,231,6,At Risk,USA,Education,Basic
+CUST_001519,26,6,15228.31,2,3,5,235,10,At Risk,UK,Technology,Premium
+CUST_001520,25,6,1368.46,2,3,3,233,8,At Risk,USA,Media,Professional
+CUST_001521,25,6,9764.55,2,3,5,235,10,At Risk,USA,Energy,Premium
+CUST_001522,24,5,581.38,2,2,2,222,6,Hibernating,USA,Consulting,Professional
+CUST_001523,25,6,1408.29,2,3,3,233,8,At Risk,Canada,Finance,Professional
+CUST_001524,21,5,150.18,3,2,1,321,6,About to Sleep,UK,Real Estate,Basic
+CUST_001525,24,6,310.28,2,3,1,231,6,At Risk,UK,Energy,Basic
+CUST_001526,21,6,1605.6499999999999,3,3,3,333,9,Potential Loyalists,USA,Technology,Professional
+CUST_001527,51,3,201.34,1,2,1,121,4,Hibernating,USA,Energy,Basic
+CUST_001528,24,6,13807.76,2,3,5,235,10,At Risk,France,Retail,Premium
+CUST_001529,22,6,354.49,3,3,2,332,8,Promising,France,Technology,Basic
+CUST_001530,22,5,15320.53,3,2,5,325,10,Potential Loyalists,USA,Technology,Premium
+CUST_001531,23,6,606.4,2,3,2,232,7,At Risk,USA,Healthcare,Basic
+CUST_001532,20,6,1081.62,3,3,3,333,9,Potential Loyalists,France,Media,Professional
+CUST_001533,21,6,379.15,3,3,2,332,8,Promising,France,Media,Basic
+CUST_001534,18,6,12663.07,3,3,5,335,11,Potential Loyalists,USA,Retail,Premium
+CUST_001535,20,6,1785.05,3,3,3,333,9,Potential Loyalists,USA,Healthcare,Professional
+CUST_001536,19,6,972.56,3,3,3,333,9,Potential Loyalists,Canada,Energy,Professional
+CUST_001537,16,6,573.95,3,3,2,332,8,Promising,UK,Energy,Basic
+CUST_001538,18,6,3541.56,3,3,4,334,10,Potential Loyalists,France,Education,Enterprise
+CUST_001539,79,3,130.6,1,2,1,121,4,Hibernating,India,Manufacturing,Basic
+CUST_001540,45,5,9532.83,1,2,5,125,8,Hibernating,USA,Retail,Premium
+CUST_001541,16,6,4355.96,3,3,4,334,10,Potential Loyalists,Canada,Media,Enterprise
+CUST_001542,16,5,678.02,3,2,2,322,7,About to Sleep,USA,Manufacturing,Professional
+CUST_001543,17,6,743.76,3,3,2,332,8,Promising,Canada,Energy,Professional
+CUST_001544,15,5,335.49,4,2,1,421,7,New Customers,UK,Healthcare,Basic
+CUST_001545,17,6,593.28,3,3,2,332,8,Promising,France,Education,Basic
+CUST_001546,46,5,14730.5,1,2,5,125,8,Hibernating,Germany,Energy,Premium
+CUST_001547,15,6,5382.83,4,3,5,435,12,Loyal Customers,UK,Energy,Enterprise
+CUST_001548,15,6,926.69,4,3,3,433,10,Loyal Customers,USA,Consulting,Professional
+CUST_001549,14,6,595.94,4,3,2,432,9,Loyal Customers,Singapore,Real Estate,Basic
+CUST_001550,13,6,1216.4,4,3,3,433,10,Loyal Customers,USA,Consulting,Professional
+CUST_001551,15,5,1307.8,4,2,3,423,9,Potential Loyalists,USA,Retail,Professional
+CUST_001552,15,6,1470.78,4,3,3,433,10,Loyal Customers,Brazil,Real Estate,Professional
+CUST_001553,13,6,1677.98,4,3,3,433,10,Loyal Customers,USA,Consulting,Professional
+CUST_001554,12,6,231.37,4,3,1,431,8,Loyal Customers,Canada,Real Estate,Basic
+CUST_001555,16,5,965.63,3,2,3,323,8,Potential Loyalists,France,Healthcare,Professional
+CUST_001556,12,5,400.56,4,2,2,422,8,New Customers,France,Retail,Basic
+CUST_001557,14,6,527.75,4,3,2,432,9,Loyal Customers,Canada,Retail,Basic
+CUST_001558,40,5,5318.41,1,2,5,125,8,Hibernating,USA,Media,Enterprise
+CUST_001559,10,6,412.68,4,3,2,432,9,Loyal Customers,Canada,Energy,Basic
+CUST_001560,11,6,288.71,4,3,1,431,8,Loyal Customers,USA,Manufacturing,Basic
+CUST_001561,10,6,352.33,4,3,2,432,9,Loyal Customers,USA,Healthcare,Basic
+CUST_001562,13,5,637.01,4,2,2,422,8,New Customers,USA,Education,Professional
+CUST_001563,11,6,1203.17,4,3,3,433,10,Loyal Customers,Canada,Finance,Professional
+CUST_001564,8,6,273.6,5,3,1,531,9,Loyal Customers,Canada,Education,Basic
+CUST_001565,10,6,3049.54,4,3,4,434,11,Loyal Customers,India,Consulting,Enterprise
+CUST_001566,11,6,4133.95,4,3,4,434,11,Loyal Customers,Australia,Retail,Enterprise
+CUST_001567,7,6,897.15,5,3,3,533,11,Loyal Customers,India,Retail,Professional
+CUST_001568,8,6,1806.67,5,3,3,533,11,Loyal Customers,USA,Retail,Professional
+CUST_001569,7,6,945.99,5,3,3,533,11,Loyal Customers,Canada,Retail,Professional
+CUST_001570,7,6,542.9100000000001,5,3,2,532,10,Loyal Customers,Germany,Retail,Basic
+CUST_001571,8,5,2077.12,5,2,4,524,11,Potential Loyalists,UK,Education,Enterprise
+CUST_001572,8,6,784.49,5,3,2,532,10,Loyal Customers,France,Healthcare,Professional
+CUST_001573,6,6,468.07,5,3,2,532,10,Loyal Customers,USA,Healthcare,Basic
+CUST_001574,8,6,1382.77,5,3,3,533,11,Loyal Customers,Brazil,Real Estate,Professional
+CUST_001575,8,5,1556.6,5,2,3,523,10,Potential Loyalists,Australia,Energy,Professional
+CUST_001576,8,6,339.96,5,3,1,531,9,Loyal Customers,France,Real Estate,Basic
+CUST_001577,5,6,1218.3700000000001,5,3,3,533,11,Loyal Customers,Canada,Education,Professional
+CUST_001578,8,5,1445.81,5,2,3,523,10,Potential Loyalists,UK,Consulting,Professional
+CUST_001579,5,6,259.0,5,3,1,531,9,Loyal Customers,India,Real Estate,Basic
+CUST_001580,4,6,299.7,5,3,1,531,9,Loyal Customers,Japan,Energy,Basic
+CUST_001581,6,6,502.82,5,3,2,532,10,Loyal Customers,UK,Retail,Basic
+CUST_001582,6,6,679.3,5,3,2,532,10,Loyal Customers,UK,Finance,Professional
+CUST_001583,6,6,1196.73,5,3,3,533,11,Loyal Customers,USA,Media,Professional
+CUST_001584,2,6,194.2,5,3,1,531,9,Loyal Customers,Brazil,Energy,Basic
+CUST_001585,2,6,1108.92,5,3,3,533,11,Loyal Customers,Australia,Education,Professional
+CUST_001586,4,6,376.39,5,3,2,532,10,Loyal Customers,France,Finance,Basic
+CUST_001587,156,1,72.87,1,1,1,111,3,Hibernating,USA,Healthcare,Basic
+CUST_001588,66,4,198.93,1,2,1,121,4,Hibernating,USA,Real Estate,Basic
+CUST_001589,2,6,2003.8799999999999,5,3,4,534,12,Loyal Customers,France,Technology,Enterprise
+CUST_001590,3,5,915.5799999999999,5,2,3,523,10,Potential Loyalists,Australia,Retail,Professional
+CUST_001591,2,6,325.67,5,3,1,531,9,Loyal Customers,USA,Healthcare,Basic
+CUST_001592,1,6,559.27,5,3,2,532,10,Loyal Customers,UK,Consulting,Basic
+CUST_001593,5,6,1292.53,5,3,3,533,11,Loyal Customers,Germany,Finance,Professional
+CUST_001594,1,5,280.78,5,2,1,521,8,New Customers,UK,Retail,Basic
+CUST_001595,3,6,3459.96,5,3,4,534,12,Loyal Customers,Japan,Consulting,Enterprise
+CUST_001596,2,4,2783.74,5,2,4,524,11,Potential Loyalists,UK,Finance,Enterprise
+CUST_001597,4,5,324.68,5,2,1,521,8,New Customers,India,Retail,Basic
+CUST_001598,29,5,902.9200000000001,2,2,3,223,7,Hibernating,UK,Education,Professional
+CUST_001599,31,5,2587.15,1,2,4,124,7,Hibernating,India,Media,Enterprise
+CUST_001600,32,4,291.48,1,2,1,121,4,Hibernating,USA,Finance,Basic
+CUST_001601,29,5,1234.6399999999999,2,2,3,223,7,Hibernating,Germany,Consulting,Professional
+CUST_001602,28,5,4262.31,2,2,4,224,8,Hibernating,USA,Healthcare,Enterprise
+CUST_001603,32,5,3604.59,1,2,4,124,7,Hibernating,Canada,Retail,Enterprise
+CUST_001604,32,5,727.27,1,2,2,122,5,Hibernating,Japan,Media,Professional
+CUST_001605,30,5,1017.68,2,2,3,223,7,Hibernating,UK,Finance,Professional
+CUST_001606,29,5,704.35,2,2,2,222,6,Hibernating,USA,Technology,Professional
+CUST_001607,30,4,517.48,2,2,2,222,6,Hibernating,USA,Real Estate,Professional
+CUST_001608,31,5,346.4,1,2,2,122,5,Hibernating,USA,Energy,Basic
+CUST_001609,27,5,489.79,2,2,2,222,6,Hibernating,USA,Education,Basic
+CUST_001610,28,5,781.81,2,2,2,222,6,Hibernating,Canada,Manufacturing,Professional
+CUST_001611,30,5,169.0,2,2,1,221,5,Hibernating,Germany,Consulting,Basic
+CUST_001612,29,4,319.28,2,2,1,221,5,Hibernating,USA,Healthcare,Basic
+CUST_001613,29,5,2363.88,2,2,4,224,8,Hibernating,USA,Technology,Enterprise
+CUST_001614,29,5,328.11,2,2,1,221,5,Hibernating,USA,Manufacturing,Basic
+CUST_001615,27,4,248.36,2,2,1,221,5,Hibernating,USA,Healthcare,Basic
+CUST_001616,25,4,641.17,2,2,2,222,6,Hibernating,Germany,Education,Professional
+CUST_001617,25,5,355.73,2,2,2,222,6,Hibernating,USA,Education,Basic
+CUST_001618,29,5,276.6,2,2,1,221,5,Hibernating,UK,Manufacturing,Basic
+CUST_001619,27,5,6507.68,2,2,5,225,9,Hibernating,USA,Media,Premium
+CUST_001620,27,5,792.64,2,2,2,222,6,Hibernating,France,Consulting,Professional
+CUST_001621,27,5,1280.88,2,2,3,223,7,Hibernating,UK,Consulting,Professional
+CUST_001622,27,5,704.0,2,2,2,222,6,Hibernating,Germany,Energy,Professional
+CUST_001623,27,4,227.57999999999998,2,2,1,221,5,Hibernating,Canada,Manufacturing,Basic
+CUST_001624,23,5,1085.93,2,2,3,223,7,Hibernating,Germany,Energy,Professional
+CUST_001625,24,5,1459.22,2,2,3,223,7,Hibernating,Japan,Real Estate,Professional
+CUST_001626,85,3,211.35000000000002,1,2,1,121,4,Hibernating,Germany,Media,Basic
+CUST_001627,22,5,386.59000000000003,3,2,2,322,7,About to Sleep,France,Real Estate,Basic
+CUST_001628,24,5,469.9,2,2,2,222,6,Hibernating,UK,Finance,Basic
+CUST_001629,23,5,310.18,2,2,1,221,5,Hibernating,Canada,Education,Basic
+CUST_001630,22,5,3660.5,3,2,4,324,9,Potential Loyalists,UK,Consulting,Enterprise
+CUST_001631,22,4,553.0,3,2,2,322,7,About to Sleep,USA,Healthcare,Professional
+CUST_001632,21,5,236.39,3,2,1,321,6,About to Sleep,UK,Education,Basic
+CUST_001633,24,5,395.76,2,2,2,222,6,Hibernating,Australia,Education,Basic
+CUST_001634,22,5,1157.6399999999999,3,2,3,323,8,Potential Loyalists,Germany,Manufacturing,Professional
+CUST_001635,24,5,807.49,2,2,2,222,6,Hibernating,France,Media,Professional
+CUST_001636,22,5,437.25,3,2,2,322,7,About to Sleep,USA,Real Estate,Basic
+CUST_001637,23,5,1299.59,2,2,3,223,7,Hibernating,Canada,Education,Professional
+CUST_001638,20,4,4178.38,3,2,4,324,9,Potential Loyalists,Japan,Energy,Enterprise
+CUST_001639,18,5,699.11,3,2,2,322,7,About to Sleep,Japan,Media,Professional
+CUST_001640,19,5,2047.45,3,2,4,324,9,Potential Loyalists,UK,Technology,Enterprise
+CUST_001641,22,5,416.59000000000003,3,2,2,322,7,About to Sleep,Germany,Retail,Basic
+CUST_001642,19,5,2335.73,3,2,4,324,9,Potential Loyalists,Japan,Healthcare,Enterprise
+CUST_001643,20,5,189.5,3,2,1,321,6,About to Sleep,Germany,Media,Basic
+CUST_001644,50,4,3876.87,1,2,4,124,7,Hibernating,UK,Healthcare,Enterprise
+CUST_001645,19,5,355.06,3,2,2,322,7,About to Sleep,Brazil,Real Estate,Basic
+CUST_001646,19,5,4428.6,3,2,4,324,9,Potential Loyalists,USA,Technology,Enterprise
+CUST_001647,19,5,1319.82,3,2,3,323,8,Potential Loyalists,UK,Energy,Professional
+CUST_001648,50,4,158.07,1,2,1,121,4,Hibernating,India,Healthcare,Basic
+CUST_001649,20,5,209.87,3,2,1,321,6,About to Sleep,France,Consulting,Basic
+CUST_001650,19,5,2688.07,3,2,4,324,9,Potential Loyalists,UK,Media,Enterprise
+CUST_001651,20,4,10130.66,3,2,5,325,10,Potential Loyalists,UK,Retail,Premium
+CUST_001652,16,5,379.92,3,2,2,322,7,About to Sleep,Germany,Real Estate,Basic
+CUST_001653,18,5,350.66999999999996,3,2,2,322,7,About to Sleep,USA,Finance,Basic
+CUST_001654,14,4,132.03,4,2,1,421,7,New Customers,UK,Finance,Basic
+CUST_001655,15,5,1417.29,4,2,3,423,9,Potential Loyalists,UK,Education,Professional
+CUST_001656,16,4,1257.51,3,2,3,323,8,Potential Loyalists,Canada,Education,Professional
+CUST_001657,14,4,419.29,4,2,2,422,8,New Customers,Canada,Real Estate,Basic
+CUST_001658,14,5,1510.05,4,2,3,423,9,Potential Loyalists,USA,Energy,Professional
+CUST_001659,14,4,255.48000000000002,4,2,1,421,7,New Customers,Germany,Energy,Basic
+CUST_001660,15,5,2350.61,4,2,4,424,10,Potential Loyalists,Australia,Energy,Enterprise
+CUST_001661,13,5,318.12,4,2,1,421,7,New Customers,Germany,Consulting,Basic
+CUST_001662,14,5,977.0,4,2,3,423,9,Potential Loyalists,Australia,Consulting,Professional
+CUST_001663,14,5,2908.55,4,2,4,424,10,Potential Loyalists,Australia,Energy,Enterprise
+CUST_001664,14,5,1027.83,4,2,3,423,9,Potential Loyalists,Australia,Education,Professional
+CUST_001665,12,5,1425.57,4,2,3,423,9,Potential Loyalists,USA,Retail,Professional
+CUST_001666,12,5,833.01,4,2,2,422,8,New Customers,France,Real Estate,Professional
+CUST_001667,13,5,269.49,4,2,1,421,7,New Customers,USA,Media,Basic
+CUST_001668,13,4,414.11,4,2,2,422,8,New Customers,Brazil,Manufacturing,Professional
+CUST_001669,72,2,1716.26,1,1,3,113,5,Hibernating,Brazil,Energy,Enterprise
+CUST_001670,11,4,711.8299999999999,4,2,2,422,8,New Customers,France,Finance,Professional
+CUST_001671,43,2,443.91999999999996,1,1,2,112,4,Hibernating,Brazil,Real Estate,Professional
+CUST_001672,14,5,536.55,4,2,2,422,8,New Customers,France,Real Estate,Basic
+CUST_001673,11,5,827.5799999999999,4,2,2,422,8,New Customers,Germany,Real Estate,Professional
+CUST_001674,9,5,448.43,4,2,2,422,8,New Customers,USA,Media,Basic
+CUST_001675,13,5,237.91,4,2,1,421,7,New Customers,UK,Consulting,Basic
+CUST_001676,11,5,1176.3600000000001,4,2,3,423,9,Potential Loyalists,USA,Technology,Professional
+CUST_001677,13,3,572.58,4,2,2,422,8,New Customers,Brazil,Retail,Professional
+CUST_001678,12,5,313.65,4,2,1,421,7,New Customers,USA,Energy,Basic
+CUST_001679,71,3,119.85,1,2,1,121,4,Hibernating,Canada,Retail,Basic
+CUST_001680,12,5,1386.38,4,2,3,423,9,Potential Loyalists,Japan,Media,Professional
+CUST_001681,9,4,199.35,4,2,1,421,7,New Customers,Australia,Retail,Basic
+CUST_001682,11,5,383.24,4,2,2,422,8,New Customers,Canada,Media,Basic
+CUST_001683,8,4,1056.75,5,2,3,523,10,Potential Loyalists,India,Energy,Professional
+CUST_001684,11,5,484.62,4,2,2,422,8,New Customers,UK,Consulting,Basic
+CUST_001685,11,5,821.02,4,2,2,422,8,New Customers,USA,Manufacturing,Professional
+CUST_001686,11,5,1372.52,4,2,3,423,9,Potential Loyalists,USA,Energy,Professional
+CUST_001687,12,4,581.03,4,2,2,422,8,New Customers,USA,Media,Professional
+CUST_001688,10,5,2296.81,4,2,4,424,10,Potential Loyalists,Australia,Healthcare,Enterprise
+CUST_001689,8,4,166.31,5,2,1,521,8,New Customers,Australia,Manufacturing,Basic
+CUST_001690,7,4,1041.08,5,2,3,523,10,Potential Loyalists,USA,Real Estate,Professional
+CUST_001691,9,4,1037.45,4,2,3,423,9,Potential Loyalists,UK,Manufacturing,Professional
+CUST_001692,8,5,222.63,5,2,1,521,8,New Customers,USA,Real Estate,Basic
+CUST_001693,9,5,2141.13,4,2,4,424,10,Potential Loyalists,USA,Technology,Enterprise
+CUST_001694,10,5,545.31,4,2,2,422,8,New Customers,USA,Energy,Professional
+CUST_001695,9,5,852.71,4,2,2,422,8,New Customers,USA,Healthcare,Professional
+CUST_001696,8,5,4170.7,5,2,4,524,11,Potential Loyalists,UK,Finance,Enterprise
+CUST_001697,6,5,238.15,5,2,1,521,8,New Customers,Brazil,Technology,Basic
+CUST_001698,7,4,4245.4400000000005,5,2,4,524,11,Potential Loyalists,Brazil,Finance,Premium
+CUST_001699,9,5,2838.25,4,2,4,424,10,Potential Loyalists,Japan,Retail,Enterprise
+CUST_001700,7,5,1339.75,5,2,3,523,10,Potential Loyalists,USA,Manufacturing,Professional
+CUST_001701,6,5,542.25,5,2,2,522,9,New Customers,USA,Real Estate,Basic
+CUST_001702,8,5,407.01,5,2,2,522,9,New Customers,Singapore,Real Estate,Basic
+CUST_001703,5,5,3056.0299999999997,5,2,4,524,11,Potential Loyalists,Canada,Technology,Enterprise
+CUST_001704,5,5,5861.72,5,2,5,525,12,Potential Loyalists,Japan,Finance,Premium
+CUST_001705,3,4,143.10999999999999,5,2,1,521,8,New Customers,USA,Media,Basic
+CUST_001706,6,4,176.22,5,2,1,521,8,New Customers,UK,Real Estate,Basic
+CUST_001707,6,4,395.97,5,2,2,522,9,New Customers,USA,Manufacturing,Basic
+CUST_001708,5,5,644.99,5,2,2,522,9,New Customers,Australia,Technology,Professional
+CUST_001709,36,4,717.11,1,2,2,122,5,Hibernating,UK,Retail,Professional
+CUST_001710,7,5,263.78999999999996,5,2,1,521,8,New Customers,USA,Real Estate,Basic
+CUST_001711,7,5,726.83,5,2,2,522,9,New Customers,Australia,Technology,Professional
+CUST_001712,4,5,341.96000000000004,5,2,2,522,9,New Customers,Australia,Healthcare,Basic
+CUST_001713,5,5,1002.93,5,2,3,523,10,Potential Loyalists,Japan,Retail,Professional
+CUST_001714,2,5,1496.0,5,2,3,523,10,Potential Loyalists,Germany,Manufacturing,Professional
+CUST_001715,4,5,1171.8,5,2,3,523,10,Potential Loyalists,Japan,Finance,Professional
+CUST_001716,32,4,10265.05,1,2,5,125,8,Hibernating,France,Technology,Premium
+CUST_001717,5,5,1051.26,5,2,3,523,10,Potential Loyalists,Australia,Energy,Professional
+CUST_001718,5,4,270.75,5,2,1,521,8,New Customers,Canada,Manufacturing,Basic
+CUST_001719,2,4,595.0799999999999,5,2,2,522,9,New Customers,USA,Manufacturing,Professional
+CUST_001720,2,5,4792.37,5,2,4,524,11,Potential Loyalists,Brazil,Technology,Enterprise
+CUST_001721,2,5,1661.6599999999999,5,2,3,523,10,Potential Loyalists,UK,Retail,Professional
+CUST_001722,3,5,12324.84,5,2,5,525,12,Potential Loyalists,USA,Retail,Premium
+CUST_001723,0,5,554.84,5,2,2,522,9,New Customers,Singapore,Education,Professional
+CUST_001724,30,3,710.6700000000001,2,2,2,222,6,Hibernating,Australia,Manufacturing,Professional
+CUST_001725,29,4,360.39,2,2,2,222,6,Hibernating,France,Media,Basic
+CUST_001726,60,3,912.11,1,2,3,123,6,Hibernating,Germany,Technology,Professional
+CUST_001727,29,3,276.24,2,2,1,221,5,Hibernating,Canada,Consulting,Basic
+CUST_001728,28,4,329.78,2,2,1,221,5,Hibernating,India,Real Estate,Basic
+CUST_001729,31,4,741.86,1,2,2,122,5,Hibernating,Germany,Finance,Professional
+CUST_001730,31,4,641.71,1,2,2,122,5,Hibernating,Canada,Healthcare,Professional
+CUST_001731,31,4,151.54,1,2,1,121,4,Hibernating,USA,Real Estate,Basic
+CUST_001732,28,4,723.78,2,2,2,222,6,Hibernating,France,Consulting,Professional
+CUST_001733,29,4,475.97,2,2,2,222,6,Hibernating,USA,Technology,Professional
+CUST_001734,27,4,1090.72,2,2,3,223,7,Hibernating,Germany,Finance,Professional
+CUST_001735,27,4,162.98000000000002,2,2,1,221,5,Hibernating,Japan,Healthcare,Basic
+CUST_001736,30,3,1704.41,2,2,3,223,7,Hibernating,USA,Retail,Enterprise
+CUST_001737,28,4,1103.43,2,2,3,223,7,Hibernating,France,Energy,Professional
+CUST_001738,29,4,4057.04,2,2,4,224,8,Hibernating,Japan,Education,Enterprise
+CUST_001739,28,3,802.26,2,2,2,222,6,Hibernating,India,Real Estate,Professional
+CUST_001740,27,4,1023.4300000000001,2,2,3,223,7,Hibernating,Germany,Technology,Professional
+CUST_001741,27,4,1049.73,2,2,3,223,7,Hibernating,USA,Education,Professional
+CUST_001742,28,4,4026.29,2,2,4,224,8,Hibernating,USA,Manufacturing,Enterprise
+CUST_001743,56,3,750.48,1,2,2,122,5,Hibernating,France,Real Estate,Professional
+CUST_001744,26,2,108.61,2,1,1,211,4,Hibernating,UK,Energy,Basic
+CUST_001745,27,3,430.14,2,2,2,222,6,Hibernating,USA,Real Estate,Professional
+CUST_001746,24,4,997.12,2,2,3,223,7,Hibernating,USA,Finance,Professional
+CUST_001747,23,4,3847.67,2,2,4,224,8,Hibernating,Brazil,Education,Enterprise
+CUST_001748,24,4,384.89,2,2,2,222,6,Hibernating,France,Manufacturing,Basic
+CUST_001749,23,4,4000.8199999999997,2,2,4,224,8,Hibernating,Japan,Consulting,Enterprise
+CUST_001750,24,4,562.95,2,2,2,222,6,Hibernating,USA,Energy,Professional
+CUST_001751,22,3,1283.81,3,2,3,323,8,Potential Loyalists,USA,Energy,Enterprise
+CUST_001752,24,4,370.15,2,2,2,222,6,Hibernating,Singapore,Manufacturing,Basic
+CUST_001753,23,4,745.09,2,2,2,222,6,Hibernating,Brazil,Energy,Professional
+CUST_001754,23,3,804.3100000000001,2,2,2,222,6,Hibernating,Singapore,Technology,Professional
+CUST_001755,25,4,240.35,2,2,1,221,5,Hibernating,Japan,Energy,Basic
+CUST_001756,22,4,391.15,3,2,2,322,7,About to Sleep,UK,Finance,Basic
+CUST_001757,22,4,3861.2799999999997,3,2,4,324,9,Potential Loyalists,Singapore,Consulting,Enterprise
+CUST_001758,53,3,4662.04,1,2,4,124,7,Hibernating,Japan,Consulting,Premium
+CUST_001759,21,4,321.3,3,2,1,321,6,About to Sleep,USA,Healthcare,Basic
+CUST_001760,23,4,372.15999999999997,2,2,2,222,6,Hibernating,USA,Energy,Basic
+CUST_001761,24,4,876.49,2,2,2,222,6,Hibernating,USA,Retail,Professional
+CUST_001762,23,4,357.42,2,2,2,222,6,Hibernating,USA,Real Estate,Basic
+CUST_001763,21,4,311.09000000000003,3,2,1,321,6,About to Sleep,USA,Finance,Basic
+CUST_001764,19,4,2503.8500000000004,3,2,4,324,9,Potential Loyalists,Singapore,Education,Enterprise
+CUST_001765,19,4,522.29,3,2,2,322,7,About to Sleep,India,Education,Professional
+CUST_001766,21,4,3262.85,3,2,4,324,9,Potential Loyalists,USA,Energy,Enterprise
+CUST_001767,21,4,376.38,3,2,2,322,7,About to Sleep,UK,Technology,Basic
+CUST_001768,17,4,176.93,3,2,1,321,6,About to Sleep,USA,Finance,Basic
+CUST_001769,20,4,183.87,3,2,1,321,6,About to Sleep,USA,Technology,Basic
+CUST_001770,20,4,184.67000000000002,3,2,1,321,6,About to Sleep,Canada,Real Estate,Basic
+CUST_001771,18,4,3005.38,3,2,4,324,9,Potential Loyalists,USA,Technology,Enterprise
+CUST_001772,20,3,245.38,3,2,1,321,6,About to Sleep,USA,Media,Basic
+CUST_001773,19,4,384.24,3,2,2,322,7,About to Sleep,Japan,Energy,Basic
+CUST_001774,17,4,651.11,3,2,2,322,7,About to Sleep,USA,Consulting,Professional
+CUST_001775,15,4,617.7,4,2,2,422,8,New Customers,UK,Education,Professional
+CUST_001776,17,4,139.81,3,2,1,321,6,About to Sleep,Australia,Healthcare,Basic
+CUST_001777,47,3,798.87,1,2,2,122,5,Hibernating,France,Retail,Professional
+CUST_001778,18,4,826.54,3,2,2,322,7,About to Sleep,USA,Healthcare,Professional
+CUST_001779,18,3,596.16,3,2,2,322,7,About to Sleep,USA,Technology,Professional
+CUST_001780,18,4,1136.07,3,2,3,323,8,Potential Loyalists,USA,Media,Professional
+CUST_001781,16,3,2867.83,3,2,4,324,9,Potential Loyalists,UK,Technology,Enterprise
+CUST_001782,13,4,883.1,4,2,3,423,9,Potential Loyalists,USA,Manufacturing,Professional
+CUST_001783,17,4,1293.33,3,2,3,323,8,Potential Loyalists,Germany,Healthcare,Professional
+CUST_001784,14,4,1238.1399999999999,4,2,3,423,9,Potential Loyalists,France,Healthcare,Professional
+CUST_001785,15,4,1587.27,4,2,3,423,9,Potential Loyalists,Australia,Energy,Enterprise
+CUST_001786,13,4,879.61,4,2,3,423,9,Potential Loyalists,UK,Retail,Professional
+CUST_001787,15,4,5952.66,4,2,5,425,11,Potential Loyalists,Japan,Retail,Premium
+CUST_001788,14,4,297.93,4,2,1,421,7,New Customers,Brazil,Retail,Basic
+CUST_001789,16,4,905.67,3,2,3,323,8,Potential Loyalists,USA,Finance,Professional
+CUST_001790,12,4,789.97,4,2,2,422,8,New Customers,Canada,Energy,Professional
+CUST_001791,12,4,3604.08,4,2,4,424,10,Potential Loyalists,Germany,Healthcare,Enterprise
+CUST_001792,12,4,2365.92,4,2,4,424,10,Potential Loyalists,UK,Consulting,Enterprise
+CUST_001793,15,3,256.15999999999997,4,2,1,421,7,New Customers,UK,Real Estate,Basic
+CUST_001794,13,4,3916.61,4,2,4,424,10,Potential Loyalists,Germany,Media,Enterprise
+CUST_001795,13,2,179.55,4,1,1,411,6,New Customers,USA,Finance,Basic
+CUST_001796,13,4,245.21,4,2,1,421,7,New Customers,India,Energy,Basic
+CUST_001797,71,2,462.51,1,1,2,112,4,Hibernating,Germany,Education,Professional
+CUST_001798,15,3,947.02,4,2,3,423,9,Potential Loyalists,Germany,Energy,Professional
+CUST_001799,11,4,1226.74,4,2,3,423,9,Potential Loyalists,USA,Real Estate,Professional
+CUST_001800,11,4,891.05,4,2,3,423,9,Potential Loyalists,UK,Education,Professional
+CUST_001801,14,4,1155.17,4,2,3,423,9,Potential Loyalists,USA,Education,Professional
+CUST_001802,14,4,353.81,4,2,2,422,8,New Customers,USA,Media,Basic
+CUST_001803,13,4,371.33,4,2,2,422,8,New Customers,USA,Media,Basic
+CUST_001804,12,4,318.22,4,2,1,421,7,New Customers,Japan,Education,Basic
+CUST_001805,13,4,9001.22,4,2,5,425,11,Potential Loyalists,Brazil,Consulting,Premium
+CUST_001806,11,4,356.24,4,2,2,422,8,New Customers,France,Media,Basic
+CUST_001807,10,4,2416.36,4,2,4,424,10,Potential Loyalists,UK,Manufacturing,Enterprise
+CUST_001808,10,4,269.34000000000003,4,2,1,421,7,New Customers,UK,Real Estate,Basic
+CUST_001809,11,4,1280.47,4,2,3,423,9,Potential Loyalists,Germany,Media,Enterprise
+CUST_001810,10,3,324.28,4,2,1,421,7,New Customers,Australia,Technology,Basic
+CUST_001811,13,4,129.68,4,2,1,421,7,New Customers,Canada,Consulting,Basic
+CUST_001812,10,4,4639.05,4,2,4,424,10,Potential Loyalists,USA,Finance,Enterprise
+CUST_001813,11,4,125.72,4,2,1,421,7,New Customers,USA,Manufacturing,Basic
+CUST_001814,12,4,1935.24,4,2,4,424,10,Potential Loyalists,USA,Retail,Enterprise
+CUST_001815,9,3,326.17,4,2,1,421,7,New Customers,Australia,Education,Professional
+CUST_001816,8,4,403.79,5,2,2,522,9,New Customers,Australia,Manufacturing,Basic
+CUST_001817,11,4,326.84000000000003,4,2,1,421,7,New Customers,Germany,Energy,Basic
+CUST_001818,10,4,555.46,4,2,2,422,8,New Customers,USA,Consulting,Professional
+CUST_001819,9,4,290.54,4,2,1,421,7,New Customers,Brazil,Technology,Basic
+CUST_001820,9,3,127.91999999999999,4,2,1,421,7,New Customers,USA,Finance,Basic
+CUST_001821,8,4,4464.93,5,2,4,524,11,Potential Loyalists,USA,Education,Enterprise
+CUST_001822,7,4,625.8,5,2,2,522,9,New Customers,Germany,Retail,Professional
+CUST_001823,40,3,111.96000000000001,1,2,1,121,4,Hibernating,Australia,Manufacturing,Basic
+CUST_001824,10,4,924.35,4,2,3,423,9,Potential Loyalists,Germany,Media,Professional
+CUST_001825,8,3,8650.529999999999,5,2,5,525,12,Potential Loyalists,France,Retail,Premium
+CUST_001826,5,4,375.5,5,2,2,522,9,New Customers,Australia,Education,Basic
+CUST_001827,7,4,272.12,5,2,1,521,8,New Customers,Japan,Finance,Basic
+CUST_001828,6,4,400.64,5,2,2,522,9,New Customers,USA,Consulting,Basic
+CUST_001829,8,4,941.74,5,2,3,523,10,Potential Loyalists,UK,Healthcare,Professional
+CUST_001830,6,4,1401.82,5,2,3,523,10,Potential Loyalists,France,Manufacturing,Enterprise
+CUST_001831,5,3,582.4100000000001,5,2,2,522,9,New Customers,Germany,Consulting,Professional
+CUST_001832,6,4,403.53999999999996,5,2,2,522,9,New Customers,USA,Technology,Basic
+CUST_001833,7,2,358.83,5,1,2,512,8,New Customers,Germany,Education,Professional
+CUST_001834,4,4,265.15999999999997,5,2,1,521,8,New Customers,Japan,Media,Basic
+CUST_001835,5,3,850.32,5,2,2,522,9,New Customers,USA,Healthcare,Professional
+CUST_001836,4,4,349.31,5,2,2,522,9,New Customers,USA,Retail,Basic
+CUST_001837,3,4,407.40999999999997,5,2,2,522,9,New Customers,Canada,Consulting,Basic
+CUST_001838,7,4,140.01,5,2,1,521,8,New Customers,France,Media,Basic
+CUST_001839,5,3,105.93,5,2,1,521,8,New Customers,USA,Energy,Basic
+CUST_001840,37,3,218.04000000000002,1,2,1,121,4,Hibernating,Australia,Energy,Basic
+CUST_001841,6,4,283.53999999999996,5,2,1,521,8,New Customers,Australia,Education,Basic
+CUST_001842,3,4,169.21,5,2,1,521,8,New Customers,Australia,Retail,Basic
+CUST_001843,6,4,1388.78,5,2,3,523,10,Potential Loyalists,Canada,Media,Professional
+CUST_001844,2,4,307.07,5,2,1,521,8,New Customers,Brazil,Consulting,Basic
+CUST_001845,6,4,191.51999999999998,5,2,1,521,8,New Customers,USA,Healthcare,Basic
+CUST_001846,5,4,1140.55,5,2,3,523,10,Potential Loyalists,Japan,Manufacturing,Professional
+CUST_001847,94,1,38.38,1,1,1,111,3,Hibernating,Australia,Finance,Basic
+CUST_001848,5,4,269.40999999999997,5,2,1,521,8,New Customers,UK,Healthcare,Basic
+CUST_001849,6,4,889.62,5,2,3,523,10,Potential Loyalists,India,Technology,Professional
+CUST_001850,3,4,150.88,5,2,1,521,8,New Customers,India,Manufacturing,Basic
+CUST_001851,5,4,885.83,5,2,3,523,10,Potential Loyalists,France,Energy,Professional
+CUST_001852,4,3,2630.75,5,2,4,524,11,Potential Loyalists,UK,Finance,Enterprise
+CUST_001853,1,3,2264.81,5,2,4,524,11,Potential Loyalists,India,Real Estate,Enterprise
+CUST_001854,3,3,187.33,5,2,1,521,8,New Customers,Canada,Real Estate,Basic
+CUST_001855,3,4,5982.88,5,2,5,525,12,Potential Loyalists,USA,Consulting,Premium
+CUST_001856,1,4,1499.0,5,2,3,523,10,Potential Loyalists,USA,Consulting,Professional
+CUST_001857,1,4,662.31,5,2,2,522,9,New Customers,Canada,Energy,Professional
+CUST_001858,3,4,212.11,5,2,1,521,8,New Customers,Singapore,Healthcare,Basic
+CUST_001859,29,3,169.95,2,2,1,221,5,Hibernating,UK,Media,Basic
+CUST_001860,31,2,75.36,1,1,1,111,3,Hibernating,UK,Consulting,Basic
+CUST_001861,31,3,1966.3600000000001,1,2,4,124,7,Hibernating,UK,Media,Enterprise
+CUST_001862,29,3,140.09,2,2,1,221,5,Hibernating,India,Education,Basic
+CUST_001863,33,3,2347.33,1,2,4,124,7,Hibernating,UK,Education,Enterprise
+CUST_001864,33,3,272.0,1,2,1,121,4,Hibernating,USA,Technology,Basic
+CUST_001865,30,2,683.98,2,1,2,212,5,Hibernating,USA,Finance,Professional
+CUST_001866,33,3,8680.43,1,2,5,125,8,Hibernating,USA,Consulting,Premium
+CUST_001867,30,2,480.9,2,1,2,212,5,Hibernating,UK,Real Estate,Professional
+CUST_001868,28,3,383.65,2,2,2,222,6,Hibernating,USA,Real Estate,Professional
+CUST_001869,28,3,1441.27,2,2,3,223,7,Hibernating,France,Retail,Enterprise
+CUST_001870,32,3,430.96000000000004,1,2,2,122,5,Hibernating,Australia,Education,Professional
+CUST_001871,32,3,1234.7,1,2,3,123,6,Hibernating,Brazil,Healthcare,Enterprise
+CUST_001872,28,3,152.0,2,2,1,221,5,Hibernating,Australia,Technology,Basic
+CUST_001873,29,3,312.92,2,2,1,221,5,Hibernating,USA,Consulting,Basic
+CUST_001874,28,3,336.68,2,2,1,221,5,Hibernating,France,Manufacturing,Professional
+CUST_001875,27,3,1670.3400000000001,2,2,3,223,7,Hibernating,UK,Healthcare,Enterprise
+CUST_001876,27,3,1032.01,2,2,3,223,7,Hibernating,Brazil,Real Estate,Enterprise
+CUST_001877,27,3,811.2,2,2,2,222,6,Hibernating,UK,Retail,Professional
+CUST_001878,60,2,93.53,1,1,1,111,3,Hibernating,USA,Retail,Basic
+CUST_001879,27,3,294.95,2,2,1,221,5,Hibernating,USA,Energy,Basic
+CUST_001880,29,3,2104.11,2,2,4,224,8,Hibernating,UK,Energy,Enterprise
+CUST_001881,29,3,791.6500000000001,2,2,2,222,6,Hibernating,USA,Finance,Professional
+CUST_001882,56,2,119.02,1,1,1,111,3,Hibernating,Germany,Technology,Basic
+CUST_001883,30,2,69.21000000000001,2,1,1,211,4,Hibernating,Germany,Energy,Basic
+CUST_001884,28,3,363.96,2,2,2,222,6,Hibernating,France,Finance,Professional
+CUST_001885,30,3,280.77,2,2,1,221,5,Hibernating,USA,Retail,Basic
+CUST_001886,28,3,1610.1100000000001,2,2,3,223,7,Hibernating,Germany,Consulting,Enterprise
+CUST_001887,28,3,803.52,2,2,2,222,6,Hibernating,UK,Real Estate,Professional
+CUST_001888,27,3,3705.03,2,2,4,224,8,Hibernating,France,Technology,Premium
+CUST_001889,27,3,770.0799999999999,2,2,2,222,6,Hibernating,Japan,Manufacturing,Professional
+CUST_001890,25,3,2989.59,2,2,4,224,8,Hibernating,France,Education,Enterprise
+CUST_001891,24,3,162.8,2,2,1,221,5,Hibernating,UK,Technology,Basic
+CUST_001892,27,3,1527.02,2,2,3,223,7,Hibernating,USA,Media,Enterprise
+CUST_001893,24,3,214.14,2,2,1,221,5,Hibernating,Australia,Media,Basic
+CUST_001894,28,3,915.63,2,2,3,223,7,Hibernating,France,Healthcare,Professional
+CUST_001895,23,3,8967.81,2,2,5,225,9,Hibernating,USA,Real Estate,Premium
+CUST_001896,54,2,76.0,1,1,1,111,3,Hibernating,USA,Energy,Basic
+CUST_001897,24,3,655.32,2,2,2,222,6,Hibernating,France,Retail,Professional
+CUST_001898,26,3,704.78,2,2,2,222,6,Hibernating,USA,Real Estate,Professional
+CUST_001899,27,3,104.08000000000001,2,2,1,221,5,Hibernating,Germany,Technology,Basic
+CUST_001900,27,3,587.37,2,2,2,222,6,Hibernating,USA,Energy,Professional
+CUST_001901,24,3,6391.05,2,2,5,225,9,Hibernating,USA,Real Estate,Premium
+CUST_001902,25,2,2625.38,2,1,4,214,7,Hibernating,Australia,Finance,Premium
+CUST_001903,24,3,5632.0,2,2,5,225,9,Hibernating,USA,Education,Premium
+CUST_001904,23,3,149.32999999999998,2,2,1,221,5,Hibernating,UK,Manufacturing,Basic
+CUST_001905,25,3,160.36,2,2,1,221,5,Hibernating,USA,Energy,Basic
+CUST_001906,23,3,734.32,2,2,2,222,6,Hibernating,Canada,Technology,Professional
+CUST_001907,23,3,927.94,2,2,3,223,7,Hibernating,USA,Media,Professional
+CUST_001908,22,3,959.0799999999999,3,2,3,323,8,Potential Loyalists,USA,Technology,Professional
+CUST_001909,21,3,1526.9099999999999,3,2,3,323,8,Potential Loyalists,UK,Manufacturing,Enterprise
+CUST_001910,23,3,907.44,2,2,3,223,7,Hibernating,Japan,Education,Professional
+CUST_001911,55,2,79.93,1,1,1,111,3,Hibernating,UK,Finance,Basic
+CUST_001912,23,3,216.69,2,2,1,221,5,Hibernating,Australia,Media,Basic
+CUST_001913,23,3,296.14,2,2,1,221,5,Hibernating,USA,Consulting,Basic
+CUST_001914,23,3,597.83,2,2,2,222,6,Hibernating,Germany,Retail,Professional
+CUST_001915,21,3,131.31,3,2,1,321,6,About to Sleep,Japan,Consulting,Basic
+CUST_001916,23,3,3077.87,2,2,4,224,8,Hibernating,UK,Manufacturing,Enterprise
+CUST_001917,21,3,219.4,3,2,1,321,6,About to Sleep,Japan,Education,Basic
+CUST_001918,23,3,143.75,2,2,1,221,5,Hibernating,Germany,Finance,Basic
+CUST_001919,22,3,229.08,3,2,1,321,6,About to Sleep,India,Finance,Basic
+CUST_001920,23,3,894.0999999999999,2,2,3,223,7,Hibernating,India,Retail,Professional
+CUST_001921,22,3,256.33,3,2,1,321,6,About to Sleep,Germany,Manufacturing,Basic
+CUST_001922,19,3,930.52,3,2,3,323,8,Potential Loyalists,Germany,Energy,Professional
+CUST_001923,21,3,986.07,3,2,3,323,8,Potential Loyalists,USA,Media,Professional
+CUST_001924,23,2,502.64,2,1,2,212,5,Hibernating,Singapore,Finance,Professional
+CUST_001925,21,3,305.12,3,2,1,321,6,About to Sleep,Canada,Consulting,Basic
+CUST_001926,21,3,111.62,3,2,1,321,6,About to Sleep,UK,Education,Basic
+CUST_001927,20,3,9503.619999999999,3,2,5,325,10,Potential Loyalists,France,Energy,Premium
+CUST_001928,20,3,159.28,3,2,1,321,6,About to Sleep,France,Healthcare,Basic
+CUST_001929,17,2,571.3199999999999,3,1,2,312,6,About to Sleep,UK,Finance,Professional
+CUST_001930,21,2,2128.98,3,1,4,314,8,Potential Loyalists,UK,Education,Enterprise
+CUST_001931,21,3,964.98,3,2,3,323,8,Potential Loyalists,Australia,Media,Professional
+CUST_001932,19,3,197.9,3,2,1,321,6,About to Sleep,UK,Manufacturing,Basic
+CUST_001933,16,3,130.13,3,2,1,321,6,About to Sleep,USA,Manufacturing,Basic
+CUST_001934,18,2,255.76,3,1,1,311,5,About to Sleep,UK,Retail,Professional
+CUST_001935,19,3,101.19,3,2,1,321,6,About to Sleep,France,Finance,Basic
+CUST_001936,20,3,238.55,3,2,1,321,6,About to Sleep,UK,Consulting,Basic
+CUST_001937,17,3,2317.51,3,2,4,324,9,Potential Loyalists,USA,Consulting,Enterprise
+CUST_001938,18,3,823.8599999999999,3,2,2,322,7,About to Sleep,USA,Retail,Professional
+CUST_001939,20,3,2932.13,3,2,4,324,9,Potential Loyalists,USA,Retail,Enterprise
+CUST_001940,17,3,114.74,3,2,1,321,6,About to Sleep,Germany,Education,Basic
+CUST_001941,16,3,477.65999999999997,3,2,2,322,7,About to Sleep,Germany,Real Estate,Professional
+CUST_001942,19,2,133.58,3,1,1,311,5,About to Sleep,India,Consulting,Basic
+CUST_001943,15,3,4470.139999999999,4,2,4,424,10,Potential Loyalists,Brazil,Education,Premium
+CUST_001944,16,3,646.74,3,2,2,322,7,About to Sleep,Brazil,Media,Professional
+CUST_001945,18,3,437.29999999999995,3,2,2,322,7,About to Sleep,France,Finance,Professional
+CUST_001946,18,3,349.58,3,2,2,322,7,About to Sleep,Australia,Retail,Professional
+CUST_001947,17,3,936.1700000000001,3,2,3,323,8,Potential Loyalists,Canada,Technology,Professional
+CUST_001948,43,2,987.15,1,1,3,113,5,Hibernating,Canada,Media,Enterprise
+CUST_001949,15,3,2726.15,4,2,4,424,10,Potential Loyalists,USA,Retail,Enterprise
+CUST_001950,15,3,1573.1100000000001,4,2,3,423,9,Potential Loyalists,Germany,Healthcare,Enterprise
+CUST_001951,12,3,297.74,4,2,1,421,7,New Customers,UK,Real Estate,Basic
+CUST_001952,12,3,288.34000000000003,4,2,1,421,7,New Customers,Brazil,Real Estate,Basic
+CUST_001953,13,3,909.12,4,2,3,423,9,Potential Loyalists,Japan,Real Estate,Professional
+CUST_001954,12,3,189.5,4,2,1,421,7,New Customers,Germany,Media,Basic
+CUST_001955,44,2,152.58999999999997,1,1,1,111,3,Hibernating,France,Technology,Basic
+CUST_001956,16,3,264.28,3,2,1,321,6,About to Sleep,USA,Media,Basic
+CUST_001957,12,3,8171.74,4,2,5,425,11,Potential Loyalists,USA,Media,Premium
+CUST_001958,11,3,233.84,4,2,1,421,7,New Customers,India,Consulting,Basic
+CUST_001959,12,3,242.34,4,2,1,421,7,New Customers,Canada,Energy,Basic
+CUST_001960,11,3,2176.43,4,2,4,424,10,Potential Loyalists,Canada,Technology,Enterprise
+CUST_001961,14,3,623.08,4,2,2,422,8,New Customers,India,Real Estate,Professional
+CUST_001962,11,3,296.07,4,2,1,421,7,New Customers,Australia,Technology,Basic
+CUST_001963,40,2,140.45,1,1,1,111,3,Hibernating,Singapore,Retail,Basic
+CUST_001964,14,3,983.2,4,2,3,423,9,Potential Loyalists,France,Media,Professional
+CUST_001965,12,3,223.24,4,2,1,421,7,New Customers,Canada,Technology,Basic
+CUST_001966,10,3,272.41,4,2,1,421,7,New Customers,India,Energy,Basic
+CUST_001967,9,3,139.69,4,2,1,421,7,New Customers,France,Technology,Basic
+CUST_001968,10,2,460.02,4,1,2,412,7,New Customers,UK,Real Estate,Professional
+CUST_001969,11,3,271.97,4,2,1,421,7,New Customers,UK,Manufacturing,Basic
+CUST_001970,11,3,631.13,4,2,2,422,8,New Customers,USA,Manufacturing,Professional
+CUST_001971,12,2,1150.8200000000002,4,1,3,413,8,Potential Loyalists,Australia,Media,Enterprise
+CUST_001972,11,3,256.48,4,2,1,421,7,New Customers,USA,Technology,Basic
+CUST_001973,8,3,230.93,5,2,1,521,8,New Customers,USA,Finance,Basic
+CUST_001974,10,3,385.2,4,2,2,422,8,New Customers,France,Real Estate,Professional
+CUST_001975,8,2,80.06,5,1,1,511,7,New Customers,USA,Energy,Basic
+CUST_001976,42,2,2081.69,1,1,4,114,6,Hibernating,USA,Consulting,Enterprise
+CUST_001977,9,3,128.06,4,2,1,421,7,New Customers,Singapore,Energy,Basic
+CUST_001978,9,3,1735.81,4,2,3,423,9,Potential Loyalists,USA,Media,Enterprise
+CUST_001979,11,3,444.26,4,2,2,422,8,New Customers,Brazil,Technology,Professional
+CUST_001980,11,3,306.23,4,2,1,421,7,New Customers,USA,Consulting,Basic
+CUST_001981,10,3,341.61,4,2,2,422,8,New Customers,France,Retail,Basic
+CUST_001982,9,3,519.7,4,2,2,422,8,New Customers,USA,Healthcare,Professional
+CUST_001983,6,2,1862.35,5,1,3,513,9,Potential Loyalists,USA,Finance,Enterprise
+CUST_001984,10,2,81.03999999999999,4,1,1,411,6,New Customers,UK,Healthcare,Basic
+CUST_001985,8,3,241.18,5,2,1,521,8,New Customers,France,Real Estate,Basic
+CUST_001986,36,2,437.26,1,1,2,112,4,Hibernating,Singapore,Healthcare,Professional
+CUST_001987,10,3,798.3,4,2,2,422,8,New Customers,USA,Media,Professional
+CUST_001988,8,3,2417.32,5,2,4,524,11,Potential Loyalists,USA,Energy,Enterprise
+CUST_001989,7,3,575.04,5,2,2,522,9,New Customers,UK,Finance,Professional
+CUST_001990,10,3,356.72,4,2,2,422,8,New Customers,USA,Media,Professional
+CUST_001991,6,3,3142.7,5,2,4,524,11,Potential Loyalists,Japan,Finance,Enterprise
+CUST_001992,10,3,299.37,4,2,1,421,7,New Customers,USA,Consulting,Basic
+CUST_001993,36,1,1547.3,1,1,3,113,5,Hibernating,Australia,Finance,Premium
+CUST_001994,6,3,447.48,5,2,2,522,9,New Customers,USA,Finance,Professional
+CUST_001995,8,3,1945.1599999999999,5,2,4,524,11,Potential Loyalists,UK,Technology,Enterprise
+CUST_001996,5,3,262.51,5,2,1,521,8,New Customers,USA,Manufacturing,Basic
+CUST_001997,5,2,126.75999999999999,5,1,1,511,7,New Customers,Australia,Real Estate,Basic
+CUST_001998,6,3,403.5,5,2,2,522,9,New Customers,Germany,Finance,Professional
+CUST_001999,7,3,313.59000000000003,5,2,1,521,8,New Customers,UK,Finance,Basic
+CUST_002000,5,3,279.36,5,2,1,521,8,New Customers,Germany,Technology,Basic
+CUST_002001,4,3,1017.69,5,2,3,523,10,Potential Loyalists,France,Manufacturing,Enterprise
+CUST_002002,4,3,337.63,5,2,1,521,8,New Customers,Australia,Real Estate,Basic
+CUST_002003,35,2,184.41,1,1,1,111,3,Hibernating,USA,Energy,Basic
+CUST_002004,5,3,909.06,5,2,3,523,10,Potential Loyalists,UK,Consulting,Professional
+CUST_002005,2,3,145.85,5,2,1,521,8,New Customers,Canada,Retail,Basic
+CUST_002006,6,3,201.69,5,2,1,521,8,New Customers,USA,Real Estate,Basic
+CUST_002007,4,3,113.75999999999999,5,2,1,521,8,New Customers,Canada,Real Estate,Basic
+CUST_002008,6,3,96.15,5,2,1,521,8,New Customers,France,Consulting,Basic
+CUST_002009,36,2,1070.76,1,1,3,113,5,Hibernating,Brazil,Energy,Enterprise
+CUST_002010,33,2,210.62,1,1,1,111,3,Hibernating,USA,Energy,Basic
+CUST_002011,3,2,69.36,5,1,1,511,7,New Customers,UK,Retail,Basic
+CUST_002012,2,3,1111.17,5,2,3,523,10,Potential Loyalists,Canada,Finance,Enterprise
+CUST_002013,3,3,1076.34,5,2,3,523,10,Potential Loyalists,Canada,Education,Enterprise
+CUST_002014,5,3,250.23000000000002,5,2,1,521,8,New Customers,UK,Technology,Basic
+CUST_002015,3,3,165.04,5,2,1,521,8,New Customers,Canada,Consulting,Basic
+CUST_002016,3,3,107.72,5,2,1,521,8,New Customers,Canada,Healthcare,Basic
+CUST_002017,2,2,7713.39,5,1,5,515,11,Potential Loyalists,USA,Media,Premium
+CUST_002018,4,3,7660.389999999999,5,2,5,525,12,Potential Loyalists,USA,Finance,Premium
+CUST_002019,3,3,2626.74,5,2,4,524,11,Potential Loyalists,Singapore,Consulting,Enterprise
+CUST_002020,2,3,733.7,5,2,2,522,9,New Customers,France,Consulting,Professional
+CUST_002021,3,3,143.51999999999998,5,2,1,521,8,New Customers,Japan,Energy,Basic
+CUST_002022,1,3,863.3199999999999,5,2,2,522,9,New Customers,Germany,Real Estate,Professional
+CUST_002023,3,3,969.77,5,2,3,523,10,Potential Loyalists,UK,Education,Professional
+CUST_002024,3,3,870.96,5,2,2,522,9,New Customers,UK,Healthcare,Professional
+CUST_002025,33,2,126.17,1,1,1,111,3,Hibernating,Japan,Education,Basic
+CUST_002026,32,2,612.64,1,1,2,112,4,Hibernating,India,Media,Professional
+CUST_002027,30,2,620.54,2,1,2,212,5,Hibernating,Japan,Media,Professional
+CUST_002028,31,2,115.03,1,1,1,111,3,Hibernating,Australia,Healthcare,Basic
+CUST_002029,29,1,44.02,2,1,1,211,4,Hibernating,Australia,Finance,Basic
+CUST_002030,29,2,3882.33,2,1,4,214,7,Hibernating,Brazil,Manufacturing,Premium
+CUST_002031,31,2,150.35000000000002,1,1,1,111,3,Hibernating,USA,Media,Basic
+CUST_002032,29,2,162.58999999999997,2,1,1,211,4,Hibernating,Australia,Retail,Basic
+CUST_002033,31,2,158.39,1,1,1,111,3,Hibernating,Japan,Healthcare,Basic
+CUST_002034,32,2,6882.6900000000005,1,1,5,115,7,Hibernating,USA,Energy,Premium
+CUST_002035,30,2,1857.74,2,1,3,213,6,Hibernating,Canada,Real Estate,Enterprise
+CUST_002036,30,2,693.01,2,1,2,212,5,Hibernating,UK,Consulting,Professional
+CUST_002037,28,2,425.15999999999997,2,1,2,212,5,Hibernating,France,Manufacturing,Professional
+CUST_002038,32,2,348.39,1,1,2,112,4,Hibernating,Canada,Education,Professional
+CUST_002039,29,2,225.16,2,1,1,211,4,Hibernating,UK,Consulting,Basic
+CUST_002040,28,2,217.26999999999998,2,1,1,211,4,Hibernating,Australia,Education,Basic
+CUST_002041,27,2,158.93,2,1,1,211,4,Hibernating,Canada,Consulting,Basic
+CUST_002042,31,2,572.9200000000001,1,1,2,112,4,Hibernating,France,Energy,Professional
+CUST_002043,30,2,143.91,2,1,1,211,4,Hibernating,USA,Real Estate,Basic
+CUST_002044,31,2,629.4,1,1,2,112,4,Hibernating,USA,Finance,Professional
+CUST_002045,31,2,181.68,1,1,1,111,3,Hibernating,Japan,Retail,Basic
+CUST_002046,28,2,71.62,2,1,1,211,4,Hibernating,Canada,Retail,Basic
+CUST_002047,28,2,1446.71,2,1,3,213,6,Hibernating,Germany,Technology,Enterprise
+CUST_002048,27,1,289.1,2,1,1,211,4,Hibernating,UK,Healthcare,Professional
+CUST_002049,30,1,99.11,2,1,1,211,4,Hibernating,USA,Retail,Basic
+CUST_002050,27,2,132.47,2,1,1,211,4,Hibernating,USA,Media,Basic
+CUST_002051,28,2,388.97,2,1,2,212,5,Hibernating,France,Education,Professional
+CUST_002052,29,2,68.43,2,1,1,211,4,Hibernating,Germany,Retail,Basic
+CUST_002053,27,2,548.4200000000001,2,1,2,212,5,Hibernating,USA,Retail,Professional
+CUST_002054,29,2,193.03,2,1,1,211,4,Hibernating,India,Manufacturing,Basic
+CUST_002055,27,2,370.32000000000005,2,1,2,212,5,Hibernating,Brazil,Manufacturing,Professional
+CUST_002056,26,2,374.21000000000004,2,1,2,212,5,Hibernating,Germany,Energy,Professional
+CUST_002057,27,2,84.9,2,1,1,211,4,Hibernating,USA,Technology,Basic
+CUST_002058,28,2,143.13,2,1,1,211,4,Hibernating,France,Education,Basic
+CUST_002059,26,2,562.8,2,1,2,212,5,Hibernating,Brazil,Consulting,Professional
+CUST_002060,28,2,621.11,2,1,2,212,5,Hibernating,USA,Technology,Professional
+CUST_002061,26,2,376.13,2,1,2,212,5,Hibernating,USA,Retail,Professional
+CUST_002062,28,2,2197.94,2,1,4,214,7,Hibernating,Canada,Education,Enterprise
+CUST_002063,27,2,650.2,2,1,2,212,5,Hibernating,Australia,Real Estate,Professional
+CUST_002064,29,2,5247.0599999999995,2,1,5,215,8,Hibernating,Canada,Technology,Premium
+CUST_002065,27,2,91.79,2,1,1,211,4,Hibernating,USA,Real Estate,Basic
+CUST_002066,26,2,206.44,2,1,1,211,4,Hibernating,USA,Real Estate,Basic
+CUST_002067,55,1,324.19,1,1,1,111,3,Hibernating,France,Energy,Professional
+CUST_002068,27,2,192.39,2,1,1,211,4,Hibernating,France,Real Estate,Basic
+CUST_002069,28,2,216.94,2,1,1,211,4,Hibernating,Canada,Media,Basic
+CUST_002070,27,2,603.5999999999999,2,1,2,212,5,Hibernating,France,Technology,Professional
+CUST_002071,25,2,160.07,2,1,1,211,4,Hibernating,UK,Manufacturing,Basic
+CUST_002072,24,2,1586.9,2,1,3,213,6,Hibernating,USA,Education,Enterprise
+CUST_002073,23,2,328.31,2,1,1,211,4,Hibernating,Brazil,Technology,Professional
+CUST_002074,26,2,606.86,2,1,2,212,5,Hibernating,USA,Education,Professional
+CUST_002075,27,1,402.86,2,1,2,212,5,Hibernating,Canada,Education,Enterprise
+CUST_002076,23,2,126.05,2,1,1,211,4,Hibernating,USA,Finance,Basic
+CUST_002077,26,2,120.84,2,1,1,211,4,Hibernating,Canada,Technology,Basic
+CUST_002078,24,2,165.05,2,1,1,211,4,Hibernating,USA,Media,Basic
+CUST_002079,26,2,1590.63,2,1,3,213,6,Hibernating,Germany,Finance,Enterprise
+CUST_002080,22,2,313.0,3,1,1,311,5,About to Sleep,India,Media,Professional
+CUST_002081,23,1,103.07,2,1,1,211,4,Hibernating,Germany,Healthcare,Basic
+CUST_002082,52,1,90.82,1,1,1,111,3,Hibernating,Germany,Manufacturing,Basic
+CUST_002083,26,2,178.8,2,1,1,211,4,Hibernating,France,Education,Basic
+CUST_002084,22,2,133.57999999999998,3,1,1,311,5,About to Sleep,USA,Manufacturing,Basic
+CUST_002085,23,2,208.26999999999998,2,1,1,211,4,Hibernating,UK,Real Estate,Basic
+CUST_002086,26,2,4314.68,2,1,4,214,7,Hibernating,USA,Education,Premium
+CUST_002087,24,2,325.09000000000003,2,1,1,211,4,Hibernating,UK,Manufacturing,Professional
+CUST_002088,54,1,1531.24,1,1,3,113,5,Hibernating,Japan,Manufacturing,Premium
+CUST_002089,24,2,1942.54,2,1,4,214,7,Hibernating,France,Education,Enterprise
+CUST_002090,23,2,213.29,2,1,1,211,4,Hibernating,UK,Retail,Basic
+CUST_002091,21,2,460.91999999999996,3,1,2,312,6,About to Sleep,UK,Real Estate,Professional
+CUST_002092,25,2,212.88,2,1,1,211,4,Hibernating,Canada,Real Estate,Basic
+CUST_002093,22,2,365.78,3,1,2,312,6,About to Sleep,USA,Finance,Professional
+CUST_002094,22,2,560.49,3,1,2,312,6,About to Sleep,USA,Real Estate,Professional
+CUST_002095,25,2,373.86,2,1,2,212,5,Hibernating,Canada,Energy,Professional
+CUST_002096,25,2,915.0799999999999,2,1,3,213,6,Hibernating,Australia,Education,Enterprise
+CUST_002097,25,2,604.8,2,1,2,212,5,Hibernating,Germany,Healthcare,Professional
+CUST_002098,21,2,174.58999999999997,3,1,1,311,5,About to Sleep,France,Energy,Basic
+CUST_002099,24,2,99.39,2,1,1,211,4,Hibernating,USA,Finance,Basic
+CUST_002100,21,2,443.41999999999996,3,1,2,312,6,About to Sleep,UK,Technology,Professional
+CUST_002101,23,2,85.3,2,1,1,211,4,Hibernating,Japan,Energy,Basic
+CUST_002102,21,2,7907.27,3,1,5,315,9,Potential Loyalists,USA,Manufacturing,Premium
+CUST_002103,51,1,314.59,1,1,1,111,3,Hibernating,USA,Consulting,Professional
+CUST_002104,49,1,222.97,1,1,1,111,3,Hibernating,France,Education,Professional
+CUST_002105,20,2,83.36,3,1,1,311,5,About to Sleep,USA,Technology,Basic
+CUST_002106,20,2,238.38,3,1,1,311,5,About to Sleep,USA,Manufacturing,Professional
+CUST_002107,23,1,83.73,2,1,1,211,4,Hibernating,Germany,Manufacturing,Basic
+CUST_002108,23,2,1193.63,2,1,3,213,6,Hibernating,France,Retail,Enterprise
+CUST_002109,18,2,356.96,3,1,2,312,6,About to Sleep,USA,Retail,Professional
+CUST_002110,21,2,117.66,3,1,1,311,5,About to Sleep,Canada,Energy,Basic
+CUST_002111,22,2,529.02,3,1,2,312,6,About to Sleep,UK,Real Estate,Professional
+CUST_002112,19,2,932.19,3,1,3,313,7,Potential Loyalists,Brazil,Manufacturing,Enterprise
+CUST_002113,20,2,281.49,3,1,1,311,5,About to Sleep,France,Manufacturing,Professional
+CUST_002114,22,2,486.76,3,1,2,312,6,About to Sleep,UK,Consulting,Professional
+CUST_002115,18,1,49.43,3,1,1,311,5,About to Sleep,Germany,Healthcare,Basic
+CUST_002116,50,1,240.0,1,1,1,111,3,Hibernating,Canada,Education,Professional
+CUST_002117,21,2,925.1800000000001,3,1,3,313,7,Potential Loyalists,UK,Manufacturing,Enterprise
+CUST_002118,21,2,159.65,3,1,1,311,5,About to Sleep,USA,Manufacturing,Basic
+CUST_002119,21,2,794.48,3,1,2,312,6,About to Sleep,USA,Finance,Enterprise
+CUST_002120,17,2,209.6,3,1,1,311,5,About to Sleep,Canada,Consulting,Basic
+CUST_002121,21,1,68.39,3,1,1,311,5,About to Sleep,Canada,Energy,Basic
+CUST_002122,21,2,236.82,3,1,1,311,5,About to Sleep,Australia,Finance,Professional
+CUST_002123,20,2,2787.6499999999996,3,1,4,314,8,Potential Loyalists,UK,Technology,Premium
+CUST_002124,19,2,80.67,3,1,1,311,5,About to Sleep,USA,Technology,Basic
+CUST_002125,20,2,3137.5,3,1,4,314,8,Potential Loyalists,France,Media,Premium
+CUST_002126,19,2,210.63,3,1,1,311,5,About to Sleep,UK,Consulting,Basic
+CUST_002127,16,2,512.78,3,1,2,312,6,About to Sleep,UK,Real Estate,Professional
+CUST_002128,20,2,379.28999999999996,3,1,2,312,6,About to Sleep,USA,Manufacturing,Professional
+CUST_002129,20,2,556.5,3,1,2,312,6,About to Sleep,Singapore,Retail,Professional
+CUST_002130,20,2,291.83000000000004,3,1,1,311,5,About to Sleep,UK,Energy,Professional
+CUST_002131,16,2,1582.13,3,1,3,313,7,Potential Loyalists,USA,Real Estate,Enterprise
+CUST_002132,18,2,198.26999999999998,3,1,1,311,5,About to Sleep,UK,Healthcare,Basic
+CUST_002133,17,2,273.48,3,1,1,311,5,About to Sleep,France,Real Estate,Professional
+CUST_002134,16,2,175.51,3,1,1,311,5,About to Sleep,France,Manufacturing,Basic
+CUST_002135,16,2,4452.67,3,1,4,314,8,Potential Loyalists,Australia,Real Estate,Premium
+CUST_002136,16,1,1452.82,3,1,3,313,7,Potential Loyalists,France,Retail,Premium
+CUST_002137,15,2,341.03,4,1,2,412,7,New Customers,USA,Consulting,Professional
+CUST_002138,14,2,402.52,4,1,2,412,7,New Customers,France,Education,Professional
+CUST_002139,16,2,205.99,3,1,1,311,5,About to Sleep,UK,Education,Basic
+CUST_002140,14,2,138.4,4,1,1,411,6,New Customers,USA,Education,Basic
+CUST_002141,16,2,253.76,3,1,1,311,5,About to Sleep,USA,Technology,Professional
+CUST_002142,14,2,122.78,4,1,1,411,6,New Customers,USA,Healthcare,Basic
+CUST_002143,18,2,618.4,3,1,2,312,6,About to Sleep,Germany,Real Estate,Professional
+CUST_002144,18,2,580.48,3,1,2,312,6,About to Sleep,Japan,Manufacturing,Professional
+CUST_002145,14,2,1633.44,4,1,3,413,8,Potential Loyalists,UK,Consulting,Enterprise
+CUST_002146,14,1,53.99,4,1,1,411,6,New Customers,Germany,Energy,Basic
+CUST_002147,14,2,1198.8000000000002,4,1,3,413,8,Potential Loyalists,Germany,Healthcare,Enterprise
+CUST_002148,13,2,194.41,4,1,1,411,6,New Customers,UK,Healthcare,Basic
+CUST_002149,43,1,103.34,1,1,1,111,3,Hibernating,USA,Energy,Basic
+CUST_002150,47,1,209.98,1,1,1,111,3,Hibernating,UK,Consulting,Professional
+CUST_002151,46,1,1678.14,1,1,3,113,5,Hibernating,USA,Consulting,Premium
+CUST_002152,17,2,674.3299999999999,3,1,2,312,6,About to Sleep,Australia,Finance,Professional
+CUST_002153,15,2,78.53999999999999,4,1,1,411,6,New Customers,Japan,Media,Basic
+CUST_002154,15,1,297.61,4,1,1,411,6,New Customers,Germany,Retail,Professional
+CUST_002155,16,2,1381.67,3,1,3,313,7,Potential Loyalists,Japan,Consulting,Enterprise
+CUST_002156,15,2,4890.75,4,1,5,415,10,Potential Loyalists,USA,Media,Premium
+CUST_002157,15,2,1561.56,4,1,3,413,8,Potential Loyalists,USA,Education,Enterprise
+CUST_002158,13,2,95.75999999999999,4,1,1,411,6,New Customers,Singapore,Retail,Basic
+CUST_002159,15,2,182.93,4,1,1,411,6,New Customers,Canada,Healthcare,Basic
+CUST_002160,15,2,606.54,4,1,2,412,7,New Customers,UK,Consulting,Professional
+CUST_002161,44,1,2501.46,1,1,4,114,6,Hibernating,France,Healthcare,Premium
+CUST_002162,13,2,469.85,4,1,2,412,7,New Customers,Canada,Real Estate,Professional
+CUST_002163,13,2,5981.09,4,1,5,415,10,Potential Loyalists,Australia,Healthcare,Premium
+CUST_002164,13,2,3753.8999999999996,4,1,4,414,9,Potential Loyalists,USA,Finance,Premium
+CUST_002165,10,2,958.68,4,1,3,413,8,Potential Loyalists,USA,Media,Enterprise
+CUST_002166,10,2,176.86,4,1,1,411,6,New Customers,USA,Healthcare,Basic
+CUST_002167,14,2,585.47,4,1,2,412,7,New Customers,UK,Consulting,Professional
+CUST_002168,13,2,118.67,4,1,1,411,6,New Customers,UK,Media,Basic
+CUST_002169,14,2,826.37,4,1,2,412,7,New Customers,France,Technology,Enterprise
+CUST_002170,10,2,221.62,4,1,1,411,6,New Customers,UK,Finance,Basic
+CUST_002171,12,2,188.82999999999998,4,1,1,411,6,New Customers,UK,Technology,Basic
+CUST_002172,11,2,1434.59,4,1,3,413,8,Potential Loyalists,Japan,Finance,Enterprise
+CUST_002173,12,2,128.38,4,1,1,411,6,New Customers,France,Manufacturing,Basic
+CUST_002174,11,2,430.59000000000003,4,1,2,412,7,New Customers,Australia,Consulting,Professional
+CUST_002175,11,2,538.72,4,1,2,412,7,New Customers,Japan,Retail,Professional
+CUST_002176,11,2,367.28,4,1,2,412,7,New Customers,Australia,Education,Professional
+CUST_002177,11,2,6507.99,4,1,5,415,10,Potential Loyalists,UK,Manufacturing,Premium
+CUST_002178,10,2,556.0,4,1,2,412,7,New Customers,Germany,Media,Professional
+CUST_002179,9,2,681.04,4,1,2,412,7,New Customers,USA,Education,Professional
+CUST_002180,8,2,67.62,5,1,1,511,7,New Customers,France,Consulting,Basic
+CUST_002181,8,2,412.97,5,1,2,512,8,New Customers,USA,Energy,Professional
+CUST_002182,11,2,619.04,4,1,2,412,7,New Customers,Australia,Finance,Professional
+CUST_002183,10,2,462.35,4,1,2,412,7,New Customers,USA,Technology,Professional
+CUST_002184,11,1,341.0,4,1,1,411,6,New Customers,USA,Energy,Professional
+CUST_002185,10,2,180.5,4,1,1,411,6,New Customers,USA,Technology,Basic
+CUST_002186,9,1,41.6,4,1,1,411,6,New Customers,USA,Education,Basic
+CUST_002187,9,2,205.32,4,1,1,411,6,New Customers,USA,Manufacturing,Basic
+CUST_002188,7,2,426.72,5,1,2,512,8,New Customers,Germany,Retail,Professional
+CUST_002189,10,2,1334.06,4,1,3,413,8,Potential Loyalists,UK,Consulting,Enterprise
+CUST_002190,10,2,545.72,4,1,2,412,7,New Customers,USA,Education,Professional
+CUST_002191,8,2,130.11,5,1,1,511,7,New Customers,USA,Media,Basic
+CUST_002192,11,2,325.25,4,1,1,411,6,New Customers,France,Energy,Professional
+CUST_002193,10,2,444.26,4,1,2,412,7,New Customers,Japan,Finance,Professional
+CUST_002194,11,2,154.69,4,1,1,411,6,New Customers,India,Retail,Basic
+CUST_002195,9,2,202.12,4,1,1,411,6,New Customers,USA,Education,Basic
+CUST_002196,7,2,362.14,5,1,2,512,8,New Customers,USA,Finance,Professional
+CUST_002197,7,2,88.1,5,1,1,511,7,New Customers,France,Finance,Basic
+CUST_002198,7,2,1730.98,5,1,3,513,9,Potential Loyalists,India,Healthcare,Enterprise
+CUST_002199,10,2,182.46,4,1,1,411,6,New Customers,USA,Finance,Basic
+CUST_002200,7,2,172.82,5,1,1,511,7,New Customers,USA,Real Estate,Basic
+CUST_002201,9,2,265.59000000000003,4,1,1,411,6,New Customers,USA,Finance,Professional
+CUST_002202,6,2,248.6,5,1,1,511,7,New Customers,USA,Media,Basic
+CUST_002203,6,2,654.8599999999999,5,1,2,512,8,New Customers,Singapore,Consulting,Professional
+CUST_002204,8,2,96.26,5,1,1,511,7,New Customers,India,Consulting,Basic
+CUST_002205,8,2,424.25,5,1,2,512,8,New Customers,UK,Energy,Professional
+CUST_002206,5,2,141.26,5,1,1,511,7,New Customers,USA,Real Estate,Basic
+CUST_002207,38,1,156.53,1,1,1,111,3,Hibernating,Canada,Retail,Professional
+CUST_002208,7,2,233.45,5,1,1,511,7,New Customers,UK,Consulting,Professional
+CUST_002209,5,2,202.38,5,1,1,511,7,New Customers,UK,Real Estate,Basic
+CUST_002210,5,2,179.79000000000002,5,1,1,511,7,New Customers,UK,Retail,Basic
+CUST_002211,5,2,4129.11,5,1,4,514,10,Potential Loyalists,USA,Manufacturing,Premium
+CUST_002212,7,2,491.91999999999996,5,1,2,512,8,New Customers,France,Energy,Professional
+CUST_002213,8,2,226.22,5,1,1,511,7,New Customers,UK,Technology,Basic
+CUST_002214,6,2,144.76,5,1,1,511,7,New Customers,USA,Consulting,Basic
+CUST_002215,5,2,876.47,5,1,2,512,8,New Customers,USA,Education,Enterprise
+CUST_002216,5,2,670.8199999999999,5,1,2,512,8,New Customers,Canada,Real Estate,Professional
+CUST_002217,4,2,912.21,5,1,3,513,9,Potential Loyalists,Germany,Healthcare,Enterprise
+CUST_002218,6,2,227.79000000000002,5,1,1,511,7,New Customers,USA,Energy,Basic
+CUST_002219,34,1,704.38,1,1,2,112,4,Hibernating,UK,Manufacturing,Enterprise
+CUST_002220,7,2,151.38,5,1,1,511,7,New Customers,Singapore,Healthcare,Basic
+CUST_002221,5,2,825.88,5,1,2,512,8,New Customers,Japan,Consulting,Enterprise
+CUST_002222,5,2,166.07,5,1,1,511,7,New Customers,USA,Real Estate,Basic
+CUST_002223,5,2,5770.62,5,1,5,515,11,Potential Loyalists,UK,Healthcare,Premium
+CUST_002224,6,1,980.48,5,1,3,513,9,Potential Loyalists,USA,Energy,Enterprise
+CUST_002225,7,2,511.35,5,1,2,512,8,New Customers,UK,Manufacturing,Professional
+CUST_002226,7,2,466.90999999999997,5,1,2,512,8,New Customers,UK,Education,Professional
+CUST_002227,3,2,1429.31,5,1,3,513,9,Potential Loyalists,Japan,Technology,Enterprise
+CUST_002228,2,2,211.70999999999998,5,1,1,511,7,New Customers,Japan,Energy,Basic
+CUST_002229,4,2,183.62,5,1,1,511,7,New Customers,Canada,Consulting,Basic
+CUST_002230,6,2,393.27,5,1,2,512,8,New Customers,UK,Media,Professional
+CUST_002231,5,2,356.04999999999995,5,1,2,512,8,New Customers,UK,Manufacturing,Professional
+CUST_002232,6,2,178.72,5,1,1,511,7,New Customers,Singapore,Technology,Basic
+CUST_002233,3,2,186.92,5,1,1,511,7,New Customers,Canada,Consulting,Basic
+CUST_002234,2,2,108.43,5,1,1,511,7,New Customers,USA,Consulting,Basic
+CUST_002235,4,2,1612.69,5,1,3,513,9,Potential Loyalists,India,Real Estate,Enterprise
+CUST_002236,5,1,1280.05,5,1,3,513,9,Potential Loyalists,Brazil,Consulting,Premium
+CUST_002237,5,2,199.14999999999998,5,1,1,511,7,New Customers,USA,Manufacturing,Basic
+CUST_002238,3,2,239.44,5,1,1,511,7,New Customers,France,Consulting,Professional
+CUST_002239,33,1,39.37,1,1,1,111,3,Hibernating,UK,Real Estate,Basic
+CUST_002240,1,2,266.63,5,1,1,511,7,New Customers,France,Energy,Professional
+CUST_002241,4,2,346.0,5,2,2,522,9,New Customers,USA,Manufacturing,Professional
+CUST_002242,3,2,354.63,5,2,2,522,9,New Customers,Germany,Consulting,Professional
+CUST_002243,2,2,235.71,5,2,1,521,8,New Customers,USA,Manufacturing,Professional
+CUST_002244,1,2,165.83999999999997,5,2,1,521,8,New Customers,USA,Healthcare,Basic
+CUST_002245,3,2,576.3299999999999,5,2,2,522,9,New Customers,Australia,Consulting,Professional
+CUST_002246,0,2,393.08,5,2,2,522,9,New Customers,USA,Real Estate,Professional
+CUST_002247,2,2,1099.74,5,2,3,523,10,Potential Loyalists,Germany,Finance,Enterprise
+CUST_002248,3,2,458.56,5,2,2,522,9,New Customers,Canada,Retail,Professional
+CUST_002249,31,1,122.38,1,1,1,111,3,Hibernating,Germany,Energy,Basic
+CUST_002250,29,1,338.32,2,1,1,211,4,Hibernating,USA,Education,Professional
+CUST_002251,30,1,253.3,2,1,1,211,4,Hibernating,France,Finance,Professional
+CUST_002252,31,1,101.42,1,1,1,111,3,Hibernating,USA,Finance,Basic
+CUST_002253,33,1,96.4,1,1,1,111,3,Hibernating,Germany,Media,Basic
+CUST_002254,29,1,87.97,2,1,1,211,4,Hibernating,Canada,Retail,Basic
+CUST_002255,30,1,1638.55,2,1,3,213,6,Hibernating,France,Finance,Premium
+CUST_002258,30,1,126.26,2,1,1,211,4,Hibernating,Germany,Healthcare,Professional
+CUST_002259,31,1,665.11,1,1,2,112,4,Hibernating,Germany,Real Estate,Enterprise
+CUST_002260,32,1,71.79,1,1,1,111,3,Hibernating,USA,Manufacturing,Basic
+CUST_002261,28,1,170.57,2,1,1,211,4,Hibernating,Japan,Energy,Professional
+CUST_002262,30,1,297.25,2,1,1,211,4,Hibernating,Brazil,Media,Professional
+CUST_002263,32,1,239.11,1,1,1,111,3,Hibernating,Australia,Finance,Professional
+CUST_002264,28,1,357.67,2,1,2,212,5,Hibernating,Canada,Media,Enterprise
+CUST_002265,28,1,63.18,2,1,1,211,4,Hibernating,France,Real Estate,Basic
+CUST_002266,32,1,110.63,1,1,1,111,3,Hibernating,USA,Education,Basic
+CUST_002267,27,1,40.88,2,1,1,211,4,Hibernating,USA,Technology,Basic
+CUST_002268,31,1,263.18,1,1,1,111,3,Hibernating,Germany,Energy,Professional
+CUST_002269,27,1,254.59,2,1,1,211,4,Hibernating,UK,Media,Professional
+CUST_002270,28,1,59.2,2,1,1,211,4,Hibernating,USA,Manufacturing,Basic
+CUST_002271,31,1,292.93,1,1,1,111,3,Hibernating,USA,Manufacturing,Professional
+CUST_002272,28,1,86.2,2,1,1,211,4,Hibernating,USA,Manufacturing,Basic
+CUST_002273,30,1,728.48,2,1,2,212,5,Hibernating,UK,Media,Enterprise
+CUST_002274,28,1,285.12,2,1,1,211,4,Hibernating,USA,Retail,Professional
+CUST_002275,27,1,981.55,2,1,3,213,6,Hibernating,France,Consulting,Enterprise
+CUST_002276,29,1,59.96,2,1,1,211,4,Hibernating,India,Energy,Basic
+CUST_002277,29,1,598.18,2,1,2,212,5,Hibernating,USA,Finance,Enterprise
+CUST_002278,28,1,265.87,2,1,1,211,4,Hibernating,Germany,Technology,Professional
+CUST_002279,27,1,114.78,2,1,1,211,4,Hibernating,France,Healthcare,Professional
+CUST_002280,28,1,2315.22,2,1,4,214,7,Hibernating,India,Healthcare,Premium
+CUST_002281,26,1,62.65,2,1,1,211,4,Hibernating,Canada,Real Estate,Basic
+CUST_002282,27,1,65.66,2,1,1,211,4,Hibernating,Japan,Manufacturing,Basic
+CUST_002283,26,1,356.39,2,1,2,212,5,Hibernating,USA,Technology,Enterprise
+CUST_002284,26,1,38.42,2,1,1,211,4,Hibernating,USA,Healthcare,Basic
+CUST_002286,29,1,327.37,2,1,1,211,4,Hibernating,Germany,Retail,Professional
+CUST_002287,27,1,922.17,2,1,3,213,6,Hibernating,USA,Healthcare,Enterprise
+CUST_002288,29,1,40.61,2,1,1,211,4,Hibernating,Australia,Healthcare,Basic
+CUST_002289,28,1,43.81,2,1,1,211,4,Hibernating,UK,Consulting,Basic
+CUST_002290,29,1,299.07,2,1,1,211,4,Hibernating,Singapore,Consulting,Professional
+CUST_002291,25,1,106.66,2,1,1,211,4,Hibernating,India,Finance,Basic
+CUST_002292,28,1,550.88,2,1,2,212,5,Hibernating,Australia,Finance,Enterprise
+CUST_002293,26,1,2658.78,2,1,4,214,7,Hibernating,Canada,Real Estate,Premium
+CUST_002294,28,1,83.93,2,1,1,211,4,Hibernating,UK,Healthcare,Basic
+CUST_002295,24,1,416.46,2,1,2,212,5,Hibernating,Canada,Manufacturing,Professional
+CUST_002296,27,1,54.44,2,1,1,211,4,Hibernating,France,Education,Basic
+CUST_002297,24,1,55.96,2,1,1,211,4,Hibernating,Germany,Healthcare,Basic
+CUST_002298,26,1,204.03,2,1,1,211,4,Hibernating,UK,Technology,Professional
+CUST_002300,24,1,110.13,2,1,1,211,4,Hibernating,UK,Manufacturing,Basic
+CUST_002301,25,1,489.41,2,1,2,212,5,Hibernating,USA,Manufacturing,Enterprise
+CUST_002302,25,1,72.05,2,1,1,211,4,Hibernating,Brazil,Healthcare,Basic
+CUST_002303,25,1,823.59,2,1,2,212,5,Hibernating,Australia,Retail,Enterprise
+CUST_002304,25,1,84.86,2,1,1,211,4,Hibernating,Japan,Finance,Basic
+CUST_002305,24,1,44.72,2,1,1,211,4,Hibernating,India,Healthcare,Basic
+CUST_002306,22,1,51.84,3,1,1,311,5,About to Sleep,UK,Media,Basic
+CUST_002307,26,1,106.7,2,1,1,211,4,Hibernating,Germany,Healthcare,Basic
+CUST_002308,26,1,41.33,2,1,1,211,4,Hibernating,USA,Manufacturing,Basic
+CUST_002309,24,1,403.75,2,1,2,212,5,Hibernating,Australia,Healthcare,Enterprise
+CUST_002310,24,1,958.86,2,1,3,213,6,Hibernating,UK,Manufacturing,Enterprise
+CUST_002311,25,1,1049.82,2,1,3,213,6,Hibernating,Japan,Technology,Enterprise
+CUST_002312,24,1,259.86,2,1,1,211,4,Hibernating,USA,Finance,Professional
+CUST_002313,21,1,332.79,3,1,1,311,5,About to Sleep,India,Technology,Professional
+CUST_002314,21,1,173.52,3,1,1,311,5,About to Sleep,UK,Media,Professional
+CUST_002315,22,1,320.23,3,1,1,311,5,About to Sleep,France,Education,Professional
+CUST_002316,23,1,33.27,2,1,1,211,4,Hibernating,USA,Consulting,Basic
+CUST_002317,23,1,737.04,2,1,2,212,5,Hibernating,Australia,Real Estate,Enterprise
+CUST_002318,21,1,3122.07,3,1,4,314,8,Potential Loyalists,USA,Media,Premium
+CUST_002319,22,1,234.71,3,1,1,311,5,About to Sleep,UK,Healthcare,Professional
+CUST_002320,20,1,655.76,3,1,2,312,6,About to Sleep,Australia,Technology,Enterprise
+CUST_002321,19,1,42.85,3,1,1,311,5,About to Sleep,India,Real Estate,Basic
+CUST_002322,20,1,107.58,3,1,1,311,5,About to Sleep,Japan,Energy,Basic
+CUST_002323,22,1,186.92,3,1,1,311,5,About to Sleep,Canada,Education,Professional
+CUST_002324,19,1,65.85,3,1,1,311,5,About to Sleep,Canada,Manufacturing,Basic
+CUST_002325,21,1,63.25,3,1,1,311,5,About to Sleep,Japan,Healthcare,Basic
+CUST_002326,22,1,130.08,3,1,1,311,5,About to Sleep,USA,Education,Professional
+CUST_002327,20,1,969.57,3,1,3,313,7,Potential Loyalists,Germany,Real Estate,Enterprise
+CUST_002328,19,1,84.24,3,1,1,311,5,About to Sleep,UK,Manufacturing,Basic
+CUST_002329,22,1,237.93,3,1,1,311,5,About to Sleep,Japan,Finance,Professional
+CUST_002330,18,1,261.58,3,1,1,311,5,About to Sleep,USA,Media,Professional
+CUST_002331,22,1,275.77,3,1,1,311,5,About to Sleep,Germany,Manufacturing,Professional
+CUST_002332,20,1,850.97,3,1,2,312,6,About to Sleep,Germany,Healthcare,Enterprise
+CUST_002334,19,1,926.11,3,1,3,313,7,Potential Loyalists,USA,Real Estate,Enterprise
+CUST_002335,22,1,122.63,3,1,1,311,5,About to Sleep,Canada,Finance,Professional
+CUST_002337,17,1,53.34,3,1,1,311,5,About to Sleep,Canada,Consulting,Basic
+CUST_002338,19,1,391.99,3,1,2,312,6,About to Sleep,UK,Media,Enterprise
+CUST_002339,20,1,2675.5,3,1,4,314,8,Potential Loyalists,USA,Energy,Premium
+CUST_002340,18,1,239.17,3,1,1,311,5,About to Sleep,Canada,Real Estate,Professional
+CUST_002341,19,1,109.59,3,1,1,311,5,About to Sleep,USA,Real Estate,Basic
+CUST_002342,17,1,36.7,3,1,1,311,5,About to Sleep,India,Technology,Basic
+CUST_002343,19,1,60.09,3,1,1,311,5,About to Sleep,Australia,Technology,Basic
+CUST_002344,17,1,65.17,3,1,1,311,5,About to Sleep,USA,Technology,Basic
+CUST_002345,19,1,3005.7,3,1,4,314,8,Potential Loyalists,Germany,Retail,Premium
+CUST_002346,18,1,71.15,3,1,1,311,5,About to Sleep,UK,Energy,Basic
+CUST_002347,18,1,145.16,3,1,1,311,5,About to Sleep,UK,Energy,Professional
+CUST_002348,19,1,521.32,3,1,2,312,6,About to Sleep,UK,Consulting,Enterprise
+CUST_002349,18,1,124.07,3,1,1,311,5,About to Sleep,Germany,Healthcare,Professional
+CUST_002350,15,1,2310.66,4,1,4,414,9,Potential Loyalists,USA,Finance,Premium
+CUST_002351,14,1,70.76,4,1,1,411,6,New Customers,USA,Technology,Basic
+CUST_002352,18,1,123.97,3,1,1,311,5,About to Sleep,France,Consulting,Professional
+CUST_002353,16,1,116.84,3,1,1,311,5,About to Sleep,UK,Finance,Professional
+CUST_002355,18,1,218.9,3,1,1,311,5,About to Sleep,Japan,Healthcare,Professional
+CUST_002356,15,1,310.09,4,1,1,411,6,New Customers,UK,Finance,Professional
+CUST_002357,14,1,1021.54,4,1,3,413,8,Potential Loyalists,USA,Healthcare,Enterprise
+CUST_002358,18,1,42.64,3,1,1,311,5,About to Sleep,Germany,Healthcare,Basic
+CUST_002359,18,1,3546.0,3,1,4,314,8,Potential Loyalists,France,Consulting,Premium
+CUST_002360,13,1,400.59,4,1,2,412,7,New Customers,UK,Retail,Enterprise
+CUST_002362,15,1,215.67,4,1,1,411,6,New Customers,USA,Media,Professional
+CUST_002363,15,1,78.06,4,1,1,411,6,New Customers,USA,Consulting,Basic
+CUST_002364,14,1,1027.71,4,1,3,413,8,Potential Loyalists,Brazil,Education,Enterprise
+CUST_002365,13,1,93.2,4,1,1,411,6,New Customers,Canada,Retail,Basic
+CUST_002366,16,1,47.78,3,1,1,311,5,About to Sleep,USA,Consulting,Basic
+CUST_002367,16,1,447.61,3,1,2,312,6,About to Sleep,Canada,Healthcare,Enterprise
+CUST_002368,12,1,93.71,4,1,1,411,6,New Customers,UK,Finance,Basic
+CUST_002369,15,1,87.9,4,1,1,411,6,New Customers,Germany,Finance,Basic
+CUST_002370,15,1,151.43,4,1,1,411,6,New Customers,UK,Energy,Professional
+CUST_002371,14,1,108.98,4,1,1,411,6,New Customers,Canada,Retail,Basic
+CUST_002372,13,1,1480.62,4,1,3,413,8,Potential Loyalists,USA,Technology,Premium
+CUST_002373,12,1,63.18,4,1,1,411,6,New Customers,USA,Consulting,Basic
+CUST_002374,14,1,34.31,4,1,1,411,6,New Customers,USA,Finance,Basic
+CUST_002375,15,1,408.48,4,1,2,412,7,New Customers,UK,Real Estate,Enterprise
+CUST_002376,14,1,157.45,4,1,1,411,6,New Customers,UK,Technology,Professional
+CUST_002377,10,1,279.12,4,1,1,411,6,New Customers,Canada,Healthcare,Professional
+CUST_002378,13,1,1058.55,4,1,3,413,8,Potential Loyalists,Japan,Consulting,Enterprise
+CUST_002379,14,1,886.46,4,1,3,413,8,Potential Loyalists,USA,Media,Enterprise
+CUST_002380,12,1,2728.49,4,1,4,414,9,Potential Loyalists,Germany,Real Estate,Premium
+CUST_002381,13,1,1495.13,4,1,3,413,8,Potential Loyalists,Germany,Retail,Premium
+CUST_002382,10,1,75.44,4,1,1,411,6,New Customers,Australia,Manufacturing,Basic
+CUST_002383,12,1,1708.41,4,1,3,413,8,Potential Loyalists,Germany,Media,Premium
+CUST_002384,12,1,80.98,4,1,1,411,6,New Customers,Japan,Finance,Basic
+CUST_002387,9,1,1103.31,4,1,3,413,8,Potential Loyalists,USA,Healthcare,Enterprise
+CUST_002388,11,1,828.92,4,1,2,412,7,New Customers,UK,Manufacturing,Enterprise
+CUST_002389,9,1,79.64,4,1,1,411,6,New Customers,USA,Technology,Basic
+CUST_002391,10,1,113.88,4,1,1,411,6,New Customers,USA,Energy,Basic
+CUST_002392,11,1,63.28,4,1,1,411,6,New Customers,Germany,Consulting,Basic
+CUST_002394,8,1,982.18,5,1,3,513,9,Potential Loyalists,Japan,Real Estate,Enterprise
+CUST_002395,12,1,54.81,4,1,1,411,6,New Customers,Germany,Retail,Basic
+CUST_002397,10,1,88.87,4,1,1,411,6,New Customers,USA,Finance,Basic
+CUST_002398,9,1,72.12,4,1,1,411,6,New Customers,USA,Real Estate,Basic
+CUST_002399,9,1,893.4,4,1,3,413,8,Potential Loyalists,USA,Finance,Enterprise
+CUST_002400,9,1,124.04,4,1,1,411,6,New Customers,USA,Technology,Professional
+CUST_002401,7,1,57.07,5,1,1,511,7,New Customers,USA,Education,Basic
+CUST_002402,6,1,52.79,5,1,1,511,7,New Customers,Brazil,Media,Basic
+CUST_002403,9,1,301.46,4,1,1,411,6,New Customers,Japan,Consulting,Professional
+CUST_002404,9,1,1240.94,4,1,3,413,8,Potential Loyalists,USA,Real Estate,Premium
+CUST_002405,6,1,1079.19,5,1,3,513,9,Potential Loyalists,USA,Technology,Enterprise
+CUST_002406,5,1,469.29,5,1,2,512,8,New Customers,USA,Finance,Enterprise
+CUST_002408,8,1,1312.88,5,1,3,513,9,Potential Loyalists,Australia,Healthcare,Premium
+CUST_002409,8,1,938.06,5,1,3,513,9,Potential Loyalists,Brazil,Retail,Enterprise
+CUST_002410,8,1,81.11,5,1,1,511,7,New Customers,Brazil,Consulting,Basic
+CUST_002411,7,1,71.52,5,1,1,511,7,New Customers,USA,Media,Basic
+CUST_002412,7,1,52.35,5,1,1,511,7,New Customers,UK,Education,Basic
+CUST_002413,4,1,59.66,5,1,1,511,7,New Customers,Germany,Healthcare,Basic
+CUST_002414,8,1,51.83,5,1,1,511,7,New Customers,Canada,Healthcare,Basic
+CUST_002416,3,1,316.12,5,1,1,511,7,New Customers,Australia,Media,Professional
+CUST_002417,5,1,70.03,5,1,1,511,7,New Customers,France,Healthcare,Basic
+CUST_002418,3,1,37.3,5,1,1,511,7,New Customers,Germany,Real Estate,Basic
+CUST_002419,5,1,149.93,5,1,1,511,7,New Customers,UK,Media,Professional
+CUST_002420,2,1,71.0,5,1,1,511,7,New Customers,USA,Consulting,Basic
+CUST_002421,2,1,2026.14,5,1,4,514,10,Potential Loyalists,India,Media,Premium
+CUST_002422,2,1,92.82,5,1,1,511,7,New Customers,UK,Real Estate,Basic
+CUST_002423,3,1,113.57,5,1,1,511,7,New Customers,USA,Education,Basic
+CUST_002424,5,1,59.95,5,1,1,511,7,New Customers,India,Retail,Basic
+CUST_002425,4,1,87.29,5,1,1,511,7,New Customers,Australia,Technology,Basic
+CUST_002426,1,1,55.91,5,1,1,511,7,New Customers,Singapore,Technology,Basic
+CUST_002427,3,1,103.75,5,1,1,511,7,New Customers,Australia,Healthcare,Basic
+CUST_002428,2,1,66.47,5,1,1,511,7,New Customers,France,Real Estate,Basic
+CUST_002429,4,1,1657.51,5,1,3,513,9,Potential Loyalists,USA,Education,Premium
+CUST_002430,1,1,836.54,5,1,2,512,8,New Customers,Brazil,Manufacturing,Enterprise
+CUST_002431,4,1,1173.65,5,1,3,513,9,Potential Loyalists,France,Consulting,Enterprise
+CUST_002432,4,1,113.66,5,1,1,511,7,New Customers,USA,Consulting,Basic
+CUST_002433,3,1,133.62,5,1,1,511,7,New Customers,UK,Retail,Professional
+CUST_002434,0,1,74.08,5,1,1,511,7,New Customers,UK,Energy,Basic
+CUST_002435,1,1,825.76,5,1,2,512,8,New Customers,France,Retail,Enterprise
+CUST_002436,2,1,54.99,5,1,1,511,7,New Customers,UK,Real Estate,Basic
+CUST_002437,4,1,91.4,5,1,1,511,7,New Customers,USA,Media,Basic
+CUST_002438,0,1,170.24,5,1,1,511,7,New Customers,USA,Retail,Professional
+CUST_002439,3,1,246.71,5,1,1,511,7,New Customers,France,Media,Professional
+CUST_002440,3,1,1098.87,5,1,3,513,9,Potential Loyalists,UK,Consulting,Enterprise
+CUST_002441,0,1,316.19,5,1,1,511,7,New Customers,USA,Consulting,Professional
+CUST_002442,3,1,113.37,5,1,1,511,7,New Customers,Australia,Media,Basic
+CUST_002443,1,1,1127.72,5,1,3,513,9,Potential Loyalists,USA,Technology,Enterprise
+CUST_002444,1,1,120.77,5,1,1,511,7,New Customers,UK,Energy,Professional
+CUST_002445,1,1,202.14,5,1,1,511,7,New Customers,USA,Energy,Professional
+CUST_002446,1,1,70.85,5,1,1,511,7,New Customers,UK,Healthcare,Basic
+CUST_002448,3,1,88.43,5,1,1,511,7,New Customers,UK,Technology,Basic
+CUST_002449,0,1,111.54,5,1,1,511,7,New Customers,USA,Media,Basic
+CUST_002451,3,1,261.08,5,1,1,511,7,New Customers,USA,Retail,Professional
+CUST_002452,1,1,34.37,5,1,1,511,7,New Customers,USA,Healthcare,Basic
+CUST_002453,2,1,47.15,5,1,1,511,7,New Customers,Brazil,Manufacturing,Basic
+CUST_002454,1,1,101.48,5,1,1,511,7,New Customers,India,Real Estate,Basic
+CUST_002455,2,1,118.28,5,1,1,511,7,New Customers,Canada,Consulting,Professional
+CUST_002456,0,1,217.42,5,1,1,511,7,New Customers,Brazil,Real Estate,Professional
+CUST_002457,1,1,104.72,5,1,1,511,7,New Customers,Germany,Finance,Basic
+CUST_002458,0,1,491.26,5,1,2,512,8,New Customers,USA,Media,Enterprise
+CUST_002459,4,1,83.63,5,1,1,511,7,New Customers,UK,Education,Basic
+CUST_002460,3,1,104.27,5,1,1,511,7,New Customers,Australia,Technology,Basic
+CUST_002461,4,1,201.62,5,1,1,511,7,New Customers,India,Healthcare,Professional
+CUST_002462,0,1,765.2,5,1,2,512,8,New Customers,France,Education,Enterprise
+CUST_002463,4,1,67.63,5,1,1,511,7,New Customers,USA,Manufacturing,Basic
+CUST_002464,4,1,90.8,5,1,1,511,7,New Customers,Germany,Manufacturing,Basic
+CUST_002466,0,1,94.98,5,1,1,511,7,New Customers,UK,Retail,Basic
+CUST_002467,0,1,253.64,5,1,1,511,7,New Customers,India,Healthcare,Professional
+CUST_002468,4,1,91.81,5,1,1,511,7,New Customers,Germany,Education,Basic
+CUST_002469,4,1,228.62,5,1,1,511,7,New Customers,Brazil,Technology,Professional
+CUST_002470,0,1,1054.72,5,1,3,513,9,Potential Loyalists,Australia,Education,Enterprise
+CUST_002471,2,1,200.2,5,1,1,511,7,New Customers,UK,Healthcare,Professional
+CUST_002472,2,1,84.28,5,1,1,511,7,New Customers,Japan,Real Estate,Basic
+CUST_002473,1,1,2821.65,5,1,4,514,10,Potential Loyalists,Australia,Education,Premium
+CUST_002474,3,1,270.9,5,1,1,511,7,New Customers,France,Energy,Professional
+CUST_002475,2,1,923.22,5,1,3,513,9,Potential Loyalists,Australia,Energy,Enterprise
+CUST_002476,3,1,44.11,5,1,1,511,7,New Customers,UK,Retail,Basic
+CUST_002477,2,1,171.87,5,1,1,511,7,New Customers,UK,Education,Professional
+CUST_002478,3,1,267.05,5,1,1,511,7,New Customers,Germany,Healthcare,Professional
+CUST_002479,4,1,312.78,5,1,1,511,7,New Customers,UK,Consulting,Professional
+CUST_002480,3,1,287.79,5,1,1,511,7,New Customers,USA,Retail,Professional
+CUST_002481,4,1,59.51,5,1,1,511,7,New Customers,Germany,Retail,Basic
+CUST_002482,1,1,229.71,5,1,1,511,7,New Customers,USA,Manufacturing,Professional
+CUST_002483,1,1,55.3,5,1,1,511,7,New Customers,Germany,Media,Basic
+CUST_002484,4,1,199.71,5,1,1,511,7,New Customers,India,Healthcare,Professional
+CUST_002485,2,1,226.77,5,1,1,511,7,New Customers,India,Real Estate,Professional
+CUST_002486,0,1,1003.07,5,1,3,513,9,Potential Loyalists,Germany,Energy,Enterprise
+CUST_002487,3,1,406.95,5,1,2,512,8,New Customers,Germany,Real Estate,Professional
+CUST_002488,4,1,317.98,5,1,1,511,7,New Customers,USA,Energy,Professional
+CUST_002489,2,1,84.96,5,1,1,511,7,New Customers,USA,Real Estate,Basic
+CUST_002491,2,1,41.07,5,1,1,511,7,New Customers,Singapore,Real Estate,Basic
+CUST_002492,4,1,1067.21,5,1,3,513,9,Potential Loyalists,France,Media,Enterprise
+CUST_002493,2,1,110.74,5,1,1,511,7,New Customers,Germany,Manufacturing,Basic
+CUST_002494,0,1,140.06,5,1,1,511,7,New Customers,Canada,Healthcare,Professional
+CUST_002495,2,1,441.0,5,1,2,512,8,New Customers,Canada,Manufacturing,Enterprise
+CUST_002496,0,1,225.81,5,1,1,511,7,New Customers,Singapore,Finance,Professional
+CUST_002497,2,1,235.57,5,1,1,511,7,New Customers,UK,Retail,Professional
+CUST_002498,3,1,584.76,5,1,2,512,8,New Customers,USA,Technology,Enterprise
+CUST_002499,1,1,109.49,5,1,1,511,7,New Customers,USA,Energy,Basic
+CUST_002500,3,1,190.4,5,1,1,511,7,New Customers,Australia,Real Estate,Professional

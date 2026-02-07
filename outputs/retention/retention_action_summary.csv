@@ -1,0 +1,4 @@
+risk_level,customer_count,total_revenue_at_risk,avg_value_score,avg_recommended_discount
+High,230,993142.89,14.21117391304348,20.9
+Medium,2,9000.550000000001,8.43,10.0
+Low,2268,9889404.290000001,10.936701940035272,5.1380070546737215
