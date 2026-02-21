@@ -5,6 +5,8 @@
 
 import streamlit as st
 import pandas as pd
+import matplotlib
+matplotlib.use("Agg")   # REQUIRED for cloud
 import matplotlib.pyplot as plt
 
 # -------------------------------------
@@ -113,3 +115,4 @@ st.dataframe(df, use_container_width=True)
 
 st.markdown("---")
 st.caption("Built with Streamlit | Financial Operations Analytics")
+
