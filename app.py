@@ -1,145 +1,115 @@
-# ===============================
+# =====================================
 # Financial Operations Analytics Dashboard
-# Production Frontend Layout
-# ===============================
+# Production Version (Deployment Safe)
+# =====================================
 
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-import seaborn as sns
 
-# -------------------------------
+# -------------------------------------
 # PAGE CONFIG
-# -------------------------------
+# -------------------------------------
 st.set_page_config(
-    page_title="Financial Operations Analytics Dashboard",
+    page_title="Financial Operations Analytics",
     page_icon="📊",
-    layout="wide",
-    initial_sidebar_state="expanded"
+    layout="wide"
 )
 
-# -------------------------------
+# -------------------------------------
 # LOAD DATA
-# -------------------------------
+# -------------------------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data/customers.csv")  # adjust path if needed
-    df = pd.read_csv("data/transactions.csv")  # adjust path if needed
-    st.write("Columns:", df.columns) 
-    df["Date"] = pd.to_datetime(df["Date"])
+
+    df = pd.read_csv("data/transactions.csv")
+
+    # Clean column names
+    df.columns = df.columns.str.strip().str.lower()
+
+    # Convert date column
+    df["date"] = pd.to_datetime(df["transaction_date"])
+
+    # Business metrics mapping
+    df["revenue"] = df["amount"]
+    df["expense"] = 0  # no expense data available
+    df["profit"] = df["revenue"] - df["expense"]
+
     return df
+
 
 df = load_data()
 
-# -------------------------------
-# SIDEBAR FILTERS
-# -------------------------------
-st.sidebar.title("📊 Dashboard Controls")
+# -------------------------------------
+# SIDEBAR FILTER
+# -------------------------------------
+st.sidebar.title("📊 Filters")
 
-years = df["Date"].dt.year.unique()
-selected_year = st.sidebar.selectbox("Select Year", sorted(years))
+years = sorted(df["date"].dt.year.unique())
+selected_year = st.sidebar.selectbox("Select Year", years)
 
-df = df[df["Date"].dt.year == selected_year]
+df = df[df["date"].dt.year == selected_year]
 
-if "Department" in df.columns:
-    departments = st.sidebar.multiselect(
-        "Select Department",
-        df["Department"].unique(),
-        default=df["Department"].unique()
-    )
-    df = df[df["Department"].isin(departments)]
-
-# -------------------------------
+# -------------------------------------
 # HEADER
-# -------------------------------
+# -------------------------------------
 st.title("📊 Financial Operations Analytics Dashboard")
-st.markdown(
-"""
-Interactive dashboard for monitoring **financial performance**, 
-**operational efficiency**, and **business KPIs**.
-"""
-)
+st.caption("Interactive financial performance monitoring")
+
 st.divider()
 
-# -------------------------------
-# KPI CALCULATIONS
-# -------------------------------
-total_revenue = df["Revenue"].sum()
-total_expense = df["Expense"].sum()
-profit = total_revenue - total_expense
-margin = (profit / total_revenue * 100) if total_revenue != 0 else 0
-
-# -------------------------------
+# -------------------------------------
 # KPI SECTION
-# -------------------------------
-col1, col2, col3, col4 = st.columns(4)
+# -------------------------------------
+total_revenue = df["revenue"].sum()
+total_expense = df["expense"].sum()
+profit = df["profit"].sum()
+
+col1, col2, col3 = st.columns(3)
 
 col1.metric("💰 Total Revenue", f"{total_revenue:,.0f}")
 col2.metric("💸 Total Expense", f"{total_expense:,.0f}")
 col3.metric("📈 Profit", f"{profit:,.0f}")
-col4.metric("📊 Profit Margin", f"{margin:.2f}%")
 
 st.divider()
 
-# -------------------------------
+# -------------------------------------
 # REVENUE TREND
-# -------------------------------
-st.subheader("📈 Financial Trend Analysis")
+# -------------------------------------
+st.subheader("📈 Revenue Trend")
 
-trend = df.groupby("Date")[["Revenue", "Expense"]].sum().reset_index()
-
-fig1, ax1 = plt.subplots(figsize=(10, 4))
-ax1.plot(trend["Date"], trend["Revenue"], label="Revenue")
-ax1.plot(trend["Date"], trend["Expense"], label="Expense")
-ax1.legend()
-ax1.set_title("Revenue vs Expense Trend")
-
-st.pyplot(fig1)
-
-# -------------------------------
-# DEPARTMENT ANALYSIS
-# -------------------------------
-if "Department" in df.columns:
-
-    st.subheader("🏢 Department Expense Analysis")
-
-    dept_expense = (
-        df.groupby("Department")["Expense"]
-        .sum()
-        .sort_values(ascending=False)
-    )
-
-    fig2, ax2 = plt.subplots()
-    sns.barplot(x=dept_expense.values, y=dept_expense.index, ax=ax2)
-    ax2.set_title("Expense by Department")
-
-    st.pyplot(fig2)
-
-# -------------------------------
-# PROFIT DISTRIBUTION
-# -------------------------------
-st.subheader("📊 Profit Distribution")
-
-df["Profit"] = df["Revenue"] - df["Expense"]
-
-fig3, ax3 = plt.subplots()
-sns.histplot(df["Profit"], kde=True, ax=ax3)
-ax3.set_title("Profit Distribution")
-
-st.pyplot(fig3)
-
-# -------------------------------
-# DATA TABLE
-# -------------------------------
-st.subheader("🔎 Financial Data View")
-st.dataframe(df, use_container_width=True)
-
-# -------------------------------
-# FOOTER
-# -------------------------------
-st.markdown("---")
-st.caption(
-"Financial Operations Analytics Dashboard | Built with Streamlit & Python"
+trend = (
+    df.groupby("date")["revenue"]
+    .sum()
+    .reset_index()
 )
 
+fig, ax = plt.subplots()
+ax.plot(trend["date"], trend["revenue"])
+ax.set_title("Revenue Over Time")
+ax.set_xlabel("Date")
+ax.set_ylabel("Revenue")
 
+st.pyplot(fig)
+
+# -------------------------------------
+# PAYMENT METHOD ANALYSIS
+# -------------------------------------
+st.subheader("💳 Revenue by Payment Method")
+
+payment_summary = (
+    df.groupby("payment_method")["revenue"]
+    .sum()
+    .sort_values(ascending=False)
+)
+
+st.bar_chart(payment_summary)
+
+# -------------------------------------
+# DATA VIEW
+# -------------------------------------
+st.subheader("🔎 Transaction Data")
+st.dataframe(df, use_container_width=True)
+
+st.markdown("---")
+st.caption("Built with Streamlit | Financial Operations Analytics")
