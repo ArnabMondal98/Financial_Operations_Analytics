@@ -6,8 +6,8 @@
 # =====================================================
 
 # Core Data Processing
-pandas>=2.0.0
-numpy>=1.24.0
+pandas==2.2.2
+numpy==1.26.4
 openpyxl>=3.1.0
 xlsxwriter>=3.1.0
 
@@ -20,8 +20,8 @@ prophet>=1.1.0
 statsmodels>=0.14.0
 
 # Visualization
-matplotlib>=3.7.0
-seaborn>=0.12.0
+matplotlib==3.8.4
+seaborn==0.13.2
 plotly>=5.15.0
 
 # Jupyter Notebook Support
@@ -40,7 +40,6 @@ pytest-cov>=4.1.0
 black>=23.7.0
 flake8>=6.1.0
 
-streamlit
-pandas
-matplotlib
-numpy
+streamlit==1.32.2
+altair==4.2.2
+
