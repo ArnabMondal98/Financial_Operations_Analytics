@@ -23,7 +23,8 @@ st.set_page_config(
 # -------------------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data/financial_data.csv")  # adjust path if needed
+    df = pd.read_csv("data/customers.csv")  # adjust path if needed
+    df = pd.read_csv("data/transactions.csv")  # adjust path if needed
     df["Date"] = pd.to_datetime(df["Date"])
     return df
 
@@ -139,3 +140,4 @@ st.markdown("---")
 st.caption(
 "Financial Operations Analytics Dashboard | Built with Streamlit & Python"
 )
+
